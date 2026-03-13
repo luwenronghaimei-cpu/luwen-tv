@@ -1,0 +1,1911 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://epg.v1.mk/logo/晴彩广场舞.png" group-title="其他",晴彩广场舞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="晴彩中原" tvg-name="晴彩中原" tvg-logo="https://epg.v1.mk/logo/晴彩中原.png" group-title="其他",晴彩少年「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="晴彩中原" tvg-name="晴彩中原" tvg-logo="https://epg.v1.mk/logo/晴彩中原.png" group-title="其他",晴彩竞技「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://epg.v1.mk/logo/晴彩篮球.png" group-title="其他",晴彩篮球「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟜𝕂-𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟜𝕂-𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟙𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟚𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕直播 𝟛𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
+http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
+http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
+http://p.ytelc.com/169l/0/cctv.php?id=cctv15
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
+http://p.ytelc.com/169l/0/cctv.php?id=cctv16
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
+http://p.ytelc.com/169l/0/cctv.php?id=cctv17
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",CCTV4K
+http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东",广东卫视
+http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
+http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="山东",山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="四川",四川卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.v1.mk/logo/上海纪实.png" group-title="上海",上海纪实
+http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="其他",金鹰纪实
+http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="山东",山东教育
+http://iptv.huuc.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1,tvg-id="广东大湾区卫视" tvg-name="广东大湾区卫视" tvg-logo="https://epg.v1.mk/logo/广东大湾区卫视.png" group-title="广东",广东大湾区
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="广东",广东新闻
+http://119.32.12.17:2901/udp/224.1.100.5:11111
+#EXTINF:-1,tvg-id="广东公共" tvg-name="广东公共" tvg-logo="https://epg.v1.mk/logo/广东公共.png" group-title="广东",广东公共
+http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTINF:-1,tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://epg.v1.mk/logo/东莞新闻综合.png" group-title="其他",东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1,tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://epg.v1.mk/logo/东莞生活资讯.png" group-title="其他",东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港澳台",无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="港澳台",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.v1.mk/logo/澳视澳门.png" group-title="其他",澳视澳门
+http://r.jdshipin.com/n2YZI
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港澳台",明珠台
+http://67.220.71.199:2347/livehttpplay?channel_id=30026
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港澳台",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="其他",NOW新闻台
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="其他",VIUTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="其他",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.v1.mk/logo/民视新闻.png" group-title="港澳台",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.v1.mk/logo/台视新闻.png" group-title="港澳台",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="港澳台",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1,tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://epg.v1.mk/logo/华视新闻.png" group-title="港澳台",华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="台湾",民视台湾台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1,tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="https://epg.v1.mk/logo/公视台语台.png" group-title="其他",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="港澳台",中视菁采台
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1,tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://epg.v1.mk/logo/中视经典.png" group-title="港澳台",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1,tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://epg.v1.mk/logo/台视财经台.png" group-title="港澳台",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1,tvg-id="华视教育体育文化" tvg-name="华视教育体育文化" tvg-logo="https://epg.v1.mk/logo/华视教育体育文化.png" group-title="港澳台",华视教育体育
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1,tvg-id="NICETV靖天欢乐" tvg-name="NICETV靖天欢乐" tvg-logo="https://epg.v1.mk/logo/NICETV靖天欢乐.png" group-title="其他",靖天歡樂
+http://208.87.242.79/livehttpplay?channel_id=30021
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="卫视",星空卫视
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1,tvg-id="SCTV6星空购物" tvg-name="SCTV6星空购物" tvg-logo="https://epg.v1.mk/logo/SCTV6星空购物.png" group-title="其他",星空音乐
+http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+#EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.v1.mk/logo/龙华电影.png" group-title="其他",龙华电影
+https://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.v1.mk/logo/龙华戏剧.png" group-title="其他",龙华戏剧
+https://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1,tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.v1.mk/logo/龙华日韩.png" group-title="其他",龙华日韩
+https://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.v1.mk/logo/龙华偶像.png" group-title="其他",龙华偶像
+https://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.v1.mk/logo/龙华经典.png" group-title="其他",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」热门赛事
+https://live.iill.top/bilibili/10
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」CS 2
+https://live.iill.top/bilibili/21622811
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」CS 2
+https://live.iill.top/huya/483917
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」英雄联盟
+https://live.iill.top/bilibili/6
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」英雄联盟 𝟙
+https://live.iill.top/huya/660000
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」英雄联盟 𝟚
+https://live.iill.top/huya/660001
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」英雄联盟 𝟙
+https://live.iill.top/douyu/288016
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」英雄联盟 𝟚
+https://live.iill.top/douyu/424559
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」英雄联盟•手游
+https://live.iill.top/bilibili/23138275
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」王者荣耀 𝟙
+https://live.iill.top/bilibili/55
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」王者荣耀 𝟚
+https://live.iill.top/bilibili/21654762
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」王者荣耀 𝟙
+https://live.iill.top/huya/660002
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」王者荣耀 𝟚
+https://live.iill.top/huya/660164
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」王者荣耀 𝟙
+https://live.iill.top/douyu/1863767
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」王者荣耀 𝟚
+https://live.iill.top/douyu/1984839
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」绝地求生
+https://live.iill.top/bilibili/98
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」绝地求生 𝟙
+https://live.iill.top/huya/660004
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」绝地求生 𝟚
+https://live.iill.top/huya/660005
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」绝地求生
+https://live.iill.top/douyu/100
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」绝地地图
+https://live.iill.top/douyu/5818871
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」和平精英
+https://live.iill.top/huya/660006
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」和平精英
+https://live.iill.top/douyu/999
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」金铲铲之战
+https://live.iill.top/huya/660579
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」金铲铲之战
+https://live.iill.top/douyu/9715241
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」DOTA2
+https://live.iill.top/huya/660118
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」DOTA2
+https://live.iill.top/douyu/3811559
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」云顶之弈
+https://live.iill.top/douyu/522423
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」永劫无间
+https://live.iill.top/huya/660115
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」永劫无间
+https://live.iill.top/huya/9662891
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」使命召唤•手游
+https://live.iill.top/bilibili/22741849
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」使命召唤•手游
+https://live.iill.top/huya/11718629
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」使命召唤•手游
+https://live.iill.top/douyu/9223245
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」穿越火线
+https://live.iill.top/huya/660101
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」穿越火线 𝟙
+https://live.iill.top/douyu/605964
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」穿越火线 𝟚
+https://live.iill.top/douyu/5388537
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」穿越火线•手游
+https://live.iill.top/huya/660102
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」第五人格
+https://live.iill.top/bilibili/5555
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」第五人格
+https://live.iill.top/huya/idvesports
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」第五人格
+https://live.iill.top/douyu/3226194
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」逆战
+https://live.iill.top/huya/nsl2021
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」无畏契约
+https://live.iill.top/bilibili/22908869
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「虎牙」无畏契约
+https://live.iill.top/huya/660679
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」无畏契约
+https://live.iill.top/douyu/4585645
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」原神
+https://live.iill.top/douyu/10853239
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」QQ飞车•手游
+https://live.iill.top/bilibili/21743919
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」QQ飞车•手游
+https://live.iill.top/douyu/5040227
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」梦幻西游·手游
+https://live.iill.top/huya/9163712
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」街霸
+https://live.iill.top/huya/11437
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「B站」JJ斗地主
+https://live.iill.top/bilibili/22021983
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」JJ斗地主
+https://live.iill.top/douyu/488743
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」我的世界
+https://live.iill.top/douyu/738878
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」FIFA
+https://live.iill.top/douyu/7692166
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」火影忍者
+https://live.iill.top/douyu/1997723
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」跑跑卡丁车
+https://live.iill.top/douyu/7722576
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",「斗鱼」跑跑卡丁车•手游
+https://live.iill.top/douyu/6672862
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="其他",五星体育
+http://43.251.226.110:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="其他",睛彩竞技
+http://43.251.226.110:5124/TVOD/3000000020000011528.m3u8?token=8520
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="其他",睛彩篮球
+http://43.251.226.110:5124/TVOD/3000000020000011529.m3u8?token=8520
+#EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://epg.v1.mk/logo/H睛彩中原.png" group-title="其他",睛彩青少
+http://43.251.226.110:5124/TVOD/3000000020000011525.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-1
+http://43.251.226.110:5124/TVOD/3000000001000005308.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-2
+http://43.251.226.110:5124/TVOD/3000000001000005969.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-3
+http://43.251.226.110:5124/TVOD/3000000001000007218.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-4
+http://43.251.226.110:5124/TVOD/3000000001000008001.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-5
+http://43.251.226.110:5124/TVOD/3000000001000008176.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-6
+http://43.251.226.110:5124/TVOD/3000000001000008379.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-7
+http://43.251.226.110:5124/TVOD/3000000001000010129.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-8
+http://43.251.226.110:5124/TVOD/3000000001000010948.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-9
+http://43.251.226.110:5124/TVOD/3000000001000028638.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-10
+http://43.251.226.110:5124/TVOD/3000000001000031494.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-11
+http://43.251.226.110:5124/TVOD/3000000010000005837.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-12
+http://43.251.226.110:5124/TVOD/3000000020000011518.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-13
+http://43.251.226.110:5124/TVOD/3000000020000011519.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-14
+http://43.251.226.110:5124/TVOD/3000000020000011520.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-15
+http://43.251.226.110:5124/TVOD/3000000020000011521.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-16
+http://43.251.226.110:5124/TVOD/3000000020000011522.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-24
+http://43.251.226.110:5124/TVOD/3000000010000000097.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-25
+http://43.251.226.110:5124/TVOD/3000000010000002019.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-26
+http://43.251.226.110:5124/TVOD/3000000010000002809.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-27
+http://43.251.226.110:5124/TVOD/3000000010000003915.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-28
+http://43.251.226.110:5124/TVOD/3000000010000004193.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-29
+http://43.251.226.110:5124/TVOD/3000000010000006077.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-30
+http://43.251.226.110:5124/TVOD/3000000010000006658.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-31
+http://43.251.226.110:5124/TVOD/3000000010000009788.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-32
+http://43.251.226.110:5124/TVOD/3000000010000010833.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-33
+http://43.251.226.110:5124/TVOD/3000000010000011297.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-34
+http://43.251.226.110:5124/TVOD/3000000010000011518.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-35
+http://43.251.226.110:5124/TVOD/3000000010000012558.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-36
+http://43.251.226.110:5124/TVOD/3000000010000012616.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-37
+http://43.251.226.110:5124/TVOD/3000000010000015470.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-38
+http://43.251.226.110:5124/TVOD/3000000010000015560.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-39
+http://43.251.226.110:5124/TVOD/3000000010000017678.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-40
+http://43.251.226.110:5124/TVOD/3000000010000019839.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-41
+http://43.251.226.110:5124/TVOD/3000000010000021904.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-42
+http://43.251.226.110:5124/TVOD/3000000010000023434.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-43
+http://43.251.226.110:5124/TVOD/3000000010000025380.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-44
+http://43.251.226.110:5124/TVOD/3000000010000027691.m3u8?token=8520
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕视频-45
+http://43.251.226.110:5124/TVOD/3000000010000031669.m3u8?token=8520
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事睛彩竞技
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事睛彩竞技
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事睛彩竞技
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事睛彩篮球
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事睛彩篮球
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事睛彩篮球
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕01
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005308
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕02
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005969
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕03
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000007218
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕04
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008001
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕05
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008176
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕06
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008379
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕07
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010129
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕08
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010948
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕09
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000028638
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕10
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000031494
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕11
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000000097
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕12
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002019
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕13
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002809
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕14
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000003915
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕15
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005837
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕16
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006077
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕17
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000009788
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕18
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000010833
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕19
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012558
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕20
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012616
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕21
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015470
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕22
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015560
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕23
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000017678
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕24
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000019839
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕25
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000023434
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕26
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000025380
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕27
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000027691
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕28
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000031669
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕29
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011518
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕30
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011519
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕31
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011520
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛事咪咕32
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011521
+#EXTINF:-1,tvg-id="IHOT爱军武" tvg-name="IHOT爱军武" tvg-logo="https://epg.v1.mk/logo/IHOT爱军武.png" group-title="其他",武林外传
+https://live.ottiptv.cc/yy/1355652820
+#EXTINF:-1,tvg-id="bestv港剧风云" tvg-name="bestv港剧风云" tvg-logo="https://epg.v1.mk/logo/bestv港剧风云.png" group-title="其他",港片 喜剧 动作
+https://live.ottiptv.cc/yy/1355480591
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.v1.mk/logo/林正英.png" group-title="其他",林正英-经典电影
+https://live.ottiptv.cc/yy/34229877
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【新三国】萌儿陪看
+https://live.ottiptv.cc/yy/29216766
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国外经典—小鬼当家
+https://live.ottiptv.cc/yy/1354658064
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",狂飙
+https://live.ottiptv.cc/yy/1382626335
+#EXTINF:-1,tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://epg.v1.mk/logo/靓妆.png" group-title="其他",靓剑
+https://live.ottiptv.cc/yy/1356043643
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",弹幕天团 下饭神剧
+https://live.ottiptv.cc/yy/23512910
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",狄仁杰
+https://live.ottiptv.cc/yy/1351755386
+#EXTINF:-1,tvg-id="赵一" tvg-name="赵一" tvg-logo="https://epg.v1.mk/logo/赵一.png" group-title="其他",赵本山《蓝光版》
+https://live.ottiptv.cc/yy/32160832
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年包青天
+https://live.ottiptv.cc/yy/1356043677
+#EXTINF:-1,tvg-id="cctv-卫生健康" tvg-name="cctv-卫生健康" tvg-logo="https://epg.v1.mk/logo/cctv-卫生健康.png" group-title="其他",康熙微服私访记
+https://live.ottiptv.cc/yy/1352811698
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",超精彩武打场景
+https://live.ottiptv.cc/yy/1354936131
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.v1.mk/logo/林正英.png" group-title="其他",正阳门下
+https://live.ottiptv.cc/yy/1382851588
+#EXTINF:-1,tvg-id="鹿泉电视台" tvg-name="鹿泉电视台" tvg-logo="https://epg.v1.mk/logo/鹿泉电视台.png" group-title="其他",鹿鼎记-周星驰版
+https://live.ottiptv.cc/yy/1354658049
+#EXTINF:-1,tvg-id="cctv-世界地理" tvg-name="cctv-世界地理" tvg-logo="https://epg.v1.mk/logo/cctv-世界地理.png" group-title="其他",地下交通站
+https://live.ottiptv.cc/yy/1382736795
+#EXTINF:-1,tvg-id="MOMO亲子" tvg-name="MOMO亲子" tvg-logo="https://epg.v1.mk/logo/MOMO亲子.png" group-title="其他",亲爱的热爱的
+https://live.ottiptv.cc/yy/1354932433
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典鬼片3000部
+https://live.ottiptv.cc/yy/29460894
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【狂飙】
+https://live.ottiptv.cc/yy/1354806550
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.v1.mk/logo/林正英.png" group-title="其他",林正英经典
+https://live.ottiptv.cc/yy/1351505899
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",豪哥带我们发财
+https://live.ottiptv.cc/yy/23402146
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典港片动作搞笑
+https://live.ottiptv.cc/yy/1459869766
+#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://epg.v1.mk/logo/BRTV纪实科教.png" group-title="其他",纪晓岚
+https://live.ottiptv.cc/yy/1354143978
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",晾剑 电视剧
+https://live.ottiptv.cc/yy/1451866697
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小蓉儿 正在直播
+https://live.ottiptv.cc/yy/1351762426
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神医喜来乐
+https://live.ottiptv.cc/yy/1382714119
+#EXTINF:-1,tvg-id="梦幻" tvg-name="梦幻" tvg-logo="https://epg.v1.mk/logo/梦幻.png" group-title="其他",梦涵 正在直播
+https://live.ottiptv.cc/yy/1352475619
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",昕儿 正在直播
+https://live.ottiptv.cc/yy/1353852605
+#EXTINF:-1,tvg-id="上饶经济旅游频道" tvg-name="上饶经济旅游频道" tvg-logo="https://epg.v1.mk/logo/上饶经济旅游频道.png" group-title="其他",济公
+https://live.ottiptv.cc/yy/1355265814
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",倚天屠龙记
+https://live.ottiptv.cc/yy/33300793
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",请回答1988
+https://live.ottiptv.cc/yy/1354932362
+#EXTINF:-1,tvg-id="天龙八部" tvg-name="天龙八部" tvg-logo="https://epg.v1.mk/logo/天龙八部.png" group-title="其他",天龙八部
+https://live.ottiptv.cc/yy/1351814644
+#EXTINF:-1,tvg-id="CIBN真人秀" tvg-name="CIBN真人秀" tvg-logo="https://epg.v1.mk/logo/CIBN真人秀.png" group-title="其他",真实案件系列
+https://live.ottiptv.cc/yy/1382671124
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大染坊
+https://live.ottiptv.cc/yy/1353215589
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",赌神 港片 喜剧
+https://live.ottiptv.cc/yy/1355112116
+#EXTINF:-1,tvg-id="封丘" tvg-name="封丘" tvg-logo="https://epg.v1.mk/logo/封丘.png" group-title="其他",封神榜
+https://live.ottiptv.cc/yy/1353426319
+#EXTINF:-1,tvg-id="CIBN古装剧场" tvg-name="CIBN古装剧场" tvg-logo="https://epg.v1.mk/logo/CIBN古装剧场.png" group-title="其他",古惑仔
+https://live.ottiptv.cc/yy/1458015189
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",雍正王朝
+https://live.ottiptv.cc/yy/1356043620
+#EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://epg.v1.mk/logo/李连杰.png" group-title="其他",李连杰功夫 经典武侠
+https://live.ottiptv.cc/yy/74613175
+#EXTINF:-1,tvg-id="赵一" tvg-name="赵一" tvg-logo="https://epg.v1.mk/logo/赵一.png" group-title="其他",赵本山《超清版》
+https://live.ottiptv.cc/yy/1382683959
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",鬼经典老片
+https://live.ottiptv.cc/yy/1463783198
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小美美 正在直播
+https://live.ottiptv.cc/yy/1354143966
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",《仙侠》开局无敌了
+https://live.ottiptv.cc/yy/29600150
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",燕双鹰
+https://live.ottiptv.cc/yy/1352227153
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【鹿鼎记】金庸经典
+https://live.ottiptv.cc/yy/28265277
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",恐怖电影
+https://live.ottiptv.cc/yy/24066336
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",闯关东
+https://live.ottiptv.cc/yy/1383546866
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典雪豹24h
+https://live.ottiptv.cc/yy/1459010966
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大家车言论
+https://live.ottiptv.cc/yy/1382570702
+#EXTINF:-1,tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://epg.v1.mk/logo/靓妆.png" group-title="其他",靓剑
+https://live.ottiptv.cc/yy/1382788679
+#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://epg.v1.mk/logo/BRTV纪实科教.png" group-title="其他",纪晓岚
+https://live.ottiptv.cc/yy/1352227227
+#EXTINF:-1,tvg-id="IPTV经典电影1" tvg-name="IPTV经典电影1" tvg-logo="https://epg.v1.mk/logo/IPTV经典电影1.png" group-title="其他",经典电影 港片枪战
+https://live.ottiptv.cc/yy/1355076627
+#EXTINF:-1,tvg-id="动漫" tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/动漫.png" group-title="其他",动漫
+https://live.ottiptv.cc/yy/26664495
+#EXTINF:-1,tvg-id="动漫" tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/动漫.png" group-title="其他",动漫
+https://live.ottiptv.cc/yy/1382747970
+#EXTINF:-1,tvg-id="内乡电视台" tvg-name="内乡电视台" tvg-logo="https://epg.v1.mk/logo/内乡电视台.png" group-title="其他",内在美-伊人有约
+https://live.ottiptv.cc/yy/1382737892
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736808
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736810
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.v1.mk/logo/林正英.png" group-title="其他",正阳门下
+https://live.ottiptv.cc/yy/1354931580
+#EXTINF:-1,tvg-id="bestv精彩连播" tvg-name="bestv精彩连播" tvg-logo="https://epg.v1.mk/logo/bestv精彩连播.png" group-title="其他",精武英雄-李连杰主演经典动作片
+https://live.ottiptv.cc/yy/1382736873
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",�逋鞠盗�-国产喜剧
+https://live.ottiptv.cc/yy/1382736856
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神探狄仁杰2
+https://live.ottiptv.cc/yy/1382828767
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",士兵突击
+https://live.ottiptv.cc/yy/1382851600
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大话西游至尊宝
+https://live.ottiptv.cc/yy/1382851590
+#EXTINF:-1,tvg-id="武进新闻" tvg-name="武进新闻" tvg-logo="https://epg.v1.mk/logo/武进新闻.png" group-title="其他",进来 陪你看动漫
+https://live.ottiptv.cc/yy/1352866135
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大秧歌~24h经典好剧
+https://live.ottiptv.cc/yy/1354744544
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",伪装者
+https://live.ottiptv.cc/yy/1382851593
+#EXTINF:-1,tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" tvg-logo="https://epg.v1.mk/logo/CIBN情感影院.png" group-title="其他",情满四合院-小人物的悲欢离合
+https://live.ottiptv.cc/yy/1382851601
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",赌神-发哥
+https://live.ottiptv.cc/yy/1354889044
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐集结号-每天笑不停
+https://live.ottiptv.cc/yy/1382741642
+#EXTINF:-1,tvg-id="西游记" tvg-name="西游记" tvg-logo="https://epg.v1.mk/logo/西游记.png" group-title="其他",西游记后传 蓝光
+https://live.ottiptv.cc/yy/1353392400
+#EXTINF:-1,tvg-id="CIBN朵丫乐园" tvg-name="CIBN朵丫乐园" tvg-logo="https://epg.v1.mk/logo/CIBN朵丫乐园.png" group-title="其他",朵宝陪你看狄仁杰
+https://live.ottiptv.cc/yy/1353753252
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年歌行1.2~
+https://live.ottiptv.cc/yy/29067083
+#EXTINF:-1,tvg-id="cctv-老故事" tvg-name="cctv-老故事" tvg-logo="https://epg.v1.mk/logo/cctv-老故事.png" group-title="其他",老九门24h
+https://live.ottiptv.cc/yy/1355171357
+#EXTINF:-1,tvg-id="鹿泉电视台" tvg-name="鹿泉电视台" tvg-logo="https://epg.v1.mk/logo/鹿泉电视台.png" group-title="其他",鹿鼎记-高清全集
+https://live.ottiptv.cc/yy/1382704650
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",笑傲江湖 4K超清
+https://live.ottiptv.cc/yy/1354282410
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",宰相刘罗锅
+https://live.ottiptv.cc/yy/1353892468
+#EXTINF:-1,tvg-id="20240101085721157TEMPIMAGE" tvg-name="20240101085721157TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png" group-title="其他",24h 我爱我家 喜剧
+https://live.ottiptv.cc/yy/1356212303
+#EXTINF:-1,tvg-id="人民铁道视频" tvg-name="人民铁道视频" tvg-logo="https://epg.v1.mk/logo/人民铁道视频.png" group-title="其他",铁齿铜牙纪晓岚
+https://live.ottiptv.cc/yy/1382781415
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",鬼片喜剧动作港剧
+https://live.ottiptv.cc/yy/1355269576
+#EXTINF:-1,tvg-id="cctv-老故事" tvg-name="cctv-老故事" tvg-logo="https://epg.v1.mk/logo/cctv-老故事.png" group-title="其他",老妖私影院
+https://live.ottiptv.cc/yy/1354952229
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",超清鬼片 港片
+https://live.ottiptv.cc/yy/1335509613
+#EXTINF:-1,tvg-id="天龙八部" tvg-name="天龙八部" tvg-logo="https://epg.v1.mk/logo/天龙八部.png" group-title="其他",天龙 神雕金庸
+https://live.ottiptv.cc/yy/1356043609
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神探狄胖胖
+https://live.ottiptv.cc/yy/1507704566
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年歌行
+https://live.ottiptv.cc/yy/1450556636
+#EXTINF:-1,tvg-id="20240102074128324TEMPIMAGE" tvg-name="20240102074128324TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240102074128324TEMPIMAGE.png" group-title="其他",83射雕英雄传
+https://live.ottiptv.cc/yy/1354210357
+#EXTINF:-1,tvg-id="NEWTV金牌綜藝" tvg-name="NEWTV金牌綜藝" tvg-logo="https://epg.v1.mk/logo/NEWTV金牌綜藝.png" group-title="其他",金牌配角达叔系列
+https://live.ottiptv.cc/yy/1354888728
+#EXTINF:-1,tvg-id="CIBN热播剧场" tvg-name="CIBN热播剧场" tvg-logo="https://epg.v1.mk/logo/CIBN热播剧场.png" group-title="其他",热度榜1.包青天
+https://live.ottiptv.cc/yy/22701868
+#EXTINF:-1,tvg-id="20240101085721157TEMPIMAGE" tvg-name="20240101085721157TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png" group-title="其他",24h唐朝诡实录1234
+https://live.ottiptv.cc/yy/1353913646
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【经典港片】佟瑶
+https://live.ottiptv.cc/yy/23531261
+#EXTINF:-1,tvg-id="CIBN好物" tvg-name="CIBN好物" tvg-logo="https://epg.v1.mk/logo/CIBN好物.png" group-title="其他",好先生
+https://live.ottiptv.cc/yy/79382500
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",超喜剧地下交通站男神贾贵
+https://live.ottiptv.cc/yy/1353428972
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",苹果工会招募主播
+https://live.ottiptv.cc/yy/1354889234
+#EXTINF:-1,tvg-id="[NOWTV]133爆谷台(普)" tvg-name="[NOWTV]133爆谷台(普)" tvg-logo="https://epg.v1.mk/logo/[NOWTV]133爆谷台(普).png" group-title="其他",爆笑小品大合集
+https://live.ottiptv.cc/yy/1382736821
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.v1.mk/logo/上海五星体育.png" group-title="其他",五号特工组和平ff
+https://live.ottiptv.cc/yy/1414967772
+#EXTINF:-1,tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="https://epg.v1.mk/logo/新白娘子传奇.png" group-title="其他",新白娘子传奇
+https://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",燕双鹰
+https://live.ottiptv.cc/yy/1354143942
+#EXTINF:-1,tvg-id="绝地求生" tvg-name="绝地求生" tvg-logo="https://epg.v1.mk/logo/绝地求生.png" group-title="其他",绝版僵尸鬼片
+https://live.ottiptv.cc/yy/1460889796
+#EXTINF:-1,tvg-id="bestv精彩连播" tvg-name="bestv精彩连播" tvg-logo="https://epg.v1.mk/logo/bestv精彩连播.png" group-title="其他",精彩动漫
+https://live.ottiptv.cc/yy/1420843376
+#EXTINF:-1,tvg-id="天龙八部" tvg-name="天龙八部" tvg-logo="https://epg.v1.mk/logo/天龙八部.png" group-title="其他",天龙神雕经典回忆
+https://live.ottiptv.cc/yy/68260522
+#EXTINF:-1,tvg-id="1905-EN_US" tvg-name="1905-EN_US" tvg-logo="https://epg.v1.mk/logo/1905-EN_US.png" group-title="港澳台",1930年代经典电影
+https://live.ottiptv.cc/yy/1356363815
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY果国际电影频道
+https://live.ottiptv.cc/yy/1382627144
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",薛仁贵传奇
+https://live.ottiptv.cc/yy/1355260662
+#EXTINF:-1,tvg-id="动漫" tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/动漫.png" group-title="其他",动漫
+https://live.ottiptv.cc/yy/1354143938
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",鬼片恐怖私家影院
+https://live.ottiptv.cc/yy/1354209316
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",《武林外传》武侠
+https://live.ottiptv.cc/yy/1394000563
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【新三国】吕布
+https://live.ottiptv.cc/yy/1382851459
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",破案港剧
+https://live.ottiptv.cc/yy/1350670730
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典港片电影
+https://live.ottiptv.cc/yy/1461889059
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【武林客栈】
+https://live.ottiptv.cc/yy/1382773728
+#EXTINF:-1,tvg-id="bestv谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.v1.mk/logo/bestv谍战剧场.png" group-title="其他",战狼10086
+https://live.ottiptv.cc/yy/1382773686
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【战狼3吴京】首播
+https://live.ottiptv.cc/yy/1456668939
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【靓剑】乐乐陪看
+https://live.ottiptv.cc/yy/1352946111
+#EXTINF:-1,tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" tvg-logo="https://epg.v1.mk/logo/CIBN情感影院.png" group-title="其他",情满四合院-高分电视剧
+https://live.ottiptv.cc/yy/1382735541
+#EXTINF:-1,tvg-id="Astro双星" tvg-name="Astro双星" tvg-logo="https://epg.v1.mk/logo/Astro双星.png" group-title="其他",双月之城-国漫
+https://live.ottiptv.cc/yy/1382736907
+#EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="https://epg.v1.mk/logo/1905电影.png" group-title="其他",电影电影电影电影电影电影
+https://live.ottiptv.cc/yy/1351496216
+#EXTINF:-1,tvg-id="知否知否" tvg-name="知否知否" tvg-logo="https://epg.v1.mk/logo/知否知否.png" group-title="其他",知否知否应是绿肥红瘦
+https://live.ottiptv.cc/yy/21881901
+#EXTINF:-1,tvg-id="新三国" tvg-name="新三国" tvg-logo="https://epg.v1.mk/logo/新三国.png" group-title="其他",三国演义【1994】
+https://live.ottiptv.cc/yy/1354930932
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",咸鱼动漫
+https://live.ottiptv.cc/yy/1354076248
+#EXTINF:-1,tvg-id="张大仙" tvg-name="张大仙" tvg-logo="https://epg.v1.mk/logo/张大仙.png" group-title="其他",张国荣与周润发的兄弟情
+https://live.ottiptv.cc/yy/1354930961
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神探狄仁杰1
+https://live.ottiptv.cc/yy/1382851575
+#EXTINF:-1,tvg-id="IHOT爱军武" tvg-name="IHOT爱军武" tvg-logo="https://epg.v1.mk/logo/IHOT爱军武.png" group-title="其他",武林外传
+https://live.ottiptv.cc/yy/1355344777
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神探狄仁杰1
+https://live.ottiptv.cc/yy/1354930934
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",恋歌
+https://live.ottiptv.cc/yy/1382746276
+#EXTINF:-1,tvg-id="台湾地震" tvg-name="台湾地震" tvg-logo="https://epg.v1.mk/logo/台湾地震.png" group-title="其他",震撼！国内功夫大片
+https://live.ottiptv.cc/yy/1382736902
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",宰相刘罗锅
+https://live.ottiptv.cc/yy/1382745191
+#EXTINF:-1,tvg-id="华夏电视台" tvg-name="华夏电视台" tvg-logo="https://epg.v1.mk/logo/华夏电视台.png" group-title="其他",夏洛特烦恼-国内电影-喜剧
+https://live.ottiptv.cc/yy/1354936201
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内玄幻电影-林正英
+https://live.ottiptv.cc/yy/1354932444
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",变形金刚
+https://live.ottiptv.cc/yy/1382736803
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年包青天第三部
+https://live.ottiptv.cc/yy/1382736814
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",炊事班的故事III
+https://live.ottiptv.cc/yy/1382736716
+#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.v1.mk/logo/MAX极速汽车.png" group-title="其他",速度与激情全集
+https://live.ottiptv.cc/yy/1382749892
+#EXTINF:-1,tvg-id="津津悦读4K" tvg-name="津津悦读4K" tvg-logo="https://epg.v1.mk/logo/津津悦读4K.png" group-title="其他",读心神探
+https://live.ottiptv.cc/yy/1382736875
+#EXTINF:-1,tvg-id="新三国" tvg-name="新三国" tvg-logo="https://epg.v1.mk/logo/新三国.png" group-title="其他",三国演义94年经典版
+https://live.ottiptv.cc/yy/1354936241
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",炊事班的故事II
+https://live.ottiptv.cc/yy/1382851579
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神探狄仁杰2
+https://live.ottiptv.cc/yy/1382851146
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382735572
+#EXTINF:-1,tvg-id="[TW-II]503戲劇二台" tvg-name="[TW-II]503戲劇二台" tvg-logo="https://epg.v1.mk/logo/[TW-II]503戲劇二台.png" group-title="其他",二号交通站
+https://live.ottiptv.cc/yy/1382735582
+#EXTINF:-1,tvg-id="津津悦读4K" tvg-name="津津悦读4K" tvg-logo="https://epg.v1.mk/logo/津津悦读4K.png" group-title="其他",读心神探
+https://live.ottiptv.cc/yy/1382851589
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",寻秦记-穿越剧经典
+https://live.ottiptv.cc/yy/1382749900
+#EXTINF:-1,tvg-id="动漫" tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/动漫.png" group-title="其他",动漫
+https://live.ottiptv.cc/yy/25055036
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐颂
+https://live.ottiptv.cc/yy/1382735624
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",终结者2：审判日
+https://live.ottiptv.cc/yy/1382851148
+#EXTINF:-1,tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" tvg-logo="https://epg.v1.mk/logo/CIBN情感影院.png" group-title="其他",情满四合院
+https://live.ottiptv.cc/yy/1382851524
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736888
+#EXTINF:-1,tvg-id="巩义电视台" tvg-name="巩义电视台" tvg-logo="https://epg.v1.mk/logo/巩义电视台.png" group-title="其他",巩汉林春晚小品合集
+https://live.ottiptv.cc/yy/1354889035
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内动作大片
+https://live.ottiptv.cc/yy/1382745176
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",啊咧
+https://live.ottiptv.cc/yy/1459243913
+#EXTINF:-1,tvg-id="我爱你中国" tvg-name="我爱你中国" tvg-logo="https://epg.v1.mk/logo/我爱你中国.png" group-title="其他",我爱我家
+https://live.ottiptv.cc/yy/1382851580
+#EXTINF:-1,tvg-id="CIBN快乐购物" tvg-name="CIBN快乐购物" tvg-logo="https://epg.v1.mk/logo/CIBN快乐购物.png" group-title="其他",快来呀好剧在等你
+https://live.ottiptv.cc/yy/1331686180
+#EXTINF:-1,tvg-id="Astro华丽台" tvg-name="Astro华丽台" tvg-logo="https://epg.v1.mk/logo/Astro华丽台.png" group-title="其他",华子系列
+https://live.ottiptv.cc/yy/1354888726
+#EXTINF:-1,tvg-id="NewTV安徽" tvg-name="NewTV安徽" tvg-logo="https://epg.v1.mk/logo/NewTV安徽.png" group-title="其他",安安电视剧
+https://live.ottiptv.cc/yy/1414817779
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",父母爱情
+https://live.ottiptv.cc/yy/1354926650
+#EXTINF:-1,tvg-id="[TW-II]503戲劇二台" tvg-name="[TW-II]503戲劇二台" tvg-logo="https://epg.v1.mk/logo/[TW-II]503戲劇二台.png" group-title="其他",二号交通站
+https://live.ottiptv.cc/yy/1382851582
+#EXTINF:-1,tvg-id="IHOT爱军武" tvg-name="IHOT爱军武" tvg-logo="https://epg.v1.mk/logo/IHOT爱军武.png" group-title="其他",武工队传奇
+https://live.ottiptv.cc/yy/22089862
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国漫动漫
+https://live.ottiptv.cc/yy/1354768828
+#EXTINF:-1,tvg-id="动漫" tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/动漫.png" group-title="其他",动漫
+https://live.ottiptv.cc/yy/1354768831
+#EXTINF:-1,tvg-id="[TW-II]503戲劇二台" tvg-name="[TW-II]503戲劇二台" tvg-logo="https://epg.v1.mk/logo/[TW-II]503戲劇二台.png" group-title="其他",二号交通站
+https://live.ottiptv.cc/yy/1354930965
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【破案 悬疑 港剧】
+https://live.ottiptv.cc/yy/1382800083
+#EXTINF:-1,tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://epg.v1.mk/logo/洪金宝.png" group-title="其他",洪金宝福星系列
+https://live.ottiptv.cc/yy/1354924839
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【周星驰】搞笑电影
+https://live.ottiptv.cc/yy/38670875
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典抗战剧
+https://live.ottiptv.cc/yy/1354555195
+#EXTINF:-1,tvg-id="武进新闻" tvg-name="武进新闻" tvg-logo="https://epg.v1.mk/logo/武进新闻.png" group-title="其他",进来 陪你看电视
+https://live.ottiptv.cc/yy/1353518742
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内喜剧
+https://live.ottiptv.cc/yy/1382736862
+#EXTINF:-1,tvg-id="成龙" tvg-name="成龙" tvg-logo="https://epg.v1.mk/logo/成龙.png" group-title="其他",成龙系列
+https://live.ottiptv.cc/yy/1354888751
+#EXTINF:-1,tvg-id="古装剧场1" tvg-name="古装剧场1" tvg-logo="https://epg.v1.mk/logo/古装剧场1.png" group-title="其他",古装剧
+https://live.ottiptv.cc/yy/1356158015
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年包青天
+https://live.ottiptv.cc/yy/1414846486
+#EXTINF:-1,tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://epg.v1.mk/logo/newtv军旅剧场.png" group-title="其他",军旅剧（回忆经典）
+https://live.ottiptv.cc/yy/1356306672
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",《石敢当》六耳猕猴
+https://live.ottiptv.cc/yy/1394156613
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【新三国】日版
+https://live.ottiptv.cc/yy/1382851457
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典港片电影
+https://live.ottiptv.cc/yy/1459801818
+#EXTINF:-1,tvg-id="露雪" tvg-name="露雪" tvg-logo="https://epg.v1.mk/logo/露雪.png" group-title="其他",雪中悍刀行
+https://live.ottiptv.cc/yy/1462996362
+#EXTINF:-1,tvg-id="bestv青春动漫" tvg-name="bestv青春动漫" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="其他",动漫《火影疾风传》
+https://live.ottiptv.cc/yy/1459675153
+#EXTINF:-1,tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/newtv惊悚悬疑.png" group-title="其他",惊恐盗暮鬼怪
+https://live.ottiptv.cc/yy/1382749525
+#EXTINF:-1,tvg-id="动漫" tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/动漫.png" group-title="其他",动漫
+https://live.ottiptv.cc/yy/23993334
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",疯狂动漫 正在直播
+https://live.ottiptv.cc/yy/1353937086
+#EXTINF:-1,tvg-id="РОССИЯ24俄罗斯24小时" tvg-name="РОССИЯ24俄罗斯24小时" tvg-logo="https://epg.v1.mk/logo/РОССИЯ24俄罗斯24小时.png" group-title="其他",24小时循环播电视剧
+https://live.ottiptv.cc/yy/53320802
+#EXTINF:-1,tvg-id="动漫" tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/动漫.png" group-title="其他",动漫
+https://live.ottiptv.cc/yy/22777075
+#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.v1.mk/logo/MAX极速汽车.png" group-title="其他",速度与激情系列！-精彩大片
+https://live.ottiptv.cc/yy/1382736911
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐一起看
+https://live.ottiptv.cc/yy/1354930926
+#EXTINF:-1,tvg-id="KLT靖天国际" tvg-name="KLT靖天国际" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际.png" group-title="其他",天道-9.2高分好剧
+https://live.ottiptv.cc/yy/1382735574
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大进军全集：红色系列电影
+https://live.ottiptv.cc/yy/1382745083
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",妖神记
+https://live.ottiptv.cc/yy/1382745171
+#EXTINF:-1,tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="https://epg.v1.mk/logo/新白娘子传奇.png" group-title="其他",新白娘子传奇-女神赵雅芝
+https://live.ottiptv.cc/yy/1354930969
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",郝蕾演绎-情满四合院
+https://live.ottiptv.cc/yy/1382745089
+#EXTINF:-1,tvg-id="My Cinema Europe HD 我的欧洲电影" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/My Cinema Europe HD 我的欧洲电影.png" group-title="其他",我的体育老师
+https://live.ottiptv.cc/yy/1382745169
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736818
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",伪装者
+https://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1,tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="https://epg.v1.mk/logo/CCTV-12社会与法.png" group-title="其他",法证先锋
+https://live.ottiptv.cc/yy/1354930939
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",抹茶少女
+https://live.ottiptv.cc/yy/1382737888
+#EXTINF:-1,tvg-id="天府魔力TV" tvg-name="天府魔力TV" tvg-logo="https://epg.v1.mk/logo/天府魔力TV.png" group-title="其他",魔幻手机
+https://live.ottiptv.cc/yy/1382735544
+#EXTINF:-1,tvg-id="bestv青春动漫" tvg-name="bestv青春动漫" tvg-logo="https://epg.v1.mk/logo/bestv青春动漫.png" group-title="其他",漫威十年老粉福利来了
+https://live.ottiptv.cc/yy/1354930233
+#EXTINF:-1,tvg-id="智叻乐园" tvg-name="智叻乐园" tvg-logo="https://epg.v1.mk/logo/智叻乐园.png" group-title="其他",智取威虎山
+https://live.ottiptv.cc/yy/1382736843
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大家都在看的电视剧
+https://live.ottiptv.cc/yy/1354930964
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736890
+#EXTINF:-1,tvg-id="bestv星光院线" tvg-name="bestv星光院线" tvg-logo="https://epg.v1.mk/logo/bestv星光院线.png" group-title="其他",院线动作大片
+https://live.ottiptv.cc/yy/1382736900
+#EXTINF:-1,tvg-id="广西灌阳" tvg-name="广西灌阳" tvg-logo="https://epg.v1.mk/logo/广西灌阳.png" group-title="其他",灌篮高手
+https://live.ottiptv.cc/yy/1382735626
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典大片合集
+https://live.ottiptv.cc/yy/1382749895
+#EXTINF:-1,tvg-id="[TW-II]154FUN流行音樂台" tvg-name="[TW-II]154FUN流行音樂台" tvg-logo="https://epg.v1.mk/logo/[TW-II]154FUN流行音樂台.png" group-title="其他",流行古装剧—知否知否应是绿肥红瘦
+https://live.ottiptv.cc/yy/1354936134
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",寻秦记
+https://live.ottiptv.cc/yy/1354658048
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",����������
+https://live.ottiptv.cc/yy/1382851578
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",寻秦记-穿越剧经典
+https://live.ottiptv.cc/yy/1382851591
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",妖神记-全集
+https://live.ottiptv.cc/yy/1382735551
+#EXTINF:-1,tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" tvg-logo="https://epg.v1.mk/logo/CIBN情感影院.png" group-title="其他",情满四合院
+https://live.ottiptv.cc/yy/1382736848
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",这部剧你居然没看过？
+https://live.ottiptv.cc/yy/1354932355
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年包青天第三部
+https://live.ottiptv.cc/yy/1382851540
+#EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://epg.v1.mk/logo/周星驰.png" group-title="其他",周星星系列
+https://live.ottiptv.cc/yy/1354888671
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",笑傲帮
+https://live.ottiptv.cc/yy/1382735555
+#EXTINF:-1,tvg-id="cctv-老故事" tvg-name="cctv-老故事" tvg-logo="https://epg.v1.mk/logo/cctv-老故事.png" group-title="其他",老广的味道 第3季-美食纪录片
+https://live.ottiptv.cc/yy/1382735565
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736842
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736910
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",炊事班的故事
+https://live.ottiptv.cc/yy/1382749901
+#EXTINF:-1,tvg-id="西游记" tvg-name="西游记" tvg-logo="https://epg.v1.mk/logo/西游记.png" group-title="其他",西游记后传
+https://live.ottiptv.cc/yy/1382736846
+#EXTINF:-1,tvg-id="BTV北京卫视" tvg-name="BTV北京卫视" tvg-logo="https://epg.v1.mk/logo/BTV北京卫视.png" group-title="北京",北京爱情故事，心动不打烊
+https://live.ottiptv.cc/yy/1382744423
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",宫锁珠帘
+https://live.ottiptv.cc/yy/1354926666
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736838
+#EXTINF:-1,tvg-id="My Cinema Europe HD 我的欧洲电影" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/My Cinema Europe HD 我的欧洲电影.png" group-title="其他",我的前半生
+https://live.ottiptv.cc/yy/1382735564
+#EXTINF:-1,tvg-id="我爱你中国" tvg-name="我爱你中国" tvg-logo="https://epg.v1.mk/logo/我爱你中国.png" group-title="其他",你最爱的宋小宝
+https://live.ottiptv.cc/yy/1354936198
+#EXTINF:-1,tvg-id="好易购" tvg-name="好易购" tvg-logo="https://epg.v1.mk/logo/好易购.png" group-title="其他",易中天品三国
+https://live.ottiptv.cc/yy/1354931498
+#EXTINF:-1,tvg-id="CIBN真人秀" tvg-name="CIBN真人秀" tvg-logo="https://epg.v1.mk/logo/CIBN真人秀.png" group-title="其他",真心想让你幸福
+https://live.ottiptv.cc/yy/1382736876
+#EXTINF:-1,tvg-id="bestv港剧风云" tvg-name="bestv港剧风云" tvg-logo="https://epg.v1.mk/logo/bestv港剧风云.png" group-title="其他",风筝
+https://live.ottiptv.cc/yy/1382828770
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736886
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",以家人之名
+https://live.ottiptv.cc/yy/1382736908
+#EXTINF:-1,tvg-id="剑仙" tvg-name="剑仙" tvg-logo="https://epg.v1.mk/logo/剑仙.png" group-title="其他",仙剑奇侠传-神仙姐姐驾到
+https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736885
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小鬼当家-童年回忆
+https://live.ottiptv.cc/yy/1382745104
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382745085
+#EXTINF:-1,tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://epg.v1.mk/logo/4K修复.png" group-title="其他",复仇者联盟全季
+https://live.ottiptv.cc/yy/1354936167
+#EXTINF:-1,tvg-id="HISTORY2历史2" tvg-name="HISTORY2历史2" tvg-logo="https://epg.v1.mk/logo/HISTORY2历史2.png" group-title="其他",史诗级科幻电影-阿凡达
+https://live.ottiptv.cc/yy/1382735577
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="其他",无敌县令
+https://live.ottiptv.cc/yy/1354932390
+#EXTINF:-1,tvg-id="穿越火线" tvg-name="穿越火线" tvg-logo="https://epg.v1.mk/logo/穿越火线.png" group-title="其他",穿越时空的爱恋
+https://live.ottiptv.cc/yy/1382735567
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",娆�涔�棰�
+https://live.ottiptv.cc/yy/1382851577
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",俺娘田小草
+https://live.ottiptv.cc/yy/1382741638
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",超精彩！系列动作电影
+https://live.ottiptv.cc/yy/1382745096
+#EXTINF:-1,tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://epg.v1.mk/logo/国家地理野生.png" group-title="其他",野山鹰-影视剧
+https://live.ottiptv.cc/yy/1354932395
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",甜甜的恋爱 这狗粮我吃了
+https://live.ottiptv.cc/yy/1354932438
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大汉贤后卫子夫
+https://live.ottiptv.cc/yy/1382735569
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐集结号3
+https://live.ottiptv.cc/yy/1382736822
+#EXTINF:-1,tvg-id="IHOT爱解密" tvg-name="IHOT爱解密" tvg-logo="https://epg.v1.mk/logo/IHOT爱解密.png" group-title="其他",密子君
+https://live.ottiptv.cc/yy/1382736717
+#EXTINF:-1,tvg-id="非凡商业" tvg-name="非凡商业" tvg-logo="https://epg.v1.mk/logo/非凡商业.png" group-title="其他",非常保镖-经典港剧
+https://live.ottiptv.cc/yy/1382736903
+#EXTINF:-1,tvg-id="北京哈哈炫动" tvg-name="北京哈哈炫动" tvg-logo="https://epg.v1.mk/logo/北京哈哈炫动.png" group-title="其他",哈利波特全集
+https://live.ottiptv.cc/yy/1382745105
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",笑声传奇
+https://live.ottiptv.cc/yy/1382736880
+#EXTINF:-1,tvg-id="我爱你中国" tvg-name="我爱你中国" tvg-logo="https://epg.v1.mk/logo/我爱你中国.png" group-title="其他",你的回忆有我吗
+https://live.ottiptv.cc/yy/1354889024
+#EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="https://epg.v1.mk/logo/1905电影.png" group-title="其他",电影百团大战
+https://live.ottiptv.cc/yy/1382736871
+#EXTINF:-1,tvg-id="amc最爱电影" tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="其他",最美的青春
+https://live.ottiptv.cc/yy/1382745116
+#EXTINF:-1,tvg-id="CCH动作" tvg-name="CCH动作" tvg-logo="https://epg.v1.mk/logo/CCH动作.png" group-title="其他",动作大片-热血开打
+https://live.ottiptv.cc/yy/1354936168
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",强悍“杀猪婆”的励志人生
+https://live.ottiptv.cc/yy/1354658062
+#EXTINF:-1,tvg-id="cctv-卫生健康" tvg-name="cctv-卫生健康" tvg-logo="https://epg.v1.mk/logo/cctv-卫生健康.png" group-title="其他",康熙王朝
+https://live.ottiptv.cc/yy/1382851583
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736975
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",父母爱情
+https://live.ottiptv.cc/yy/1382851594
+#EXTINF:-1,tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://epg.v1.mk/logo/海洋频道.png" group-title="其他",海洋幻梦-泰剧
+https://live.ottiptv.cc/yy/1382749889
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",刑事侦缉档案I
+https://live.ottiptv.cc/yy/1382851585
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",陈情令
+https://live.ottiptv.cc/yy/1382745121
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382745084
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736805
+#EXTINF:-1,tvg-id="CIBN流金岁月" tvg-name="CIBN流金岁月" tvg-logo="https://epg.v1.mk/logo/CIBN流金岁月.png" group-title="其他",金玉满堂：精彩港剧
+https://live.ottiptv.cc/yy/1382736881
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",超英集结
+https://live.ottiptv.cc/yy/1382745091
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国外院线动作大片
+https://live.ottiptv.cc/yy/1382735570
+#EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="香港",香港院线大片-最新
+https://live.ottiptv.cc/yy/1354936242
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",粟裕大将-影视
+https://live.ottiptv.cc/yy/1354926542
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382735578
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382735553
+#EXTINF:-1,tvg-id="cctv-老故事" tvg-name="cctv-老故事" tvg-logo="https://epg.v1.mk/logo/cctv-老故事.png" group-title="其他",老广的味道-美食之旅
+https://live.ottiptv.cc/yy/1354932375
+#EXTINF:-1,tvg-id="卫辉综合频道" tvg-name="卫辉综合频道" tvg-logo="https://epg.v1.mk/logo/卫辉综合频道.png" group-title="其他",辉煌或疯狂-韩剧
+https://live.ottiptv.cc/yy/1382749902
+#EXTINF:-1,tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://epg.v1.mk/logo/重广融媒.png" group-title="其他",重生之超级赛亚人
+https://live.ottiptv.cc/yy/1354936124
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",编辑部的故事
+https://live.ottiptv.cc/yy/1354936120
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内喜剧
+https://live.ottiptv.cc/yy/1382851598
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",笑傲江湖 第2季
+https://live.ottiptv.cc/yy/1382736914
+#EXTINF:-1,tvg-id="天府魔力TV" tvg-name="天府魔力TV" tvg-logo="https://epg.v1.mk/logo/天府魔力TV.png" group-title="其他",魔幻手机
+https://live.ottiptv.cc/yy/1382851541
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",叛逆者
+https://live.ottiptv.cc/yy/1382736868
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",保护我家蓉儿
+https://live.ottiptv.cc/yy/1370293254
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐集结号
+https://live.ottiptv.cc/yy/1382735550
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="其他",无厘头的出处
+https://live.ottiptv.cc/yy/1354930891
+#EXTINF:-1,tvg-id="健康人生4" tvg-name="健康人生4" tvg-logo="https://epg.v1.mk/logo/健康人生4.png" group-title="其他",人生必看的科幻片
+https://live.ottiptv.cc/yy/1382745114
+#EXTINF:-1,tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="https://epg.v1.mk/logo/VOA美国之音.png" group-title="其他",美国队长史蒂夫
+https://live.ottiptv.cc/yy/1382736813
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小朋友可爱到家了
+https://live.ottiptv.cc/yy/1354930887
+#EXTINF:-1,tvg-id="四川岳池" tvg-name="四川岳池" tvg-logo="https://epg.v1.mk/logo/四川岳池.png" group-title="其他",岳云鹏宋小宝也来演电影了？
+https://live.ottiptv.cc/yy/1354926612
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国产大片电影
+https://live.ottiptv.cc/yy/1354926655
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",侏罗纪世界-国外科幻大片合集
+https://live.ottiptv.cc/yy/1382736851
+#EXTINF:-1,tvg-id="bestv港剧风云" tvg-name="bestv港剧风云" tvg-logo="https://epg.v1.mk/logo/bestv港剧风云.png" group-title="其他",港剧-警犬巴打
+https://live.ottiptv.cc/yy/1354932397
+#EXTINF:-1,tvg-id="我爱你中国" tvg-name="我爱你中国" tvg-logo="https://epg.v1.mk/logo/我爱你中国.png" group-title="其他",我爱我家
+https://live.ottiptv.cc/yy/1382735557
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高分科幻动作片
+https://live.ottiptv.cc/yy/1382749948
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736834
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",回家的诱惑
+https://live.ottiptv.cc/yy/1354658043
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",陪你一起看好剧
+https://live.ottiptv.cc/yy/1354932359
+#EXTINF:-1,tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="https://epg.v1.mk/logo/CCTV-12社会与法.png" group-title="其他",法证先锋
+https://live.ottiptv.cc/yy/1382851599
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382745117
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内高分悬疑剧-风筝
+https://live.ottiptv.cc/yy/1354931585
+#EXTINF:-1,tvg-id="bestv精彩连播" tvg-name="bestv精彩连播" tvg-logo="https://epg.v1.mk/logo/bestv精彩连播.png" group-title="其他",精彩动作电影享不停
+https://live.ottiptv.cc/yy/1382736809
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高分动作大片-热血出击
+https://live.ottiptv.cc/yy/1382736909
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",末日系列-外国电影合集
+https://live.ottiptv.cc/yy/1354889019
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",超燃警匪片
+https://live.ottiptv.cc/yy/1382735576
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",笑傲江湖 第1季
+https://live.ottiptv.cc/yy/1382749896
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="其他",河伯的新娘：奇幻爱情
+https://live.ottiptv.cc/yy/1354936249
+#EXTINF:-1,tvg-id="四川叙永" tvg-name="四川叙永" tvg-logo="https://epg.v1.mk/logo/四川叙永.png" group-title="其他",永远的经典系列
+https://live.ottiptv.cc/yy/1354930204
+#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="其他",科幻片：来看神奇的地球
+https://live.ottiptv.cc/yy/1354930897
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新世界
+https://live.ottiptv.cc/yy/1382736850
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大江大河2-高分影视推荐
+https://live.ottiptv.cc/yy/1382736797
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大唐双龙传
+https://live.ottiptv.cc/yy/1354930979
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382745093
+#EXTINF:-1,tvg-id="NEWTV黑莓动画" tvg-name="NEWTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NEWTV黑莓动画.png" group-title="其他",黑衣人1、2—动作喜剧大片
+https://live.ottiptv.cc/yy/1354930936
+#EXTINF:-1,tvg-id="[NOWTV]133爆谷台(普)" tvg-name="[NOWTV]133爆谷台(普)" tvg-logo="https://epg.v1.mk/logo/[NOWTV]133爆谷台(普).png" group-title="其他",爆笑电影！王牌大贱谍2-3
+https://live.ottiptv.cc/yy/1382735556
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国外科幻
+https://live.ottiptv.cc/yy/1382736800
+#EXTINF:-1,tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://epg.v1.mk/logo/newtv中国功夫.png" group-title="其他",功夫小子进城
+https://live.ottiptv.cc/yy/1382749890
+#EXTINF:-1,tvg-id="1905电影" tvg-name="1905电影" tvg-logo="https://epg.v1.mk/logo/1905电影.png" group-title="其他",电影黑豹
+https://live.ottiptv.cc/yy/1382736816
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",飓风营救
+https://live.ottiptv.cc/yy/1382735547
+#EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="其他",来自星星的你
+https://live.ottiptv.cc/yy/1354930976
+#EXTINF:-1,tvg-id="IPANDA" tvg-name="IPANDA" tvg-logo="https://epg.v1.mk/logo/IPANDA.png" group-title="其他",papi酱主演，北漂生活中的爱情与梦想
+https://live.ottiptv.cc/yy/1382745124
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国产喜剧
+https://live.ottiptv.cc/yy/1382735584
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",本山快乐营
+https://live.ottiptv.cc/yy/1354933529
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",猩球崛起-怪兽片合集
+https://live.ottiptv.cc/yy/1354930181
+#EXTINF:-1,tvg-id="海峡飞虹" tvg-name="海峡飞虹" tvg-logo="https://epg.v1.mk/logo/海峡飞虹.png" group-title="其他",飞虎之潜行极战
+https://live.ottiptv.cc/yy/1354932420
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大明王朝
+https://live.ottiptv.cc/yy/1382736879
+#EXTINF:-1,tvg-id="IPTV萌宠TV" tvg-name="IPTV萌宠TV" tvg-logo="https://epg.v1.mk/logo/IPTV萌宠TV.png" group-title="其他",萌鸡小队S1-国漫
+https://live.ottiptv.cc/yy/1382736904
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国产电影-就是闹着玩的
+https://live.ottiptv.cc/yy/1354931503
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内科幻片来袭
+https://live.ottiptv.cc/yy/1354930821
+#EXTINF:-1,tvg-id="待添加" tvg-name="待添加" tvg-logo="https://epg.v1.mk/logo/待添加.png" group-title="其他",加勒比海盗系列
+https://live.ottiptv.cc/yy/1382749914
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",缺宅男女
+https://live.ottiptv.cc/yy/1354930937
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",本山快乐营-爆笑小品
+https://live.ottiptv.cc/yy/1354930948
+#EXTINF:-1,tvg-id="Channel [V] 中国" tvg-name="Channel [V] 中国" tvg-logo="https://epg.v1.mk/logo/Channel [V] 中国.png" group-title="其他",中国味道 第4季-美食纪录片
+https://live.ottiptv.cc/yy/1382736845
+#EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="其他",第8号当铺
+https://live.ottiptv.cc/yy/1382736905
+#EXTINF:-1,tvg-id="[TW-II]018公視戲劇" tvg-name="[TW-II]018公視戲劇" tvg-logo="https://epg.v1.mk/logo/[TW-II]018公視戲劇.png" group-title="其他",公主嫁到
+https://live.ottiptv.cc/yy/1382736915
+#EXTINF:-1,tvg-id="CGTN法语黄色" tvg-name="CGTN法语黄色" tvg-logo="https://epg.v1.mk/logo/CGTN法语黄色.png" group-title="其他",黄大妮-电视剧
+https://live.ottiptv.cc/yy/1354930904
+#EXTINF:-1,tvg-id="双鸭山电视台" tvg-name="双鸭山电视台" tvg-logo="https://epg.v1.mk/logo/双鸭山电视台.png" group-title="其他",鸭子天空-翱翔于篮球的梦想
+https://live.ottiptv.cc/yy/1354930894
+#EXTINF:-1,tvg-id="苦涩" tvg-name="苦涩" tvg-logo="https://epg.v1.mk/logo/苦涩.png" group-title="其他",苦乐村官
+https://live.ottiptv.cc/yy/1382736864
+#EXTINF:-1,tvg-id="单帝" tvg-name="单帝" tvg-logo="https://epg.v1.mk/logo/单帝.png" group-title="其他",单挑荒野第一季
+https://live.ottiptv.cc/yy/1354933535
+#EXTINF:-1,tvg-id="法国时尚" tvg-name="法国时尚" tvg-logo="https://epg.v1.mk/logo/法国时尚.png" group-title="其他",法国版《家有儿女》治愈所有不开心
+https://live.ottiptv.cc/yy/1382851137
+#EXTINF:-1,tvg-id="深圳" tvg-name="深圳" tvg-logo="https://epg.v1.mk/logo/深圳.png" group-title="其他",深海利剑
+https://live.ottiptv.cc/yy/1382736906
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",嘻嘻熙熙
+https://live.ottiptv.cc/yy/1382735585
+#EXTINF:-1,tvg-id="上海外国语频道" tvg-name="上海外国语频道" tvg-logo="https://epg.v1.mk/logo/上海外国语频道.png" group-title="其他",外国科幻大片
+https://live.ottiptv.cc/yy/1382747628
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",躺平还是奋斗？搞笑中见真谛
+https://live.ottiptv.cc/yy/1382851586
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",燃爆动作片
+https://live.ottiptv.cc/yy/1382736801
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国外动作大片
+https://live.ottiptv.cc/yy/1382735540
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国外黑色喜剧：冷幽默小剧场
+https://live.ottiptv.cc/yy/1382745175
+#EXTINF:-1,tvg-id="莆田1套" tvg-name="莆田1套" tvg-logo="https://epg.v1.mk/logo/莆田1套.png" group-title="其他",田园生活
+https://live.ottiptv.cc/yy/1382736898
+#EXTINF:-1,tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png" group-title="其他",明天和你-韩剧
+https://live.ottiptv.cc/yy/1382749905
+#EXTINF:-1,tvg-id="bestv精彩连播" tvg-name="bestv精彩连播" tvg-logo="https://epg.v1.mk/logo/bestv精彩连播.png" group-title="其他",精彩动作电影
+https://live.ottiptv.cc/yy/1382736823
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内喜剧
+https://live.ottiptv.cc/yy/1382735563
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",毒液：致命守护者
+https://live.ottiptv.cc/yy/1382745095
+#EXTINF:-1,tvg-id="[NOWTV]133爆谷台(普)" tvg-name="[NOWTV]133爆谷台(普)" tvg-logo="https://epg.v1.mk/logo/[NOWTV]133爆谷台(普).png" group-title="其他",爆笑来袭-小品欢乐集结号
+https://live.ottiptv.cc/yy/1382735558
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="其他",无双花木兰
+https://live.ottiptv.cc/yy/1382749917
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神厨小福贵
+https://live.ottiptv.cc/yy/1382736860
+#EXTINF:-1,tvg-id="泗洪综合" tvg-name="泗洪综合" tvg-logo="https://epg.v1.mk/logo/泗洪综合.png" group-title="其他",洪大哥系列
+https://live.ottiptv.cc/yy/1354888743
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐集结号2
+https://live.ottiptv.cc/yy/1354930919
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大江大河-高分影视推荐
+https://live.ottiptv.cc/yy/1382736806
+#EXTINF:-1,tvg-id="bestv谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.v1.mk/logo/bestv谍战剧场.png" group-title="其他",战争与女性
+https://live.ottiptv.cc/yy/1382745179
+#EXTINF:-1,tvg-id="My Cinema Europe HD 我的欧洲电影" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/My Cinema Europe HD 我的欧洲电影.png" group-title="其他",我的父亲我的兵
+https://live.ottiptv.cc/yy/1353413714
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",缺宅男女-精彩港剧
+https://live.ottiptv.cc/yy/1382745088
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国外高分大片
+https://live.ottiptv.cc/yy/1382736867
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",钟馗传说
+https://live.ottiptv.cc/yy/1382736839
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736807
+#EXTINF:-1,tvg-id="CIBN流金岁月" tvg-name="CIBN流金岁月" tvg-logo="https://epg.v1.mk/logo/CIBN流金岁月.png" group-title="其他",流金岁月-经典港剧
+https://live.ottiptv.cc/yy/1382736891
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382745113
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",超炫科幻大片
+https://live.ottiptv.cc/yy/1382736840
+#EXTINF:-1,tvg-id="NEWTV熊猫生活" tvg-name="NEWTV熊猫生活" tvg-logo="https://epg.v1.mk/logo/NEWTV熊猫生活.png" group-title="其他",熊出没之探险日记-森林探险记
+https://live.ottiptv.cc/yy/1382745122
+#EXTINF:-1,tvg-id="bestv百视通" tvg-name="bestv百视通" tvg-logo="https://epg.v1.mk/logo/bestv百视通.png" group-title="其他",百家讲坛――之明太祖朱元璋
+https://live.ottiptv.cc/yy/1354936149
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",溏心风暴之家好月圆
+https://live.ottiptv.cc/yy/1354888747
+#EXTINF:-1,tvg-id="热门剧场专区" tvg-name="热门剧场专区" tvg-logo="https://epg.v1.mk/logo/热门剧场专区.png" group-title="其他",热门喜剧
+https://live.ottiptv.cc/yy/1354931495
+#EXTINF:-1,tvg-id="CCH动作" tvg-name="CCH动作" tvg-logo="https://epg.v1.mk/logo/CCH动作.png" group-title="其他",动作大片
+https://live.ottiptv.cc/yy/1354888739
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年四大名捕
+https://live.ottiptv.cc/yy/1354936203
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐集结号4
+https://live.ottiptv.cc/yy/1382736889
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国内经典动作电影
+https://live.ottiptv.cc/yy/1382851522
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382745103
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="其他",河山
+https://live.ottiptv.cc/yy/1382749952
+#EXTINF:-1,tvg-id="CIBN热播剧场" tvg-name="CIBN热播剧场" tvg-logo="https://epg.v1.mk/logo/CIBN热播剧场.png" group-title="其他",热播完美世界
+https://live.ottiptv.cc/yy/25444932
+#EXTINF:-1,tvg-id="My Cinema Europe HD 我的欧洲电影" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/My Cinema Europe HD 我的欧洲电影.png" group-title="其他",我的家人听不见，但我的爱你会听见
+https://live.ottiptv.cc/yy/1354936178
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736887
+#EXTINF:-1,tvg-id="动物世界" tvg-name="动物世界" tvg-logo="https://epg.v1.mk/logo/动物世界.png" group-title="其他",动物世界-领略原始野性
+https://live.ottiptv.cc/yy/1382743138
+#EXTINF:-1,tvg-id="CCTV-17农业" tvg-name="CCTV-17农业" tvg-logo="https://epg.v1.mk/logo/CCTV-17农业.png" group-title="其他",农家小菜
+https://live.ottiptv.cc/yy/1382736894
+#EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="其他",一起来笑吧
+https://live.ottiptv.cc/yy/1454859415
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",太空荒野求生记-火星救援
+https://live.ottiptv.cc/yy/1354930957
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐集结号58-70
+https://live.ottiptv.cc/yy/1382745119
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",本山选谁上-喜剧人选拔
+https://live.ottiptv.cc/yy/1382749878
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",憨豆先生-经典喜剧
+https://live.ottiptv.cc/yy/1354936239
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高分港剧合集
+https://live.ottiptv.cc/yy/1382735542
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382735579
+#EXTINF:-1,tvg-id="CIBN金古珍藏" tvg-name="CIBN金古珍藏" tvg-logo="https://epg.v1.mk/logo/CIBN金古珍藏.png" group-title="其他",藏地密码：秘境探险，悬念拉满
+https://live.ottiptv.cc/yy/1382851576
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382736918
+#EXTINF:-1,tvg-id="bestv百视通" tvg-name="bestv百视通" tvg-logo="https://epg.v1.mk/logo/bestv百视通.png" group-title="其他",百家讲坛-红楼梦篇
+https://live.ottiptv.cc/yy/1382741639
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",舌尖上的中国第2季
+https://live.ottiptv.cc/yy/1354930943
+#EXTINF:-1,tvg-id="amc最爱电影" tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="其他",最美的青春
+https://live.ottiptv.cc/yy/1382851530
+#EXTINF:-1,tvg-id="贾汪新闻" tvg-name="贾汪新闻" tvg-logo="https://epg.v1.mk/logo/贾汪新闻.png" group-title="其他",贾玲春晚小品
+https://live.ottiptv.cc/yy/1382736720
+#EXTINF:-1,tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://epg.v1.mk/logo/清远文旅生活.png" group-title="其他",远去的飞鹰-影视剧
+https://live.ottiptv.cc/yy/1354930912
+#EXTINF:-1,tvg-id="7喜先生" tvg-name="7喜先生" tvg-logo="https://epg.v1.mk/logo/7喜先生.png" group-title="其他",生存大战，尽显人性
+https://live.ottiptv.cc/yy/1414864186
+#EXTINF:-1,tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://epg.v1.mk/logo/newtv农业致富.png" group-title="其他",致敬星爷致敬经典
+https://live.ottiptv.cc/yy/1354889048
+#EXTINF:-1,tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="其他",欢乐集结号
+https://live.ottiptv.cc/yy/1354931582
+#EXTINF:-1,tvg-id="我爱你中国" tvg-name="我爱你中国" tvg-logo="https://epg.v1.mk/logo/我爱你中国.png" group-title="其他",你最爱的小龙女-神雕侠侣
+https://live.ottiptv.cc/yy/1354926637
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",宫心计-港剧-古装
+https://live.ottiptv.cc/yy/1354933540
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大台风
+https://live.ottiptv.cc/yy/1382735583
+#EXTINF:-1,tvg-id="bestv宝宝动画" tvg-name="bestv宝宝动画" tvg-logo="https://epg.v1.mk/logo/bestv宝宝动画.png" group-title="其他",宝莲灯前传
+https://live.ottiptv.cc/yy/1354931631
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",哑巴竟然会说话
+https://live.ottiptv.cc/yy/1354932427
+#EXTINF:-1,tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="https://epg.v1.mk/logo/CCTV-8电视剧.png" group-title="其他",电视剧-流金岁月
+https://live.ottiptv.cc/yy/1382749906
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",什么会让你快乐
+https://live.ottiptv.cc/yy/54886912
+#EXTINF:-1,tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://epg.v1.mk/logo/热血剧场.png" group-title="其他",热血少年上线，《长歌行》开播
+https://live.ottiptv.cc/yy/1382736802
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",能耐大了第1季
+https://live.ottiptv.cc/yy/1354930195
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",本山快乐营1
+https://live.ottiptv.cc/yy/1354936209
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",傲娇千金惹人醉
+https://live.ottiptv.cc/yy/1382851602
+#EXTINF:-1,tvg-id="紧急预警" tvg-name="紧急预警" tvg-logo="https://epg.v1.mk/logo/紧急预警.png" group-title="其他",紧急营救
+https://live.ottiptv.cc/yy/1354926676
+#EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="其他",欢喜冤家的爱情-夏日乐悠悠
+https://live.ottiptv.cc/yy/1354936191
+#EXTINF:-1,tvg-id="新蔡电视台" tvg-name="新蔡电视台" tvg-logo="https://epg.v1.mk/logo/新蔡电视台.png" group-title="其他",蔡明春晚小品
+https://live.ottiptv.cc/yy/1354936177
+#EXTINF:-1,tvg-id="cctv-发现之旅" tvg-name="cctv-发现之旅" tvg-logo="https://epg.v1.mk/logo/cctv-发现之旅.png" group-title="其他",发哥系列
+https://live.ottiptv.cc/yy/1354888733
+#EXTINF:-1,tvg-id="CIBN金古珍藏" tvg-name="CIBN金古珍藏" tvg-logo="https://epg.v1.mk/logo/CIBN金古珍藏.png" group-title="其他",珍珠港-电影
+https://live.ottiptv.cc/yy/1354936234
+#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="其他",科幻惊悚片-异形
+https://live.ottiptv.cc/yy/1382735543
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",银河护卫队-国外科幻巨作
+https://live.ottiptv.cc/yy/1382736815
+#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="其他",科幻电影
+https://live.ottiptv.cc/yy/1354930209
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高分动作片——创可贴
+https://live.ottiptv.cc/yy/1382735568
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典动漫
+https://live.ottiptv.cc/yy/67857780
+#EXTINF:-1,tvg-id="寰宇HD综合" tvg-name="寰宇HD综合" tvg-logo="https://epg.v1.mk/logo/寰宇HD综合.png" group-title="其他",宇宙护卫队--国漫
+https://live.ottiptv.cc/yy/1382736837
+#EXTINF:-1,tvg-id="电视机" tvg-name="电视机" tvg-logo="https://epg.v1.mk/logo/电视机.png" group-title="其他",机械战警1-3
+https://live.ottiptv.cc/yy/1382736854
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",忠诚无畏，战犬出击
+https://live.ottiptv.cc/yy/1354930225
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国产家庭电视剧-如果岁月可回头
+https://live.ottiptv.cc/yy/1382736883
+#EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="其他",欢迎光临
+https://live.ottiptv.cc/yy/1355532933
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",降魔传-神魔大战
+https://live.ottiptv.cc/yy/1354932371
+#EXTINF:-1,tvg-id="天府名医在线" tvg-name="天府名医在线" tvg-logo="https://epg.v1.mk/logo/天府名医在线.png" group-title="其他",名媛望族-精彩港剧
+https://live.ottiptv.cc/yy/1354932431
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",妖神记之黑狱篇
+https://live.ottiptv.cc/yy/1382745173
+#EXTINF:-1,tvg-id="KLT靖天国际" tvg-name="KLT靖天国际" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际.png" group-title="其他",天蓬元帅现代重生，爆笑修仙之旅开启
+https://live.ottiptv.cc/yy/1354930189
+#EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="其他",一分钟学道菜
+https://live.ottiptv.cc/yy/1382736901
+#EXTINF:-1,tvg-id="CBN幸福剧场" tvg-name="CBN幸福剧场" tvg-logo="https://epg.v1.mk/logo/CBN幸福剧场.png" group-title="其他",福贵
+https://live.ottiptv.cc/yy/1354926537
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",从溺水到冠军，热血泳坛励志传奇
+https://live.ottiptv.cc/yy/1382736723
+#EXTINF:-1,tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/newtv潮妈辣婆.png" group-title="其他",辣警狂花2
+https://live.ottiptv.cc/yy/1382745110
+#EXTINF:-1,tvg-id="newtv潮妈辣婆" tvg-name="newtv潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/newtv潮妈辣婆.png" group-title="其他",辣警狂花
+https://live.ottiptv.cc/yy/1382736892
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高能博弈—大事件
+https://live.ottiptv.cc/yy/1382749898
+#EXTINF:-1,tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="https://epg.v1.mk/logo/新白娘子传奇.png" group-title="其他",白领被迫当楼奴？
+https://live.ottiptv.cc/yy/1382736832
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",拳拳到肉，搏击燃情
+https://live.ottiptv.cc/yy/1382736870
+#EXTINF:-1,tvg-id="cctv-中学生" tvg-name="cctv-中学生" tvg-logo="https://epg.v1.mk/logo/cctv-中学生.png" group-title="其他",学生兵
+https://live.ottiptv.cc/yy/1354658003
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",超燃科幻大片：明日边缘
+https://live.ottiptv.cc/yy/1382736835
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",另类猪妖爆笑逆袭
+https://live.ottiptv.cc/yy/1354936155
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",抗日神片，燃爆抗战热血魂
+https://live.ottiptv.cc/yy/1354926600
+#EXTINF:-1,tvg-id="天府名医在线" tvg-name="天府名医在线" tvg-logo="https://epg.v1.mk/logo/天府名医在线.png" group-title="其他",名不虚传-韩剧
+https://live.ottiptv.cc/yy/1382749904
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神探狄仁杰1—5部全集
+https://live.ottiptv.cc/yy/1382705592
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",狄仁杰智破红瞳谜案
+https://live.ottiptv.cc/yy/1354936116
+#EXTINF:-1,tvg-id="126民視影劇台" tvg-name="126民視影劇台" tvg-logo="https://epg.v1.mk/logo/126民視影劇台.png" group-title="其他",民间怪谈盗暮
+https://live.ottiptv.cc/yy/1355171231
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",施公奇案2-欧阳震华
+https://live.ottiptv.cc/yy/1382736824
+#EXTINF:-1,tvg-id="霹雳台湾台" tvg-name="霹雳台湾台" tvg-logo="https://epg.v1.mk/logo/霹雳台湾台.png" group-title="其他",霹雳火：速度与激情
+https://live.ottiptv.cc/yy/1382736895
+#EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="其他",一局定生死，谁才是真正的赌王？
+https://live.ottiptv.cc/yy/1382735552
+#EXTINF:-1,tvg-id="CIBN喜剧影院" tvg-name="CIBN喜剧影院" tvg-logo="https://epg.v1.mk/logo/CIBN喜剧影院.png" group-title="其他",喜剧闹翻天
+https://live.ottiptv.cc/yy/1382735548
+#EXTINF:-1,tvg-id="天府名医在线" tvg-name="天府名医在线" tvg-logo="https://epg.v1.mk/logo/天府名医在线.png" group-title="其他",在殡仪馆发生的奇葩囧事
+https://live.ottiptv.cc/yy/1354936214
+#EXTINF:-1,tvg-id="bestv谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.v1.mk/logo/bestv谍战剧场.png" group-title="其他",战狼7吴京退役
+https://live.ottiptv.cc/yy/1382773714
+#EXTINF:-1,tvg-id="BTV国际" tvg-name="BTV国际" tvg-logo="https://epg.v1.mk/logo/BTV国际.png" group-title="其他",国产动作电影
+https://live.ottiptv.cc/yy/1382736858
+#EXTINF:-1,tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://epg.v1.mk/logo/newtv农业致富.png" group-title="其他",致命武器3
+https://live.ottiptv.cc/yy/1382749918
+#EXTINF:-1,tvg-id="绝地求生" tvg-name="绝地求生" tvg-logo="https://epg.v1.mk/logo/绝地求生.png" group-title="其他",绝境博弈，无路可逃
+https://live.ottiptv.cc/yy/1382851597
+#EXTINF:-1,tvg-id="LS龙翔时代" tvg-name="LS龙翔时代" tvg-logo="https://epg.v1.mk/logo/LS龙翔时代.png" group-title="其他",时代剧，黄土高天
+https://live.ottiptv.cc/yy/1414864180
+#EXTINF:-1,tvg-id="NEWTV欧美动画" tvg-name="NEWTV欧美动画" tvg-logo="https://epg.v1.mk/logo/NEWTV欧美动画.png" group-title="其他",欧美配音电影！！！
+https://live.ottiptv.cc/yy/1354693629
+#EXTINF:-1,tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" tvg-logo="https://epg.v1.mk/logo/4K乐享超清专区.png" group-title="其他",清官难当？看芝麻官如何破局
+https://live.ottiptv.cc/yy/1382749909
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高分经典动作片
+https://live.ottiptv.cc/yy/1382749944
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",本山快乐营2
+https://live.ottiptv.cc/yy/1382736718
+#EXTINF:-1,tvg-id="CBN每日影院" tvg-name="CBN每日影院" tvg-logo="https://epg.v1.mk/logo/CBN每日影院.png" group-title="其他",每天都要快乐哦！
+https://live.ottiptv.cc/yy/1354930909
+#EXTINF:-1,tvg-id="BTV影视" tvg-name="BTV影视" tvg-logo="https://epg.v1.mk/logo/BTV影视.png" group-title="其他",影视小艺
+https://live.ottiptv.cc/yy/1382737886
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",舌尖上的中国第一季
+https://live.ottiptv.cc/yy/1354930952
+#EXTINF:-1,tvg-id="电影2" tvg-name="电影2" tvg-logo="https://epg.v1.mk/logo/电影2.png" group-title="其他",电影
+https://live.ottiptv.cc/yy/37454459
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",【新三国】
+https://live.ottiptv.cc/yy/1382851415
+#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="其他",悬疑反转，直击真相
+https://live.ottiptv.cc/yy/1354930954
+#EXTINF:-1,tvg-id="ASIANET-NEWS" tvg-name="ASIANET-NEWS" tvg-logo="https://epg.v1.mk/logo/ASIANET-NEWS.png" group-title="其他",Simon Amstell：躺平哲学
+https://live.ottiptv.cc/yy/1382749951
+#EXTINF:-1,tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://epg.v1.mk/logo/热血剧场.png" group-title="其他",热血战争巨作
+https://live.ottiptv.cc/yy/1382745087
+#EXTINF:-1,tvg-id="20240101085721157TEMPIMAGE" tvg-name="20240101085721157TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png" group-title="其他",24H地下交通站全
+https://live.ottiptv.cc/yy/37880083
+#EXTINF:-1,tvg-id="封丘" tvg-name="封丘" tvg-logo="https://epg.v1.mk/logo/封丘.png" group-title="其他",封神：祸商
+https://live.ottiptv.cc/yy/1354932407
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",笔墨传情，致敬经典——妙墨中国心
+https://live.ottiptv.cc/yy/1382745178
+#EXTINF:-1,tvg-id="PK" tvg-name="PK" tvg-logo="https://epg.v1.mk/logo/PK.png" group-title="其他",PK地球神
+https://live.ottiptv.cc/yy/1382736872
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",探案！探案！
+https://live.ottiptv.cc/yy/1382829413
+#EXTINF:-1,tvg-id="露雪" tvg-name="露雪" tvg-logo="https://epg.v1.mk/logo/露雪.png" group-title="其他",雪中悍刀行
+https://live.ottiptv.cc/yy/1382881708
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",乔·科伊热辣开麦
+https://live.ottiptv.cc/yy/1382735625
+#EXTINF:-1,tvg-id="amc最爱电影" tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="其他",最佳下饭小甜剧，暖心暖胃
+https://live.ottiptv.cc/yy/1382741637
+#EXTINF:-1,tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://epg.v1.mk/logo/热血剧场.png" group-title="其他",热血抗日电影
+https://live.ottiptv.cc/yy/1382749907
+#EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="其他",一剑开天门
+https://live.ottiptv.cc/yy/34313906
+#EXTINF:-1,tvg-id="人民铁道视频" tvg-name="人民铁道视频" tvg-logo="https://epg.v1.mk/logo/人民铁道视频.png" group-title="其他",铁血拍档：并肩破局的燃魂对决
+https://live.ottiptv.cc/yy/1382736884
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",渴望
+https://live.ottiptv.cc/yy/1354930963
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",返乡青年撞破村中隐秘——村里有情况
+https://live.ottiptv.cc/yy/1382749940
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小甜甜    闯关东
+https://live.ottiptv.cc/yy/1354689861
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",搬山道人之落天荒
+https://live.ottiptv.cc/yy/1382736916
+#EXTINF:-1,tvg-id="BTV卡酷少儿" tvg-name="BTV卡酷少儿" tvg-logo="https://epg.v1.mk/logo/BTV卡酷少儿.png" group-title="其他",少年包青天美黑之旅
+https://live.ottiptv.cc/yy/1354936141
+#EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="其他",来看修牛蹄
+https://live.ottiptv.cc/yy/1382749887
+#EXTINF:-1,tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="https://epg.v1.mk/logo/新白娘子传奇.png" group-title="其他",娘亲舅大
+https://live.ottiptv.cc/yy/1354932360
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",漂泊多年归来，故乡与旧爱能否依旧？
+https://live.ottiptv.cc/yy/1382736849
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小人国——介子鬼城
+https://live.ottiptv.cc/yy/1382749950
+#EXTINF:-1,tvg-id="深圳" tvg-name="深圳" tvg-logo="https://epg.v1.mk/logo/深圳.png" group-title="其他",深海巨兽惊现，渔民与神秘生物的生存博弈
+https://live.ottiptv.cc/yy/1382745111
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",笑傲江湖-电视剧
+https://live.ottiptv.cc/yy/1354936128
+#EXTINF:-1,tvg-id="NewTV四川" tvg-name="NewTV四川" tvg-logo="https://epg.v1.mk/logo/NewTV四川.png" group-title="其他",四位闺蜜继续在爱情与事业中寻找平衡
+https://live.ottiptv.cc/yy/1354931488
+#EXTINF:-1,tvg-id="内蒙古农牧频道" tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="其他",牧野诡事之赤丹珠
+https://live.ottiptv.cc/yy/1382736863
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",毒力觉醒的异能逆袭狂潮
+https://live.ottiptv.cc/yy/1354926735
+#EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.v1.mk/logo/先锋乒羽.png" group-title="港澳台",先锋之那时青春-热血年代
+https://live.ottiptv.cc/yy/1382736833
+#EXTINF:-1,tvg-id="还好" tvg-name="还好" tvg-logo="https://epg.v1.mk/logo/还好.png" group-title="其他",还原英雄最后的壮烈！
+https://live.ottiptv.cc/yy/1354930984
+#EXTINF:-1,tvg-id="cctv-老故事" tvg-name="cctv-老故事" tvg-logo="https://epg.v1.mk/logo/cctv-老故事.png" group-title="其他",老夫少妻搞笑忘年恋
+https://live.ottiptv.cc/yy/1354932391
+#EXTINF:-1,tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" tvg-logo="https://epg.v1.mk/logo/CIBN情感影院.png" group-title="其他",感人又搞笑，父爱创造奇迹
+https://live.ottiptv.cc/yy/1354932365
+#EXTINF:-1,tvg-id="人民铁道视频" tvg-name="人民铁道视频" tvg-logo="https://epg.v1.mk/logo/人民铁道视频.png" group-title="其他",铁道游击队~经典抗战剧
+https://live.ottiptv.cc/yy/1356051105
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新木乃伊：古埃及公主复活的灾难对决
+https://live.ottiptv.cc/yy/1354936169
+#EXTINF:-1,tvg-id="NewTV海外剧场" tvg-name="NewTV海外剧场" tvg-logo="https://epg.v1.mk/logo/NewTV海外剧场.png" group-title="其他",海王-院线大片
+https://live.ottiptv.cc/yy/1354936142
+#EXTINF:-1,tvg-id="丹东生活" tvg-name="丹东生活" tvg-logo="https://epg.v1.mk/logo/丹东生活.png" group-title="其他",丹尼尔·斯洛斯烧脑谜题
+https://live.ottiptv.cc/yy/1354936199
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",艾迪格里芬：经典就是我
+https://live.ottiptv.cc/yy/1354932409
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",巾帼枭雄之义海豪情
+https://live.ottiptv.cc/yy/1382736859
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",呆萌飞行员
+https://live.ottiptv.cc/yy/1354930968
+#EXTINF:-1,tvg-id="ASIANFOODNETWORK亚洲美食" tvg-name="ASIANFOODNETWORK亚洲美食" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK亚洲美食.png" group-title="其他",亚洲笑星征服美国
+https://live.ottiptv.cc/yy/1382736920
+#EXTINF:-1,tvg-id="狼谷竞技" tvg-name="狼谷竞技" tvg-logo="https://epg.v1.mk/logo/狼谷竞技.png" group-title="其他",狼叔终章，为守护变种人殊死一搏
+https://live.ottiptv.cc/yy/1382736913
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382745182
+#EXTINF:-1,tvg-id="Now紫金国际台" tvg-name="Now紫金国际台" tvg-logo="https://epg.v1.mk/logo/Now紫金国际台.png" group-title="其他",紫霞仙子被揍了
+https://live.ottiptv.cc/yy/1382656234
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",雍正王朝
+https://live.ottiptv.cc/yy/1459714870
+#EXTINF:-1,tvg-id="My Cinema Europe HD 我的欧洲电影" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/My Cinema Europe HD 我的欧洲电影.png" group-title="其他",的直播间
+https://live.ottiptv.cc/yy/1354129442
+#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="其他",悬疑武侠电影—九门
+https://live.ottiptv.cc/yy/1382828768
+#EXTINF:-1,tvg-id="IPTV萌宠TV" tvg-name="IPTV萌宠TV" tvg-logo="https://epg.v1.mk/logo/IPTV萌宠TV.png" group-title="其他",萌妹特攻队爆笑出击
+https://live.ottiptv.cc/yy/1354930971
+#EXTINF:-1,tvg-id="NEWTV金牌綜藝" tvg-name="NEWTV金牌綜藝" tvg-logo="https://epg.v1.mk/logo/NEWTV金牌綜藝.png" group-title="其他",金牌喜剧班
+https://live.ottiptv.cc/yy/1354889009
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小爽东北菇凉，求守护
+https://live.ottiptv.cc/yy/1382609850
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",不可能的任务-碟中谍4
+https://live.ottiptv.cc/yy/1354930967
+#EXTINF:-1,tvg-id="cctv-女性时尚" tvg-name="cctv-女性时尚" tvg-logo="https://epg.v1.mk/logo/cctv-女性时尚.png" group-title="其他",时间的答卷第二季
+https://live.ottiptv.cc/yy/1382745106
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",当旺爸爸-港剧
+https://live.ottiptv.cc/yy/1354936208
+#EXTINF:-1,tvg-id="BTV体育休闲" tvg-name="BTV体育休闲" tvg-logo="https://epg.v1.mk/logo/BTV体育休闲.png" group-title="其他",闲暇观看综艺
+https://live.ottiptv.cc/yy/1354932379
+#EXTINF:-1,tvg-id="ARABICRADIO&TVVARIETY" tvg-name="ARABICRADIO&TVVARIETY" tvg-logo="https://epg.v1.mk/logo/ARABICRADIO&TVVARIETY.png" group-title="其他",Bill Burr暴躁经典重现
+https://live.ottiptv.cc/yy/1382736917
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",异地演出，炸场奇遇
+https://live.ottiptv.cc/yy/1382735561
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",笑果伴酒，快乐中秋
+https://live.ottiptv.cc/yy/1382745092
+#EXTINF:-1,tvg-id="AHYYGB" tvg-name="AHYYGB" tvg-logo="https://epg.v1.mk/logo/AHYYGB.png" group-title="其他",YY用户
+https://live.ottiptv.cc/yy/1382735545
+#EXTINF:-1,tvg-id="唯心电视" tvg-name="唯心电视" tvg-logo="https://epg.v1.mk/logo/唯心电视.png" group-title="其他",心动信号甜蜜发酵
+https://live.ottiptv.cc/yy/1382736819
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新时代农村青年的热血奋斗记
+https://live.ottiptv.cc/yy/1382736715
+#EXTINF:-1,tvg-id="TECHSTORM" tvg-name="TECHSTORM" tvg-logo="https://epg.v1.mk/logo/TECHSTORM.png" group-title="其他",Storm憋了一年大招
+https://live.ottiptv.cc/yy/1382735559
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",跨越人鬼契约，宿命伙伴并肩作战
+https://live.ottiptv.cc/yy/1382749888
+#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB力作：团圆
+https://live.ottiptv.cc/yy/1382745094
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",异类入侵高能反转
+https://live.ottiptv.cc/yy/1354936217
+#EXTINF:-1,tvg-id="旺苍综合" tvg-name="旺苍综合" tvg-logo="https://epg.v1.mk/logo/旺苍综合.png" group-title="其他",旺达·塞克丝：怼遍全场
+https://live.ottiptv.cc/yy/1354936221
+#EXTINF:-1,tvg-id="紧急预警" tvg-name="紧急预警" tvg-logo="https://epg.v1.mk/logo/紧急预警.png" group-title="其他",警匪智力对决，谁才是最后的赢家？
+https://live.ottiptv.cc/yy/1354889042
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",当夫妻搭档为同事，鸡飞狗跳的故事开始了
+https://live.ottiptv.cc/yy/1354932402
+#EXTINF:-1,tvg-id="天龙八部" tvg-name="天龙八部" tvg-logo="https://epg.v1.mk/logo/天龙八部.png" group-title="其他",天龙八部
+https://live.ottiptv.cc/yy/1355067965
+#EXTINF:-1,tvg-id="开化国家公园" tvg-name="开化国家公园" tvg-logo="https://epg.v1.mk/logo/开化国家公园.png" group-title="其他",开放麦现场惊现认亲
+https://live.ottiptv.cc/yy/1354936181
+#EXTINF:-1,tvg-id="IHOT爱军武" tvg-name="IHOT爱军武" tvg-logo="https://epg.v1.mk/logo/IHOT爱军武.png" group-title="其他",武状元落魄，神谕指引丐帮逆袭
+https://live.ottiptv.cc/yy/1382736882
+#EXTINF:-1,tvg-id="CIBN快乐购物" tvg-name="CIBN快乐购物" tvg-logo="https://epg.v1.mk/logo/CIBN快乐购物.png" group-title="其他",快递小哥变身英雄
+https://live.ottiptv.cc/yy/1354932405
+#EXTINF:-1,tvg-id="广东揭西台" tvg-name="广东揭西台" tvg-logo="https://epg.v1.mk/logo/广东揭西台.png" group-title="其他",揭秘！经典传奇背后的未解之谜
+https://live.ottiptv.cc/yy/1382736912
+#EXTINF:-1,tvg-id="DOX英伦" tvg-name="DOX英伦" tvg-logo="https://epg.v1.mk/logo/DOX英伦.png" group-title="其他",英伦特工智斗谍影
+https://live.ottiptv.cc/yy/1382736841
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",颠覆秩序的声浪狂潮
+https://live.ottiptv.cc/yy/1354932426
+#EXTINF:-1,tvg-id="My Cinema Europe HD 我的欧洲电影" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/My Cinema Europe HD 我的欧洲电影.png" group-title="其他",我的男友超能力失控！甜蜜与危机的恋爱日常
+https://live.ottiptv.cc/yy/1354930915
+#EXTINF:-1,tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://epg.v1.mk/logo/重广融媒.png" group-title="其他",重启
+https://live.ottiptv.cc/yy/1354888736
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",嗜血巨狼突袭人类
+https://live.ottiptv.cc/yy/1382735560
+#EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://epg.v1.mk/logo/李连杰.png" group-title="其他",杰斯尼克暗黑我思我祷
+https://live.ottiptv.cc/yy/1354658051
+#EXTINF:-1,tvg-id="amc最爱电影" tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="其他",最佳时机：命运转角的最佳抉择与奔赴
+https://live.ottiptv.cc/yy/1354936207
+#EXTINF:-1,tvg-id="CIBN热播剧场" tvg-name="CIBN热播剧场" tvg-logo="https://epg.v1.mk/logo/CIBN热播剧场.png" group-title="其他",热烈的玫瑰
+https://live.ottiptv.cc/yy/1382736798
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",孤胆英雄以一敌百，热血爆燃格斗盛宴
+https://live.ottiptv.cc/yy/1354936136
+#EXTINF:-1,tvg-id="LS龙翔时代" tvg-name="LS龙翔时代" tvg-logo="https://epg.v1.mk/logo/LS龙翔时代.png" group-title="其他",龙师傅来接招
+https://live.ottiptv.cc/yy/1354889015
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",忠犬救主，一段感动人心的陪伴之旅
+https://live.ottiptv.cc/yy/1382736719
+#EXTINF:-1,tvg-id="天龙八部" tvg-name="天龙八部" tvg-logo="https://epg.v1.mk/logo/天龙八部.png" group-title="其他",天龙八部（国语版）
+https://live.ottiptv.cc/yy/1382736855
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",打破第四面墙
+https://live.ottiptv.cc/yy/1382745090
+#EXTINF:-1,tvg-id="婷小姐" tvg-name="婷小姐" tvg-logo="https://epg.v1.mk/logo/婷小姐.png" group-title="其他",小姐姐能打十个？神勇女侠颠覆你的认知！
+https://live.ottiptv.cc/yy/1354933556
+#EXTINF:-1,tvg-id="梦幻西游手游" tvg-name="梦幻西游手游" tvg-logo="https://epg.v1.mk/logo/梦幻西游手游.png" group-title="其他",手机APP掌控人生
+https://live.ottiptv.cc/yy/1382736874
+#EXTINF:-1,tvg-id="梅州1套" tvg-name="梅州1套" tvg-logo="https://epg.v1.mk/logo/梅州1套.png" group-title="其他",梅超风往事
+https://live.ottiptv.cc/yy/1382745190
+#EXTINF:-1,tvg-id="126民視影劇台" tvg-name="126民視影劇台" tvg-logo="https://epg.v1.mk/logo/126民視影劇台.png" group-title="其他",民国恋情：乱世中一朵兰花的爱与挣扎
+https://live.ottiptv.cc/yy/1354926622
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",追踪神秘狐影
+https://live.ottiptv.cc/yy/1382749953
+#EXTINF:-1,tvg-id="bestv谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.v1.mk/logo/bestv谍战剧场.png" group-title="其他",战火中的兄弟情义
+https://live.ottiptv.cc/yy/1382736844
+#EXTINF:-1,tvg-id="IPTV萌宠TV" tvg-name="IPTV萌宠TV" tvg-logo="https://epg.v1.mk/logo/IPTV萌宠TV.png" group-title="其他",萌娃七宝乌龙不断，笑料百出的家庭大战
+https://live.ottiptv.cc/yy/1354930903
+#EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="其他",一段关于救赎与坚守的西部传奇
+https://live.ottiptv.cc/yy/1382741640
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",乔·科伊席卷西雅图
+https://live.ottiptv.cc/yy/1382749911
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",憨夫憨妇闯情关
+https://live.ottiptv.cc/yy/1382735581
+#EXTINF:-1,tvg-id="Astro全佳" tvg-name="Astro全佳" tvg-logo="https://epg.v1.mk/logo/Astro全佳.png" group-title="其他",全村一起搞艺术
+https://live.ottiptv.cc/yy/1354936210
+#EXTINF:-1,tvg-id="BTV体育休闲" tvg-name="BTV体育休闲" tvg-logo="https://epg.v1.mk/logo/BTV体育休闲.png" group-title="其他",体验另一种生活！
+https://live.ottiptv.cc/yy/1354936229
+#EXTINF:-1,tvg-id="cctv-女性时尚" tvg-name="cctv-女性时尚" tvg-logo="https://epg.v1.mk/logo/cctv-女性时尚.png" group-title="其他",女婿翻身大战岳母，家庭地位争夺爆笑开演
+https://live.ottiptv.cc/yy/1354930945
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",跨国生死救援！毒枭围困中的绝地反击
+https://live.ottiptv.cc/yy/1354926643
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大闹三界奇幻冒险
+https://live.ottiptv.cc/yy/1382736804
+#EXTINF:-1,tvg-id="cctv15音乐" tvg-name="cctv15音乐" tvg-logo="https://epg.v1.mk/logo/cctv15音乐.png" group-title="其他",音乐才女与霸道总裁的治愈之恋
+https://live.ottiptv.cc/yy/1382735573
+#EXTINF:-1,tvg-id="赵一" tvg-name="赵一" tvg-logo="https://epg.v1.mk/logo/赵一.png" group-title="其他",赵牡丹，辛辣开麦
+https://live.ottiptv.cc/yy/1382736893
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",戴夫吐槽晕头转向的时代
+https://live.ottiptv.cc/yy/1382736869
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",跨越时空的誓言，此生只为你守候
+https://live.ottiptv.cc/yy/1382749912
+#EXTINF:-1,tvg-id="CIBN情感影院" tvg-name="CIBN情感影院" tvg-logo="https://epg.v1.mk/logo/CIBN情感影院.png" group-title="其他",感人至深！孝子之举撼动天地
+https://live.ottiptv.cc/yy/1382736857
+#EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="其他",未来中国
+https://live.ottiptv.cc/yy/1354932429
+#EXTINF:-1,tvg-id="NEWTV小小课堂" tvg-name="NEWTV小小课堂" tvg-logo="https://epg.v1.mk/logo/NEWTV小小课堂.png" group-title="其他",小小心事，笑着流泪
+https://live.ottiptv.cc/yy/1382736852
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",当老师患有妥瑞氏症，她如何拯救 “垫底班”？
+https://live.ottiptv.cc/yy/1382745181
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",暗恋成真青春纯爱
+https://live.ottiptv.cc/yy/1382736817
+#EXTINF:-1,tvg-id="NEWTV动画王国" tvg-name="NEWTV动画王国" tvg-logo="https://epg.v1.mk/logo/NEWTV动画王国.png" group-title="其他",王牌保镖在此
+https://live.ottiptv.cc/yy/1382749913
+#EXTINF:-1,tvg-id="许仙" tvg-name="许仙" tvg-logo="https://epg.v1.mk/logo/许仙.png" group-title="其他",许光汉主演喜剧大片
+https://live.ottiptv.cc/yy/1382736825
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典传奇2018
+https://live.ottiptv.cc/yy/1382745189
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",硬汉搭档扫黑，致命武器2
+https://live.ottiptv.cc/yy/1382736865
+#EXTINF:-1,tvg-id="TVB为食" tvg-name="TVB为食" tvg-logo="https://epg.v1.mk/logo/TVB为食.png" group-title="其他",为妈妈点赞
+https://live.ottiptv.cc/yy/1382745098
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新弦已张，静候谁的指尖与故事？
+https://live.ottiptv.cc/yy/1354936170
+#EXTINF:-1,tvg-id="CIBN留学世界" tvg-name="CIBN留学世界" tvg-logo="https://epg.v1.mk/logo/CIBN留学世界.png" group-title="其他",留学澳大利亚的蓝翔梗王
+https://live.ottiptv.cc/yy/1354932441
+#EXTINF:-1,tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://epg.v1.mk/logo/newtv爱情喜剧.png" group-title="其他",爱情拯救计划
+https://live.ottiptv.cc/yy/1354936238
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",守护千年雄关
+https://live.ottiptv.cc/yy/1354936228
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",踮脚拥抱爱情
+https://live.ottiptv.cc/yy/1354930927
+#EXTINF:-1,tvg-id="cctv-女性时尚" tvg-name="cctv-女性时尚" tvg-logo="https://epg.v1.mk/logo/cctv-女性时尚.png" group-title="其他",女医明妃传
+https://live.ottiptv.cc/yy/1382736861
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",破解终极密码
+https://live.ottiptv.cc/yy/1382735571
+#EXTINF:-1,tvg-id="狼谷竞技" tvg-name="狼谷竞技" tvg-logo="https://epg.v1.mk/logo/狼谷竞技.png" group-title="其他",狼爸硬核带娃
+https://live.ottiptv.cc/yy/1382735627
+#EXTINF:-1,tvg-id="bestv哒啵赛事" tvg-name="bestv哒啵赛事" tvg-logo="https://epg.v1.mk/logo/bestv哒啵赛事.png" group-title="其他",赛道争锋！
+https://live.ottiptv.cc/yy/1382736853
+#EXTINF:-1,tvg-id="非凡商业" tvg-name="非凡商业" tvg-logo="https://epg.v1.mk/logo/非凡商业.png" group-title="其他",非典型恋爱
+https://live.ottiptv.cc/yy/1354936157
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",带你领略四季的变化
+https://live.ottiptv.cc/yy/1354930816
+#EXTINF:-1,tvg-id="amc最爱电影" tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="其他",爱在璀璨时
+https://live.ottiptv.cc/yy/1354926671
+#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="其他",悬疑剧-河神
+https://live.ottiptv.cc/yy/1353413683
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",燃燃影视
+https://live.ottiptv.cc/yy/50298248
+#EXTINF:-1,tvg-id="神州之声" tvg-name="神州之声" tvg-logo="https://epg.v1.mk/logo/神州之声.png" group-title="其他",神秘来客闯入
+https://live.ottiptv.cc/yy/1382736820
+#EXTINF:-1,tvg-id="ASIANFOODNETWORK亚洲美食" tvg-name="ASIANFOODNETWORK亚洲美食" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK亚洲美食.png" group-title="其他",美女保镖出击！
+https://live.ottiptv.cc/yy/1354936231
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",坑你没商量
+https://live.ottiptv.cc/yy/1354936160
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",契约夫妻上线
+https://live.ottiptv.cc/yy/1354936154
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",杀机四伏
+https://live.ottiptv.cc/yy/1354936195
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",暗战幽灵毒枭
+https://live.ottiptv.cc/yy/1382745099
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",拳战闸北！
+https://live.ottiptv.cc/yy/1382749910
+#EXTINF:-1,tvg-id="CBN幸福娱乐" tvg-name="CBN幸福娱乐" tvg-logo="https://epg.v1.mk/logo/CBN幸福娱乐.png" group-title="其他",娱乐消遣   不喜勿喷
+https://live.ottiptv.cc/yy/47200573
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",短剧陈翔六点半
+https://isus.cc/php/huya.php?id=11274154
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",短剧人生回答机本机
+http://222.186.39.21:35466/douyu/9409722
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",短剧郑云工作室
+http://222.186.39.21:35466/douyu/2995636
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",短剧王Li差点红
+http://222.186.39.21:35466/douyu/9348469
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",短剧不思异剧场
+http://222.186.39.21:35466/douyu/9297412
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆楚汉骄雄
+https://isus.cc/php/huya.php?id=29465854
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆封神榜
+https://isus.cc/php/huya.php?id=29465849
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆天地争霸美猴王
+https://isus.cc/php/huya.php?id=29465859
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆大唐双龙传
+https://isus.cc/php/huya.php?id=29465850
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆陀枪师姐
+https://isus.cc/php/huya.php?id=29465857
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆扫黄先锋
+https://isus.cc/php/huya.php?id=29465855
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆妙手仁心
+https://isus.cc/php/huya.php?id=29465853
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆野蛮亲家
+https://isus.cc/php/huya.php?id=23863796
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆笑看风云
+https://isus.cc/php/huya.php?id=29465858
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆韦小宝
+https://isus.cc/php/huya.php?id=23650774
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",埋堆堆雪山飞狐
+https://isus.cc/php/huya.php?id=23734176
+#EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://epg.v1.mk/logo/周星驰.png" group-title="其他",周星驰专场
+https://isus.cc/php/huya.php?id=11336587
+#EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://epg.v1.mk/logo/李连杰.png" group-title="其他",李连杰专场
+https://isus.cc/php/huya.php?id=11342390
+#EXTINF:-1,tvg-id="刘德华" tvg-name="刘德华" tvg-logo="https://epg.v1.mk/logo/刘德华.png" group-title="其他",刘德华专场
+https://isus.cc/php/huya.php?id=11342424
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.v1.mk/logo/林正英.png" group-title="其他",林正英专场
+https://isus.cc/php/huya.php?id=11342421
+#EXTINF:-1,tvg-id="甄子丹" tvg-name="甄子丹" tvg-logo="https://epg.v1.mk/logo/甄子丹.png" group-title="其他",甄子丹专场
+https://isus.cc/php/huya.php?id=11352935
+#EXTINF:-1,tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://epg.v1.mk/logo/沈腾.png" group-title="其他",沈腾专场
+https://isus.cc/php/huya.php?id=11601968
+#EXTINF:-1,tvg-id="徐峥黄渤" tvg-name="徐峥黄渤" tvg-logo="https://epg.v1.mk/logo/徐峥黄渤.png" group-title="其他",黄渤专场
+https://isus.cc/php/huya.php?id=11352876
+#EXTINF:-1,tvg-id="周润发" tvg-name="周润发" tvg-logo="https://epg.v1.mk/logo/周润发.png" group-title="其他",周润发专场
+https://isus.cc/php/huya.php?id=11342387
+#EXTINF:-1,tvg-id="成龙" tvg-name="成龙" tvg-logo="https://epg.v1.mk/logo/成龙.png" group-title="其他",成龙专场
+https://isus.cc/php/huya.php?id=11342386
+#EXTINF:-1,tvg-id="CIBN古装剧场" tvg-name="CIBN古装剧场" tvg-logo="https://epg.v1.mk/logo/CIBN古装剧场.png" group-title="其他",古天乐专场
+https://isus.cc/php/huya.php?id=29982675
+#EXTINF:-1,tvg-id="王晶" tvg-name="王晶" tvg-logo="https://epg.v1.mk/logo/王晶.png" group-title="其他",王晶专场
+https://isus.cc/php/huya.php?id=11602058
+#EXTINF:-1,tvg-id="吴川县广播电视台" tvg-name="吴川县广播电视台" tvg-logo="https://epg.v1.mk/logo/吴川县广播电视台.png" group-title="其他",吴京专场
+https://isus.cc/php/huya.php?id=11602077
+#EXTINF:-1,tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://epg.v1.mk/logo/洪金宝.png" group-title="其他",洪金宝专场
+https://isus.cc/php/huya.php?id=11279251
+#EXTINF:-1,tvg-id="徐峥黄渤" tvg-name="徐峥黄渤" tvg-logo="https://epg.v1.mk/logo/徐峥黄渤.png" group-title="其他",徐克专场
+https://isus.cc/php/huya.php?id=11352909
+#EXTINF:-1,tvg-id="徐峥黄渤" tvg-name="徐峥黄渤" tvg-logo="https://epg.v1.mk/logo/徐峥黄渤.png" group-title="其他",徐峥专场
+https://isus.cc/php/huya.php?id=11602043
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",邓超专场
+https://isus.cc/php/huya.php?id=11336592
+#EXTINF:-1,tvg-id="重庆铜梁" tvg-name="重庆铜梁" tvg-logo="https://epg.v1.mk/logo/重庆铜梁.png" group-title="其他",梁家辉专场
+https://isus.cc/php/huya.php?id=11342429
+#EXTINF:-1,tvg-id="张大仙" tvg-name="张大仙" tvg-logo="https://epg.v1.mk/logo/张大仙.png" group-title="其他",张卫健专场
+https://isus.cc/php/huya.php?id=11342423
+#EXTINF:-1,tvg-id="NEWTV动画王国" tvg-name="NEWTV动画王国" tvg-logo="https://epg.v1.mk/logo/NEWTV动画王国.png" group-title="其他",王宝强专场
+https://isus.cc/php/huya.php?id=30080251
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",陈小春专场
+https://isus.cc/php/huya.php?id=11336719
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",郭富城专场
+https://isus.cc/php/huya.php?id=20985865
+#EXTINF:-1,tvg-id="吴川县广播电视台" tvg-name="吴川县广播电视台" tvg-logo="https://epg.v1.mk/logo/吴川县广播电视台.png" group-title="其他",吴镇宇专场
+https://isus.cc/php/huya.php?id=23865096
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",陆小凤专场
+https://isus.cc/php/huya.php?id=11342427
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",强森专场
+https://isus.cc/php/huya.php?id=21059581
+#EXTINF:-1,tvg-id="РОССИЯ1俄罗斯1频道" tvg-name="РОССИЯ1俄罗斯1频道" tvg-logo="https://epg.v1.mk/logo/РОССИЯ1俄罗斯1频道.png" group-title="其他",斯坦森专场
+https://isus.cc/php/huya.php?id=21059588
+#EXTINF:-1,tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://epg.v1.mk/logo/义马综合.png" group-title="其他",马东锡专场
+https://isus.cc/php/huya.php?id=21059556
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",灾难片系列
+https://isus.cc/php/huya.php?id=23728647
+#EXTINF:-1,tvg-id="贺州综合" tvg-name="贺州综合" tvg-logo="https://epg.v1.mk/logo/贺州综合.png" group-title="其他",贺岁片系列
+https://isus.cc/php/huya.php?id=11601986
+#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="其他",科幻片系列
+https://isus.cc/php/huya.php?id=11352965
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",丧尸片系列
+https://isus.cc/php/huya.php?id=24314160
+#EXTINF:-1,tvg-id="小怪兽" tvg-name="小怪兽" tvg-logo="https://epg.v1.mk/logo/小怪兽.png" group-title="其他",怪兽片系列
+https://isus.cc/php/huya.php?id=29982674
+#EXTINF:-1,tvg-id="bestv谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.v1.mk/logo/bestv谍战剧场.png" group-title="其他",战争片系列
+https://isus.cc/php/huya.php?id=21059618
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",硬汉片系列
+https://isus.cc/php/huya.php?id=23864973
+#EXTINF:-1,tvg-id="bestv哒啵电竞" tvg-name="bestv哒啵电竞" tvg-logo="https://epg.v1.mk/logo/bestv哒啵电竞.png" group-title="其他",竞速片系列
+https://isus.cc/php/huya.php?id=29982635
+#EXTINF:-1,tvg-id="CCH动作" tvg-name="CCH动作" tvg-logo="https://epg.v1.mk/logo/CCH动作.png" group-title="其他",动作片系列
+https://isus.cc/php/huya.php?id=10871113
+#EXTINF:-1,tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://epg.v1.mk/logo/newtv爱情喜剧.png" group-title="其他",爱情片系列
+https://isus.cc/php/huya.php?id=29982639
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",犯罪片系列
+https://isus.cc/php/huya.php?id=30080165
+#EXTINF:-1,tvg-id="DAVINCILEARNING达芬奇" tvg-name="DAVINCILEARNING达芬奇" tvg-logo="https://epg.v1.mk/logo/DAVINCILEARNING达芬奇.png" group-title="其他",奇幻片系列
+https://isus.cc/php/huya.php?id=26355847
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",冒险片系列
+https://isus.cc/php/huya.php?id=21059566
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",盗墓片系列
+https://isus.cc/php/huya.php?id=11601981
+#EXTINF:-1,tvg-id="穿越火线" tvg-name="穿越火线" tvg-logo="https://epg.v1.mk/logo/穿越火线.png" group-title="其他",穿越片系列
+https://isus.cc/php/huya.php?id=29465892
+#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="其他",悬疑片系列
+https://isus.cc/php/huya.php?id=21059530
+#EXTINF:-1,tvg-id="CIBN喜剧影院" tvg-name="CIBN喜剧影院" tvg-logo="https://epg.v1.mk/logo/CIBN喜剧影院.png" group-title="其他",喜剧片系列
+https://isus.cc/php/huya.php?id=11602044
+#EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://epg.v1.mk/logo/英雄联盟.png" group-title="其他",英雄片系列
+https://isus.cc/php/huya.php?id=11601980
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",枪战片系列
+https://isus.cc/php/huya.php?id=21059579
+#EXTINF:-1,tvg-id="亚洲武侠电视台" tvg-name="亚洲武侠电视台" tvg-logo="https://epg.v1.mk/logo/亚洲武侠电视台.png" group-title="其他",武侠片系列
+https://isus.cc/php/huya.php?id=29982611
+#EXTINF:-1,tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://epg.v1.mk/logo/4K修复.png" group-title="其他",复仇片系列
+https://isus.cc/php/huya.php?id=29982645
+#EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.v1.mk/logo/动物星球.png" group-title="其他",星球片系列
+https://isus.cc/php/huya.php?id=30080234
+#EXTINF:-1,tvg-id="NEWTV校园动漫" tvg-name="NEWTV校园动漫" tvg-logo="https://epg.v1.mk/logo/NEWTV校园动漫.png" group-title="其他",校园片系列
+https://isus.cc/php/huya.php?id=11352934
+#EXTINF:-1,tvg-id="紧急预警" tvg-name="紧急预警" tvg-logo="https://epg.v1.mk/logo/紧急预警.png" group-title="其他",警匪片系列
+https://isus.cc/php/huya.php?id=30041512
+#EXTINF:-1,tvg-id="bestv谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.v1.mk/logo/bestv谍战剧场.png" group-title="其他",谍战片系列
+https://isus.cc/php/huya.php?id=26355810
+#EXTINF:-1,tvg-id="bestv宝宝动画" tvg-name="bestv宝宝动画" tvg-logo="https://epg.v1.mk/logo/bestv宝宝动画.png" group-title="其他",动画片系列
+https://isus.cc/php/huya.php?id=11352878
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",恐怖片系列
+https://isus.cc/php/huya.php?id=24884334
+#EXTINF:-1,tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/newtv惊悚悬疑.png" group-title="其他",惊悚片系列
+https://isus.cc/php/huya.php?id=26355802
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",僵尸片系列
+https://isus.cc/php/huya.php?id=11352917
+#EXTINF:-1,tvg-id="cctv15音乐" tvg-name="cctv15音乐" tvg-logo="https://epg.v1.mk/logo/cctv15音乐.png" group-title="其他",音乐片系列
+https://isus.cc/php/huya.php?id=23860057
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",杀手片系列
+https://isus.cc/php/huya.php?id=23728689
+#EXTINF:-1,tvg-id="BTV体育休闲" tvg-name="BTV体育休闲" tvg-logo="https://epg.v1.mk/logo/BTV体育休闲.png" group-title="其他",体育片系列
+https://isus.cc/php/huya.php?id=23864480
+#EXTINF:-1,tvg-id="陕西西部电影A" tvg-name="陕西西部电影A" tvg-logo="https://epg.v1.mk/logo/陕西西部电影A.png" group-title="其他",西部片系列
+https://isus.cc/php/huya.php?id=30080177
+#EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="香港",香港片系列
+https://isus.cc/php/huya.php?id=29982660
+#EXTINF:-1,tvg-id="流畅印度的ArianaTV" tvg-name="流畅印度的ArianaTV" tvg-logo="https://epg.v1.mk/logo/流畅印度的ArianaTV.png" group-title="其他",印度片系列
+https://isus.cc/php/huya.php?id=26355799
+#EXTINF:-1,tvg-id="热门剧场专区" tvg-name="热门剧场专区" tvg-logo="https://epg.v1.mk/logo/热门剧场专区.png" group-title="其他",热门片系列
+https://isus.cc/php/huya.php?id=880261
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高分片系列
+https://isus.cc/php/huya.php?id=23902225
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",短片系列
+https://isus.cc/php/huya.php?id=17098448
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",探案剧专区
+https://isus.cc/php/huya.php?id=20969144
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.v1.mk/logo/SITV都市剧场.png" group-title="其他",都市剧专区
+https://isus.cc/php/huya.php?id=29982666
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",刑侦剧专区
+https://isus.cc/php/huya.php?id=20969130
+#EXTINF:-1,tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="https://epg.v1.mk/logo/newtv家庭剧场.png" group-title="其他",家庭剧专区
+https://isus.cc/php/huya.php?id=11352872
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典剧专区
+https://isus.cc/php/huya.php?id=11602081
+#EXTINF:-1,tvg-id="cctv-怀旧剧场" tvg-name="cctv-怀旧剧场" tvg-logo="https://epg.v1.mk/logo/cctv-怀旧剧场.png" group-title="其他",怀旧剧专区
+https://isus.cc/php/huya.php?id=30080241
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",僵尸剧专区
+https://isus.cc/php/huya.php?id=23865148
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",抗战剧专区
+https://isus.cc/php/huya.php?id=30080238
+#EXTINF:-1,tvg-id="AXN台湾" tvg-name="AXN台湾" tvg-logo="https://epg.v1.mk/logo/AXN台湾.png" group-title="台湾",台湾剧专区
+https://isus.cc/php/huya.php?id=11342436
+#EXTINF:-1,tvg-id="韩国娱乐KMTV" tvg-name="韩国娱乐KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐KMTV.png" group-title="其他",韩国剧专区
+https://isus.cc/php/huya.php?id=23863787
+#EXTINF:-1,tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="https://epg.v1.mk/logo/VOA美国之音.png" group-title="其他",美国剧专区
+https://isus.cc/php/huya.php?id=30080138
+#EXTINF:-1,tvg-id="CGTN英語" tvg-name="CGTN英語" tvg-logo="https://epg.v1.mk/logo/CGTN英語.png" group-title="其他",英国剧专区
+https://isus.cc/php/huya.php?id=29982659
+#EXTINF:-1,tvg-id="NEWTV校园动漫" tvg-name="NEWTV校园动漫" tvg-logo="https://epg.v1.mk/logo/NEWTV校园动漫.png" group-title="其他",校园剧专区
+https://isus.cc/php/huya.php?id=30080228
+#EXTINF:-1,tvg-id="bestv谍战剧场" tvg-name="bestv谍战剧场" tvg-logo="https://epg.v1.mk/logo/bestv谍战剧场.png" group-title="其他",谍战剧专区
+https://isus.cc/php/huya.php?id=30080225
+#EXTINF:-1,tvg-id="CIBN古装剧场" tvg-name="CIBN古装剧场" tvg-logo="https://epg.v1.mk/logo/CIBN古装剧场.png" group-title="其他",古装剧专区
+https://isus.cc/php/huya.php?id=24314158
+#EXTINF:-1,tvg-id="中国乡村之声" tvg-name="中国乡村之声" tvg-logo="https://epg.v1.mk/logo/中国乡村之声.png" group-title="其他",乡村剧专区
+https://isus.cc/php/huya.php?id=30080255
+#EXTINF:-1,tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://epg.v1.mk/logo/龍華偶像.png" group-title="其他",偶像剧专区
+https://isus.cc/php/huya.php?id=11601964
+#EXTINF:-1,tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://epg.v1.mk/logo/newtv爱情喜剧.png" group-title="其他",爱情剧专区
+https://isus.cc/php/huya.php?id=29982671
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",搞笑剧专区
+https://isus.cc/php/huya.php?id=21059634
+#EXTINF:-1,tvg-id="武侠剧场" tvg-name="武侠剧场" tvg-logo="https://epg.v1.mk/logo/武侠剧场.png" group-title="其他",武侠剧专区
+https://isus.cc/php/huya.php?id=20985816
+#EXTINF:-1,tvg-id="穿越火线" tvg-name="穿越火线" tvg-logo="https://epg.v1.mk/logo/穿越火线.png" group-title="其他",穿越剧专区
+https://isus.cc/php/huya.php?id=26355857
+#EXTINF:-1,tvg-id="年代MUCH" tvg-name="年代MUCH" tvg-logo="https://epg.v1.mk/logo/年代MUCH.png" group-title="港澳台",年代剧专区
+https://isus.cc/php/huya.php?id=20969095
+#EXTINF:-1,tvg-id="北京卫视4" tvg-name="北京卫视4" tvg-logo="https://epg.v1.mk/logo/北京卫视4.png" group-title="北京",北京卫视4K
+http://106.53.99.30/tv/bj.php?id=bjws4k
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视4K
+http://106.53.99.30/tv/api.php?id=dfws4k
+#EXTINF:-1,tvg-id="深圳卫视4" tvg-name="深圳卫视4" tvg-logo="https://epg.v1.mk/logo/深圳卫视4.png" group-title="卫视",深圳卫视4K
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#EXTINF:-1,tvg-id="湖南卫视4" tvg-name="湖南卫视4" tvg-logo="https://epg.v1.mk/logo/湖南卫视4.png" group-title="湖南",湖南卫视4K
+http://j.s.bkpcp.top/jj/hunws
+#EXTINF:-1,tvg-id="浙江卫视4" tvg-name="浙江卫视4" tvg-logo="https://epg.v1.mk/logo/浙江卫视4.png" group-title="浙江",浙江卫视4K
+http://j.s.bkpcp.top/jj/zjws
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视4K
+http://j.s.bkpcp.top/jj/jsws
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视4K
+http://t.061899.xyz/tl/tl.php?id=dfws
+#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://epg.v1.mk/logo/苏州4K.png" group-title="其他",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1,tvg-id="河北三佳购物频道" tvg-name="河北三佳购物频道" tvg-logo="https://epg.v1.mk/logo/河北三佳购物频道.png" group-title="河北",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
