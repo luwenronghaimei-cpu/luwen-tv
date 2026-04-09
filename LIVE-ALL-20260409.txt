@@ -45,6 +45,13 @@
 咪咕直播 𝟛𝟠•,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
 •咪视界•,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
 咪视界4K,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
 至臻视界4K,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
 至臻视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025943
@@ -478,16 +485,9 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
 
 
-🏀體育頻道,#genre#
-SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
-astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
-TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
-智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
-JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
-SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
 
-📡港澳頻道,#genre#
+
+📡港澳頻道1,#genre#
 鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
@@ -630,7 +630,7 @@ ELTV生活英語台,http://119.91.7.169:2026/TW.php?id=ELTV生活英語台
 客家電视台,http://119.91.7.169:2026/TW.php?id=客家電视台
 半島國際新闻台,http://119.91.7.169:2026/TW.php?id=半島國際新闻台
 
-港澳台,#genre#
+📡港澳頻道2,#genre#
 有线新闻,https://hls.168.us.kg/u/78/master.m3u8
 Now新闻,https://cdn.163189.xyz/163189/now
 凤凰资讯,http://uo202.1985001.xyz:66/rtp/239.93.0.118:2191
@@ -725,6 +725,7 @@ TVB功夫(国),http://rihou.cc:555/tv/hktv%2F19tvbgf
 民视,http://211.72.174.95:8115/0.ts
 台视HD,http://211.72.174.95:8112/0.ts
 
+📡港澳頻道3,#genre#
 VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
 TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
