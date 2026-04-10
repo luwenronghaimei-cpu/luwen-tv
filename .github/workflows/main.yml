@@ -13,6 +13,8 @@ jobs:
       # ── 1. 检出仓库 ──────────────────────────────────────────
       - name: 检出仓库
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}   # ← 用 PAT 检出
 
       # ── 2. 下载 sing-box ─────────────────────────────────────
       - name: 下载 sing-box
@@ -121,5 +123,5 @@ jobs:
             echo "规则文件无变化，跳过提交。"
           else
             git commit -m "chore: 自动更新规则集 $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/luwenronghaimei-cpu/luwen-tv.git
           fi
