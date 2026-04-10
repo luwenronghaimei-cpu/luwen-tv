@@ -1,0 +1,125 @@
+name: 每日自动更新规则集
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 02:00（北京时间 10:00）运行
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. 检出仓库 ──────────────────────────────────────────
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      # ── 2. 下载 sing-box ─────────────────────────────────────
+      - name: 下载 sing-box
+        run: |
+          LATEST=$(curl -fsSL https://api.github.com/repos/SagerNet/sing-box/releases/latest \
+                   | grep '"tag_name"' | head -1 | cut -d'"' -f4)
+          VERSION=${LATEST#v}
+          curl -fsSL "https://github.com/SagerNet/sing-box/releases/download/${LATEST}/sing-box-${VERSION}-linux-amd64.tar.gz" \
+               -o sing-box.tar.gz
+          tar -xzf sing-box.tar.gz
+          sudo mv sing-box-${VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
+          sing-box version
+
+      # ── 3. 创建输出目录 ───────────────────────────────────────
+      - name: 创建输出目录
+        run: mkdir -p rules
+
+      # ── 4. AWAvenue 广告规则（JSON → .srs） ──────────────────
+      - name: 生成 AWAvenue-Ads-Rule.srs
+        run: |
+          curl -fsSL \
+            "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Singbox.json" \
+            -o AWAvenue-Ads-Rule-Singbox.json
+          sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json
+          mv AWAvenue-Ads-Rule-Singbox.srs rules/
+
+      # ── 5. china-apps（APP.mutated.yaml → JSON → .srs） ──────
+      - name: 生成 china-apps.srs
+        run: |
+          curl -fsSL \
+            "https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/APP.mutated.yaml" \
+            -o APP.mutated.yaml
+
+          python3 - <<'EOF'
+          import re, json
+
+          pkgs = []
+          with open("APP.mutated.yaml", encoding="utf-8") as f:
+              for line in f:
+                  m = re.match(r'\s*-\s+PROCESS-NAME,([^,#\s]+)', line)
+                  if m:
+                      pkgs.append(m.group(1).strip())
+
+          data = {"version": 3, "rules": [{"package_name": pkgs}]}
+          with open("china-apps.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print(f"[OK] 共提取 {len(pkgs)} 个包名")
+          EOF
+
+          sing-box rule-set compile china-apps.json
+          mv china-apps.srs rules/
+
+      # ── 6. doh-ips（IP列表 → JSON → .srs） ──────────────────
+      - name: 生成 doh-ips.srs
+        run: |
+          curl -fsSL \
+            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/ips/doh.txt" \
+            -o doh-ips.txt
+
+          python3 - <<'EOF'
+          import json
+
+          ips = []
+          with open("doh-ips.txt", encoding="utf-8") as f:
+              for line in f:
+                  line = line.strip()
+                  if line and not line.startswith("#"):
+                      ips.append(line)
+
+          data = {"version": 3, "rules": [{"ip_cidr": ips}]}
+          with open("doh-ips.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print(f"[OK] 共提取 {len(ips)} 条 IP/CIDR")
+          EOF
+
+          sing-box rule-set compile doh-ips.json
+          mv doh-ips.srs rules/
+
+      # ── 7. doh 广告屏蔽（adguard → .srs） ───────────────────
+      - name: 生成 doh.srs
+        run: |
+          curl -fsSL \
+            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh.txt" \
+            -o doh.txt
+          sing-box rule-set convert --type adguard doh.txt -o doh.srs
+          mv doh.srs rules/
+
+      # ── 8. Hagezi Pro 广告屏蔽（adguard → .srs） ─────────────
+      - name: 生成 Hagezi Blocklists Pro.srs
+        run: |
+          curl -fsSL \
+            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt" \
+            -o "pro.txt"
+          sing-box rule-set convert --type adguard "pro.txt" -o "Hagezi Blocklists Pro.srs"
+          mv "Hagezi Blocklists Pro.srs" rules/
+
+      # ── 9. 提交并推送到仓库 ───────────────────────────────────
+      - name: 提交更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rules/
+          if git diff --cached --quiet; then
+            echo "规则文件无变化，跳过提交。"
+          else
+            git commit -m "chore: 自动更新规则集 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
