@@ -1,0 +1,110 @@
+name: 每日自动更新 Mihomo 规则集
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 02:00（北京时间 10:00）运行
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  update-mihomo-rules:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. 检出仓库 ──────────────────────────────────────────
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      # ── 2. 下载 mihomo ────────────────────────────────────────
+      - name: 下载 mihomo
+        run: |
+          LATEST=$(curl -fsSL https://api.github.com/repos/MetaCubeX/mihomo/releases/latest \
+                   | grep '"tag_name"' | head -1 | cut -d'"' -f4)
+          curl -fsSL "https://github.com/MetaCubeX/mihomo/releases/download/${LATEST}/mihomo-linux-amd64-${LATEST}.gz" \
+               -o mihomo.gz
+          gunzip mihomo.gz
+          chmod +x mihomo
+          sudo mv mihomo /usr/local/bin/mihomo
+          mihomo -v
+
+      # ── 3. 创建输出目录 ───────────────────────────────────────
+      - name: 创建输出目录
+        run: mkdir -p rules
+
+      # ── 4. doh-ips（IP列表 → yaml → .mrs） ───────────────────
+      - name: 生成 doh-ips.mrs
+        run: |
+          curl -fsSL \
+            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/ips/doh.txt" \
+            -o doh-ips.txt
+
+          python3 - <<'EOF'
+          with open("doh-ips.txt", encoding="utf-8") as f:
+              lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+
+          with open("doh-ips.yaml", "w", encoding="utf-8") as f:
+              f.write("payload:\n")
+              for line in lines:
+                  f.write(f"  - IP-CIDR,{line}\n")
+
+          print(f"[OK] 共处理 {len(lines)} 条 IP-CIDR")
+          EOF
+
+          mihomo convert-ruleset ipcidr yaml doh-ips.yaml rules/doh-ips.mrs
+
+      # ── 5. doh 域名（域名列表 → yaml → .mrs） ────────────────
+      - name: 生成 doh.mrs
+        run: |
+          curl -fsSL \
+            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/doh.txt" \
+            -o doh.txt
+
+          python3 - <<'EOF'
+          with open("doh.txt", encoding="utf-8") as f:
+              lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+
+          with open("doh.yaml", "w", encoding="utf-8") as f:
+              f.write("payload:\n")
+              for line in lines:
+                  f.write(f"  - DOMAIN-SUFFIX,{line}\n")
+
+          print(f"[OK] 共处理 {len(lines)} 条 DOMAIN-SUFFIX")
+          EOF
+
+          mihomo convert-ruleset domain yaml doh.yaml rules/doh.mrs
+
+      # ── 6. Hagezi Pro（wildcard域名 → yaml → .mrs） ───────────
+      - name: 生成 Hagezi Blocklists Pro.mrs
+        run: |
+          curl -fsSL \
+            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt" \
+            -o Hagezi-Blocklists-Pro.txt
+
+          python3 - <<'EOF'
+          with open("Hagezi-Blocklists-Pro.txt", encoding="utf-8") as f:
+              lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+
+          with open("Hagezi-Blocklists-Pro.yaml", "w", encoding="utf-8") as f:
+              f.write("payload:\n")
+              for line in lines:
+                  domain = line.lstrip("*.")
+                  f.write(f"  - DOMAIN-SUFFIX,{domain}\n")
+
+          print(f"[OK] 共处理 {len(lines)} 条 DOMAIN-SUFFIX")
+          EOF
+
+          mihomo convert-ruleset domain yaml Hagezi-Blocklists-Pro.yaml "rules/Hagezi Blocklists Pro.mrs"
+
+      # ── 7. 提交并推送到仓库 ───────────────────────────────────
+      - name: 提交更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rules/
+          if git diff --cached --quiet; then
+            echo "规则文件无变化，跳过提交。"
+          else
+            git commit -m "chore: 自动更新 Mihomo 规则集 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/luwenronghaimei-cpu/luwen-tv.git
+          fi

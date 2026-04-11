@@ -1,4 +1,4 @@
-name: 每日自动更新规则集
+name: 每日自动更新 SingBox 规则集
 
 on:
   schedule:
