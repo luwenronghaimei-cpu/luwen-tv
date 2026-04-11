@@ -40,14 +40,12 @@ Now新闻,http://cdn.163189.xyz/163189/now
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
 无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 有线新闻,https://hls.168.us.kg/u/78/master.m3u8
-Now新闻,https://cdn.163189.xyz/163189/now
 凤凰资讯,http://uo202.1985001.xyz:66/rtp/239.93.0.118:2191
 凤凰中文,http://222.212.84.190:54123/udp/239.93.1.9:2192
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
@@ -70,7 +68,6 @@ Now新闻,http://cdn.163189.xyz/163189/now
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线翡翠4K,http://rihou.cc:555/tv/[Pd]无线翡4K
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 广东珠江,http://m.061899.xyz/mg/gdzj
