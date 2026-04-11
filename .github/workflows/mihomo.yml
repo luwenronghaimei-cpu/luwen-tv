@@ -46,7 +46,7 @@ jobs:
           with open("doh-ips.yaml", "w", encoding="utf-8") as f:
               f.write("payload:\n")
               for line in lines:
-                  f.write(f"  - IP-CIDR,{line}\n")
+                  f.write(f"  - '{line}'\n")  # 直接写纯 IP/CIDR，不加前缀
 
           print(f"[OK] 共处理 {len(lines)} 条 IP-CIDR")
           EOF
@@ -67,9 +67,9 @@ jobs:
           with open("doh.yaml", "w", encoding="utf-8") as f:
               f.write("payload:\n")
               for line in lines:
-                  f.write(f"  - DOMAIN-SUFFIX,{line}\n")
+                  f.write(f"  - '.{line}'\n")  # 加 . 前缀匹配所有子域名
 
-          print(f"[OK] 共处理 {len(lines)} 条 DOMAIN-SUFFIX")
+          print(f"[OK] 共处理 {len(lines)} 条域名")
           EOF
 
           mihomo convert-ruleset domain yaml doh.yaml rules/doh.mrs
@@ -88,10 +88,10 @@ jobs:
           with open("Hagezi-Blocklists-Pro.yaml", "w", encoding="utf-8") as f:
               f.write("payload:\n")
               for line in lines:
-                  domain = line.lstrip("*.")
-                  f.write(f"  - DOMAIN-SUFFIX,{domain}\n")
+                  domain = line.lstrip("*.")  # 去掉 *. 前缀
+                  f.write(f"  - '.{domain}'\n")  # 加 . 前缀匹配所有子域名
 
-          print(f"[OK] 共处理 {len(lines)} 条 DOMAIN-SUFFIX")
+          print(f"[OK] 共处理 {len(lines)} 条域名")
           EOF
 
           mihomo convert-ruleset domain yaml Hagezi-Blocklists-Pro.yaml "rules/Hagezi Blocklists Pro.mrs"
