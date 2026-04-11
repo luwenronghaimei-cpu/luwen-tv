@@ -2,8 +2,11 @@ name: 每日自动更新 Mihomo 规则集
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天 UTC 02:00（北京时间 10:00）运行
-  workflow_dispatch:       # 允许手动触发
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # 修复 Node.js 版本警告
 
 jobs:
   update-mihomo-rules:
@@ -13,6 +16,7 @@ jobs:
       # ── 1. 检出仓库 ──────────────────────────────────────────
       - name: 检出仓库
         uses: actions/checkout@v4
+
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -46,11 +50,13 @@ jobs:
           with open("doh-ips.yaml", "w", encoding="utf-8") as f:
               f.write("payload:\n")
               for line in lines:
-                  f.write(f"  - '{line}'\n")  # 直接写纯 IP/CIDR，不加前缀
+                  f.write(f"  - '{line}'\n")
 
           print(f"[OK] 共处理 {len(lines)} 条 IP-CIDR")
           EOF
 
+          echo "--- doh-ips.yaml 前10行预览 ---"
+          head -10 doh-ips.yaml
           mihomo convert-ruleset ipcidr yaml doh-ips.yaml rules/doh-ips.mrs
 
       # ── 5. doh 域名（域名列表 → yaml → .mrs） ────────────────
@@ -67,11 +73,13 @@ jobs:
           with open("doh.yaml", "w", encoding="utf-8") as f:
               f.write("payload:\n")
               for line in lines:
-                  f.write(f"  - '.{line}'\n")  # 加 . 前缀匹配所有子域名
+                  f.write(f"  - '.{line}'\n")
 
           print(f"[OK] 共处理 {len(lines)} 条域名")
           EOF
 
+          echo "--- doh.yaml 前10行预览 ---"
+          head -10 doh.yaml
           mihomo convert-ruleset domain yaml doh.yaml rules/doh.mrs
 
       # ── 6. Hagezi Pro（wildcard域名 → yaml → .mrs） ───────────
@@ -88,12 +96,14 @@ jobs:
           with open("Hagezi-Blocklists-Pro.yaml", "w", encoding="utf-8") as f:
               f.write("payload:\n")
               for line in lines:
-                  domain = line.lstrip("*.")  # 去掉 *. 前缀
-                  f.write(f"  - '.{domain}'\n")  # 加 . 前缀匹配所有子域名
+                  domain = line.lstrip("*.")
+                  f.write(f"  - '.{domain}'\n")
 
           print(f"[OK] 共处理 {len(lines)} 条域名")
           EOF
 
+          echo "--- Hagezi-Blocklists-Pro.yaml 前10行预览 ---"
+          head -10 Hagezi-Blocklists-Pro.yaml
           mihomo convert-ruleset domain yaml Hagezi-Blocklists-Pro.yaml "rules/Hagezi Blocklists Pro.mrs"
 
       # ── 7. 提交并推送到仓库 ───────────────────────────────────
