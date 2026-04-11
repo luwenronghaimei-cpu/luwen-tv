@@ -44,15 +44,38 @@ jobs:
             -o doh-ips.txt
 
           python3 - <<'EOF'
+          import ipaddress
+
+          def normalize(line):
+              line = line.strip()
+              if not line or line.startswith("#"):
+                  return None
+              try:
+                  # 已经是 CIDR 格式，直接返回
+                  ipaddress.ip_network(line, strict=False)
+                  return line
+              except ValueError:
+                  pass
+              try:
+                  # 纯 IP，补全掩码
+                  addr = ipaddress.ip_address(line)
+                  return f"{line}/{'32' if addr.version == 4 else '128'}"
+              except ValueError:
+                  return None  # 跳过无效行
+
+          entries = []
           with open("doh-ips.txt", encoding="utf-8") as f:
-              lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+              for line in f:
+                  result = normalize(line)
+                  if result:
+                      entries.append(result)
 
           with open("doh-ips.yaml", "w", encoding="utf-8") as f:
               f.write("payload:\n")
-              for line in lines:
-                  f.write(f"  - '{line}'\n")
+              for entry in entries:
+                  f.write(f"  - '{entry}'\n")
 
-          print(f"[OK] 共处理 {len(lines)} 条 IP-CIDR")
+          print(f"[OK] 共处理 {len(entries)} 条 IP-CIDR")
           EOF
 
           echo "--- doh-ips.yaml 前10行预览 ---"
