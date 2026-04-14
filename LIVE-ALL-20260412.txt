@@ -21,6 +21,24 @@ TVB明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 Now新闻,http://cdn.163189.xyz/163189/now
+凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8 
+凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
+凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,https://cdn6.163189.xyz/163189/fct
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
+娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
+翡翠台 http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线新闻,https://cdn6.163189.xyz/163189/wxxw
+无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
+翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
