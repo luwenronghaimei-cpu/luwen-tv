@@ -105,13 +105,13 @@ jobs:
           mv doh.srs rules/
 
       # ── 8. Hagezi Pro 广告屏蔽（adguard → .srs） ─────────────
-      - name: 生成 Hagezi Blocklists Pro.srs
+      - name: 生成 Hagezi-Blocklists-Pro.srs
         run: |
           curl -fsSL \
             "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt" \
             -o "pro.txt"
-          sing-box rule-set convert --type adguard "pro.txt" -o "Hagezi Blocklists Pro.srs"
-          mv "Hagezi Blocklists Pro.srs" rules/
+          sing-box rule-set convert --type adguard "pro.txt" -o "Hagezi-Blocklists-Pro.srs"
+          mv "Hagezi-Blocklists-Pro.srs" rules/
 
       # ── 9. 提交并推送到仓库 ───────────────────────────────────
       - name: 提交更新
