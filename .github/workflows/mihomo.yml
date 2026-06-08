@@ -22,10 +22,31 @@ jobs:
 
       # ── 2. 下载 mihomo ────────────────────────────────────────
       - name: 下载 mihomo
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          LATEST=$(curl -fsSL https://api.github.com/repos/MetaCubeX/mihomo/releases/latest \
+          # 带重试的函数
+          retry_curl() {
+            local url="$1"; shift
+            for i in 1 2 3; do
+              echo "尝试第 ${i} 次下载: ${url}"
+              if curl --retry 3 --retry-delay 5 -fsSL \
+                   -H "Authorization: token ${GH_TOKEN}" \
+                   "$url" "$@"; then
+                return 0
+              fi
+              echo "第 ${i} 次失败，等待 10 秒后重试..."
+              sleep 10
+            done
+            echo "::error::3 次重试均失败: ${url}"
+            return 1
+          }
+
+          LATEST=$(retry_curl https://api.github.com/repos/MetaCubeX/mihomo/releases/latest \
                    | grep '"tag_name"' | head -1 | cut -d'"' -f4)
-          curl -fsSL "https://github.com/MetaCubeX/mihomo/releases/download/${LATEST}/mihomo-linux-amd64-${LATEST}.gz" \
+          echo "最新版本: ${LATEST}"
+
+          retry_curl "https://github.com/MetaCubeX/mihomo/releases/download/${LATEST}/mihomo-linux-amd64-${LATEST}.gz" \
                -o mihomo.gz
           gunzip mihomo.gz
           chmod +x mihomo

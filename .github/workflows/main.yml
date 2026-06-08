@@ -9,6 +9,9 @@ jobs:
   update-rules:
     runs-on: ubuntu-latest
 
+    env:
+      GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+
     steps:
       # ── 1. 检出仓库 ──────────────────────────────────────────
       - name: 检出仓库
@@ -19,10 +22,29 @@ jobs:
       # ── 2. 下载 sing-box ─────────────────────────────────────
       - name: 下载 sing-box
         run: |
-          LATEST=$(curl -fsSL https://api.github.com/repos/SagerNet/sing-box/releases/latest \
+          # 带重试的函数
+          retry_curl() {
+            local url="$1"; shift
+            for i in 1 2 3; do
+              echo "尝试第 ${i} 次下载: ${url}"
+              if curl --retry 3 --retry-delay 5 -fsSL \
+                   -H "Authorization: token ${GH_TOKEN}" \
+                   "$url" "$@"; then
+                return 0
+              fi
+              echo "第 ${i} 次失败，等待 10 秒后重试..."
+              sleep 10
+            done
+            echo "::error::3 次重试均失败: ${url}"
+            return 1
+          }
+
+          LATEST=$(retry_curl https://api.github.com/repos/SagerNet/sing-box/releases/latest \
                    | grep '"tag_name"' | head -1 | cut -d'"' -f4)
           VERSION=${LATEST#v}
-          curl -fsSL "https://github.com/SagerNet/sing-box/releases/download/${LATEST}/sing-box-${VERSION}-linux-amd64.tar.gz" \
+          echo "最新版本: ${LATEST}"
+
+          retry_curl "https://github.com/SagerNet/sing-box/releases/download/${LATEST}/sing-box-${VERSION}-linux-amd64.tar.gz" \
                -o sing-box.tar.gz
           tar -xzf sing-box.tar.gz
           sudo mv sing-box-${VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
@@ -35,7 +57,7 @@ jobs:
       # ── 4. AWAvenue 广告规则（JSON → .srs） ──────────────────
       - name: 生成 AWAvenue-Ads-Rule.srs
         run: |
-          curl -fsSL \
+          curl --retry 3 --retry-delay 5 -fsSL \
             "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Singbox.json" \
             -o AWAvenue-Ads-Rule-Singbox.json
           sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json
@@ -44,7 +66,7 @@ jobs:
       # ── 5. china-apps（APP.mutated.yaml → JSON → .srs） ──────
       - name: 生成 china-apps.srs
         run: |
-          curl -fsSL \
+          curl --retry 3 --retry-delay 5 -fsSL \
             "https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/APP.mutated.yaml" \
             -o APP.mutated.yaml
 
@@ -71,7 +93,7 @@ jobs:
       # ── 6. doh-ips（IP列表 → JSON → .srs） ──────────────────
       - name: 生成 doh-ips.srs
         run: |
-          curl -fsSL \
+          curl --retry 3 --retry-delay 5 -fsSL \
             "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/ips/doh.txt" \
             -o doh-ips.txt
 
@@ -98,7 +120,7 @@ jobs:
       # ── 7. doh 广告屏蔽（adguard → .srs） ───────────────────
       - name: 生成 doh.srs
         run: |
-          curl -fsSL \
+          curl --retry 3 --retry-delay 5 -fsSL \
             "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh.txt" \
             -o doh.txt
           sing-box rule-set convert --type adguard doh.txt -o doh.srs
@@ -107,7 +129,7 @@ jobs:
       # ── 8. Hagezi Pro 广告屏蔽（adguard → .srs） ─────────────
       - name: 生成 Hagezi-Blocklists-Pro.srs
         run: |
-          curl -fsSL \
+          curl --retry 3 --retry-delay 5 -fsSL \
             "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt" \
             -o "pro.txt"
           sing-box rule-set convert --type adguard "pro.txt" -o "Hagezi-Blocklists-Pro.srs"
