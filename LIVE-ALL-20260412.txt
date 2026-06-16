@@ -12,6 +12,28 @@
 至臻视界4K,http://feilong123.vip/409990236/iptv/gdy.php?id=47
 CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5+体育赛事,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+616,http://77.90.60.172:55555/8
+617,http://77.90.60.172:55555/6
+618,http://77.90.60.172:55555/4
+619,http://77.90.60.172:55555/3
+TSN 4K,http://77.90.60.172:55555/1
+广东体育,http://77.90.60.172:55555/2
+福克斯4K,http://77.90.60.172:55555/5
+福克斯体育1,http://77.90.60.172:55555/7
+德语ORF 1,http://77.90.60.172:55555/9
+TNT2,http://77.90.60.172:55555/0
+618备用,http://77.90.60.172:55555/10
+616备用,http://77.90.60.172:55555/11
+cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
+cctv5p,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
+cctv4k,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+cctv8k,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+cctv5,http://82.156.243.185:36888/av3a/cctv5.m3u8
+cctv5p,http://82.156.243.185:36888/av3a/cctv5p.m3u8
+cctv16,http://82.156.243.185:36888/av3a/cctv16.m3u8
+cctv4k,http://82.156.243.185:36888/av3a/cctv4k.m3u8
+cctv8k,http://82.156.243.185:36888/av3a/cctv8k.m3u8
 
 •我的频道•,#genre#
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
@@ -135,6 +157,10 @@ Now新闻,http://cdn.163189.xyz/163189/now
 至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&$24M-FifastbLive
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$
 咪咕体育4K,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&$30M UHD
+CCTV-4K超高清,http://192.151.150.154/live/cctv4k.m3u8
+CCTV-8K超高清,http://192.151.150.154/live/cctv8k.m3u8
+CCTV-4K超高清,http://173.208.212.130:8181/720p/cctv4k.m3u8
+CCTV-8K超高清,http://173.208.212.130:8181/720p/cctv8k.m3u8
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -157,6 +183,14 @@ Now新闻,http://cdn.163189.xyz/163189/now
 深圳4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 山东4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 四川4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
+广东4K超高清,http://192.151.150.154/live/gdtvs3.m3u8
+CCTV4K超高清,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
+CCTV4K超高清,http://home.amucn.net:8800/udp/239.49.0.82:8000
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+无线翡翠4K,https://cdn6.163189.xyz/163189/fct4k
+
 
 •咪咕频道1•,#genre#
 晴彩广场舞•,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
