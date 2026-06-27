@@ -369,7 +369,7 @@ AOD,https://iptv.852851.xyz/l/jGNYlBK5qxU3C3jTmRjb2JkpU99HB8AxwOe3oHaGjEPByAmV9y
 Hua Hee Dai,https://iptv.852851.xyz/l/mxd6ZWNAdbDkcIJ2u3DdrOkvkuYZOJnmkynC6Uts_fxSr4nFUvwXKOJ3l5DLF1X0/index.m3u8
 iQIYI,https://iptv.852851.xyz/l/htJivPB_jY61M4jcUQTpq-UXEiPPlY3i16g22Y8p6_5PI07uYDVJ0OoqYKQheWfi/index.m3u8
 one,https://iptv.852851.xyz/l/oiKoM-eFedcMKZ_rKb8D9wnPZGRaT5YQSvbFN538TgRDeFiwDlC1DEfc4z0z4mmz/index.m3u8
-🇹🇼 台湾频道,#genre#
+频道,#genre#
 愛爾達體育3台,https://iptv.852851.xyz/l/8h9T08kR7NY_h228sncKjOzIhPsdZUFhSrLZbkeNhCCMlF3185v3LD2BIs7EdPxW/index.m3u8
 愛爾達體育2台,https://iptv.852851.xyz/l/p_J_htrPwviWzSaI8vP49IvK56ieucyC0Y23OrThqIWGHhCmE_BoNFT6IKOGUfp4/index.m3u8
 愛爾達體育1台,https://iptv.852851.xyz/l/SLAJSGJiQb_HcJShQSGU58-WkwQyzhuiDygkJOd9iWCnGL9GIBDHpcU9cxoWCJdN/index.m3u8
