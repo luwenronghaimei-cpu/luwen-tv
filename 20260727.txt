@@ -1,32 +1,17 @@
-•香港「Relay」,#genre#
-無綫新聞台,https://cdn.1989.click/hk/7kjggj?token=355a893baaa6e15acdea2582d44a65a12f4273dac4328844
-翡翠台,https://cdn.1989.click/hk/vzsrrf?token=355a893baaa6e15acdea2582d44a65a12f4273dac4328844
-TVB Plus,https://cdn.1989.click/hk/t5qy4s?token=355a893baaa6e15acdea2582d44a65a12f4273dac4328844
-ViuTV,https://iptv.1989.click/hk/mcnm8s?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-ViuTVsix,https://iptv.1989.click/hk/cy8tmr?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Now直播台,https://iptv.1989.click/hk/656pft?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Now新聞台,https://iptv.1989.click/hk/r4k5tn?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Now財經台,https://iptv.1989.click/hk/9xp8pu?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Now Sports 精選,https://iptv.1989.click/hk/tbshga?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Now Sports 617,https://iptv.1989.click/hkg/c993r7?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Now Sports 618,https://iptv.1989.click/hkg/9wfj7w?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-電台·雷霆881,https://iptv.1989.click/hkg/g22gsc?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-電台·叱咤903,https://iptv.1989.click/hkg/mwt78m?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-電台·AM864,https://iptv.1989.click/hkg/jb2t29?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-HOY 國際財經台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-RTHK 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视4K,http://go.bkpcp.top/mg/dfws
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视4K,http://go.bkpcp.top/mg/zjws
+湖南卫视4K,http://go.bkpcp.top/mg/hunws
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
+河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
+TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+新澳门直播,https://play3636.zdwafis.com/live/mosixmark.flv
+老澳门直播,https://vdm6-ali.hrypl168.com/live/a6.flv
 
 •咪咕频道1•,#genre#
 晴彩广场舞•,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
@@ -74,233 +59,6 @@ RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/s
 咪咕直播 𝟛𝟟•,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 咪咕直播 𝟛𝟠•,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
-央视频道,#genre#
-CCTV-1 综合,http://101.35.207.240:8000/live/cctv1.m3u8
-CCTV-2 财经,http://101.35.207.240:8000/live/cctv2.m3u8
-CCTV-3 综艺,http://101.35.207.240:8000/live/cctv3.m3u8
-CCTV-4 中文国际,http://101.35.207.240:8000/live/cctv4.m3u8
-CCTV-5 体育,http://101.35.207.240:8000/live/cctv5.m3u8
-CCTV-5+ 体育赛事,http://101.35.207.240:8000/live/cctv5p.m3u8
-CCTV-6 电影,http://101.35.207.240:8000/live/cctv6.m3u8
-CCTV-7 国防军事,http://101.35.207.240:8000/live/cctv7.m3u8
-CCTV-8 电视剧,http://101.35.207.240:8000/live/cctv8.m3u8
-CCTV-9 纪录,http://101.35.207.240:8000/live/cctv9.m3u8
-CCTV-10 科教,http://101.35.207.240:8000/live/cctv10.m3u8
-CCTV-11 戏曲,http://101.35.207.240:8000/live/cctv11.m3u8
-CCTV-12 社会与法,http://101.35.207.240:8000/live/cctv12.m3u8
-CCTV-13 新闻,http://101.35.207.240:8000/live/cctv13.m3u8
-CCTV-14 少儿,http://101.35.207.240:8000/live/cctv14.m3u8
-CCTV-15 音乐,http://101.35.207.240:8000/live/cctv15.m3u8
-CCTV-16 奥林匹克,http://101.35.207.240:8000/live/cctv16.m3u8
-CCTV-17 农业农村,http://101.35.207.240:8000/live/cctv17.m3u8
-
-广东本地,#genre#
-广东卫视,http://101.35.207.240:8000/live/guangdongtv.m3u8
-广东珠江,http://101.35.207.240:8000/live/gdtv_zhujiang.m3u8
-广东新闻,http://101.35.207.240:8000/live/gdtv_news.m3u8
-广东体育,http://101.35.207.240:8000/live/gdtv_sports.m3u8
-广东影视,http://101.35.207.240:8000/live/gdtv_yingshi.m3u8
-广东民生(公共),http://101.35.207.240:8000/live/gdtv_minsheng.m3u8
-广东少儿,http://101.35.207.240:8000/live/gdtv_shaoer.m3u8
-嘉佳卡通,http://101.35.207.240:8000/live/jiajiakatong.m3u8
-珠江电影,http://101.35.207.240:8000/live/zhujiangdianying.m3u8
-岭南戏曲,http://101.35.207.240:8000/live/lingnanxiqu.m3u8
-广州综合,http://101.35.207.240:8000/live/gztv_zonghe.m3u8
-广州新闻,http://101.35.207.240:8000/live/gztv_news.m3u8
-广州竞赛,http://101.35.207.240:8000/live/gztv_jingsai.m3u8
-广州影视,http://101.35.207.240:8000/live/gztv_yingshi.m3u8
-广州法治,http://101.35.207.240:8000/live/gztv_fazhi.m3u8
-深圳卫视,http://101.35.207.240:8000/live/shenzhentv.m3u8
-深圳都市,http://101.35.207.240:8000/live/sztv_dushi.m3u8
-深圳电视剧,http://101.35.207.240:8000/live/sztv_dianshijv.m3u8
-深圳财经生活,http://101.35.207.240:8000/live/sztv_caijing.m3u8
-佛山综合,http://101.35.207.240:8000/live/foshantv.m3u8
-东莞综合,http://101.35.207.240:8000/live/dongguantv.m3u8
-
-卫视频道,#genre#
-湖南卫视,http://101.35.207.240:8000/live/hunantv.m3u8
-浙江卫视,http://101.35.207.240:8000/live/zhejiangtv.m3u8
-江苏卫视,http://101.35.207.240:8000/live/jiangsutv.m3u8
-东方卫视,http://101.35.207.240:8000/live/dongfangtv.m3u8
-北京卫视,http://101.35.207.240:8000/live/beijingtv.m3u8
-安徽卫视,http://101.35.207.240:8000/live/anhuitv.m3u8
-山东卫视,http://101.35.207.240:8000/live/shandongtv.m3u8
-四川卫视,http://101.35.207.240:8000/live/sichuantv.m3u8
-
-香港频道,#genre#
-TVB 无线新闻台,http://101.35.207.240:8000/live/tvbnews.m3u8
-TVB 翡翠台,http://101.35.207.240:8000/live/jade.m3u8
-TVB Plus (J2),http://101.35.207.240:8000/live/tvbplus.m3u8
-凤凰卫视中文台,http://101.35.207.240:8000/live/phoenix_zh.m3u8
-凤凰卫视资讯台,http://101.35.207.240:8000/live/phoenix_news.m3u8
-凤凰卫视香港台,http://101.35.207.240:8000/live/phoenix_hk.m3u8
-TVB 明珠台,http://101.35.207.240:8000/live/pearl.m3u8
-ViuTV,http://101.35.207.240:8000/live/viutv.m3u8
-HOY TV (77台),http://101.35.207.240:8000/live/hoy77.m3u8
-HOY 资讯台 (78台),http://101.35.207.240:8000/live/hoy78.m3u8
-港台电视 31,http://101.35.207.240:8000/live/rthk31.m3u8
-港台电视 32,http://101.35.207.240:8000/live/rthk32.m3u8
-
-
-🇨🇳央视频道,#genre#
-CCTV1综合,http://wfenf.x3322.net:7788/608807420
-CCTV2财经,http://wfenf.x3322.net:7788/631780532
-CCTV3综艺,http://wfenf.x3322.net:7788/624878271
-CCTV4中文国际,http://wfenf.x3322.net:7788/631780421
-CCTV5体育,http://wfenf.x3322.net:7788/641886683
-CCTV5+体育赛事,http://wfenf.x3322.net:7788/641886773
-CCTV6电影,http://wfenf.x3322.net:7788/624878396
-CCTV7国防军事,http://wfenf.x3322.net:7788/673168121
-CCTV8电视剧,http://wfenf.x3322.net:7788/624878356
-CCTV9纪录,http://wfenf.x3322.net:7788/673168140
-CCTV10科教,http://wfenf.x3322.net:7788/624878405
-CCTV11戏曲,http://wfenf.x3322.net:7788/667987558
-CCTV12社会与法,http://wfenf.x3322.net:7788/673168185
-CCTV13新闻,http://wfenf.x3322.net:7788/608807423
-CCTV14少儿,http://wfenf.x3322.net:7788/624878440
-CCTV15音乐,http://wfenf.x3322.net:7788/673168223
-CCTV17农业农村,http://wfenf.x3322.net:7788/673168256
-CCTV4欧洲,http://wfenf.x3322.net:7788/608807419
-CCTV4美洲,http://wfenf.x3322.net:7788/608807416
-CGTN外语纪录,http://wfenf.x3322.net:7788/609006487
-CGTN阿拉伯语,http://wfenf.x3322.net:7788/609154345
-CGTN西班牙语,http://wfenf.x3322.net:7788/609006450
-CGTN法语,http://wfenf.x3322.net:7788/609006476
-CGTN俄语,http://wfenf.x3322.net:7788/609006446
-老故事,http://wfenf.x3322.net:7788/884121956
-发现之旅,http://wfenf.x3322.net:7788/624878970
-中学生,http://wfenf.x3322.net:7788/708869532
-CGTN,http://wfenf.x3322.net:7788/609017205
-🇨🇳卫视频道,#genre#
-东方卫视,http://wfenf.x3322.net:7788/651632648
-江苏卫视,http://wfenf.x3322.net:7788/623899368
-广东卫视,http://wfenf.x3322.net:7788/608831231
-北京卫视,http://wfenf.x3322.net:7788/630287636
-辽宁卫视,http://wfenf.x3322.net:7788/630291707
-河北卫视,http://wfenf.x3322.net:7788/962042070
-江西卫视,http://wfenf.x3322.net:7788/783847495
-河南卫视,http://wfenf.x3322.net:7788/790187291
-陕西卫视,http://wfenf.x3322.net:7788/738910838
-大湾区卫视,http://wfenf.x3322.net:7788/608917627
-湖北卫视,http://wfenf.x3322.net:7788/947472496
-吉林卫视,http://wfenf.x3322.net:7788/947472500
-青海卫视,http://wfenf.x3322.net:7788/947472506
-东南卫视,http://wfenf.x3322.net:7788/849116810
-海南卫视,http://wfenf.x3322.net:7788/947472502
-海峡卫视,http://wfenf.x3322.net:7788/849119120
-中国农林卫视,http://wfenf.x3322.net:7788/956904896
-兵团卫视,http://wfenf.x3322.net:7788/956923145
-宁夏卫视,http://wfenf.x3322.net:7788/738910535
-重庆卫视,http://wfenf.x3322.net:7788/738910914
-三沙卫视,http://wfenf.x3322.net:7788/961023778
-黑龙江卫视,http://wfenf.x3322.net:7788/738906901
-
-•央視「Relay」,#genre#
-CCTV 1 綜合「Relay」,https://iptv.1989.click/cn/2h56ec?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 2 財經「Relay」,https://iptv.1989.click/cn/q89s7q?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 3 綜藝「Relay」,https://iptv.1989.click/cn/ya7pht?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 4 中文國際「Relay」,https://iptv.1989.click/cn/rte86u?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 5 體育「Relay」,https://iptv.1989.click/cn/t6t4hr?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 5+ 體育賽事「Relay」,https://iptv.1989.click/cn/gramyn?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 6 電影「Relay」,https://iptv.1989.click/cn/bjgjah?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 7 國防軍事「Relay」,https://iptv.1989.click/cn/6y7s78?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 8 電視劇「Relay」,https://iptv.1989.click/cn/8v2npm?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 9 記錄「Relay」,https://iptv.1989.click/cn/6pe6z4?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 10 科教「Relay」,https://iptv.1989.click/cn/pgwmk4?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 11 戲曲「Relay」,https://iptv.1989.click/cn/ypunst?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 12 社會與法「Relay」,https://iptv.1989.click/cn/put9mb?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 13 新聞「Relay」,https://iptv.1989.click/cn/9rkqcj?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 14 少兒「Relay」,https://iptv.1989.click/cn/ncdnag?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 15 音樂「Relay」,https://iptv.1989.click/cn/w4hu45?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 16 奧林匹克「Relay」,https://iptv.1989.click/cn/ym7gtk?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CCTV 17 農村農業「Relay」,https://iptv.1989.click/cn/ctw67a?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-北京衛視「Relay」,https://iptv.1989.click/cn/bbajwm?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-東方衛視「Relay」,https://iptv.1989.click/cn/jjjhs5?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-廣東衛視「Relay」,https://iptv.1989.click/cn/kwebhe?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-浙江衛視「Relay」,https://iptv.1989.click/cn/vt34d5?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-江蘇衛視「Relay」,https://iptv.1989.click/cn/hvqn8h?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-湖南衛視「Relay」,https://iptv.1989.click/cn/9jvtt2?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-四川衛視「Relay」,https://iptv.1989.click/cn/bnxd3u?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-
-•台灣「Relay」,#genre#
-緯來日本「Relay」,https://iptv.1989.click/tw/8wvx4g?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-緯來體育「Relay」,https://iptv.1989.click/tw/4tpty4?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-緯來電影「Relay」,https://iptv.1989.click/tw/gjq86m?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-緯來綜合「Relay」,https://iptv.1989.click/tw/52uawz?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-緯來戲劇「Relay」,https://iptv.1989.click/tw/bsm79q?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-緯來育樂「Relay」,https://iptv.1989.click/tw/4qzuu7?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-年代新聞「Relay」,https://iptv.1989.click/tw/b6m8eh?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-中天亞洲「Relay」,https://iptv.1989.click/tw/7t66sy?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-中天綜合「Relay」,https://iptv.1989.click/tw/kpy2rg?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-中天娛樂「Relay」,https://iptv.1989.click/tw/5ekfk4?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-東森電影「Relay」,https://iptv.1989.click/tw/j2pwwv?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-東森洋片「Relay」,https://iptv.1989.click/tw/aenjby?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-東森綜合「Relay」,https://iptv.1989.click/tw/rs8g2m?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-東森戲劇「Relay」,https://iptv.1989.click/tw/4r38zm?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-東森幼幼「Relay」,https://iptv.1989.click/tw/43t54w?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-台視「Relay」,https://iptv.1989.click/tw/bypq4g?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-動物星球「Relay」,https://iptv.1989.click/tw/zwrpf9?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CATCHPLAY 電影「Relay」,https://iptv.1989.click/tw/ys8dv8?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍祥時代「Relay」,https://iptv.1989.click/tw/7k6nkq?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-CINEMAX「Relay」,https://iptv.1989.click/tw/mq523a?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-好萊塢電影「Relay」,https://iptv.1989.click/tw/mvfwag?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-MTV Live「Relay」,https://iptv.1989.click/tw/4pvvjt?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍華偶像「ofiii」,https://iptv.1989.click/ofiii/gxdqdh?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍華卡通「ofiii」,https://iptv.1989.click/ofiii/ec6xhm?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍華戲劇「ofiii」,https://iptv.1989.click/ofiii/qc2vy2?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍華日韓「ofiii」,https://iptv.1989.click/ofiii/mjnxe3?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍華洋片「ofiii」,https://iptv.1989.click/ofiii/mqj3vr?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍華經典「ofiii」,https://iptv.1989.click/ofiii/xp9jk6?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-龍華電影「ofiii」,https://iptv.1989.click/ofiii/wwqqvp?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-台視新聞「ofiii」,https://iptv.1989.click/ofiii/7evxdp?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-台灣戲劇「ofiii」,https://iptv.1989.click/ofiii/u24qyu?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-寰宇財經「ofiii」,https://iptv.1989.click/ofiii/zcypu7?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-DayStar「ofiii」,https://iptv.1989.click/ofiii/tuh46a?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-第1商業「ofiii」,https://iptv.1989.click/ofiii/tyvcpe?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Smart知識「ofiii」,https://iptv.1989.click/ofiii/wqtccp?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-
-•體育「Relay」,#genre#
-TNT Sport 1,https://iptv.1989.click/sprt/bb7rq5?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-TNT Sport 2,https://iptv.1989.click/sprt/4evmph?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-TNT Sport 3,https://iptv.1989.click/sprt/ahpn8a?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-TNT Sport 4,https://iptv.1989.click/sprt/nk2g7a?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Eurosport 1,https://iptv.1989.click/sprt/b7c2ur?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Eurosport 2,https://iptv.1989.click/sprt/me3udb?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-beIN Sports,https://iptv.1989.click/sprt/2hctcp?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-beIN Sports 2,https://iptv.1989.click/sprt/9ze4pc?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-beIN Sports 3,https://iptv.1989.click/sprt/8xsjua?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-beIN Sports 4,https://iptv.1989.click/sprt/c5hdab?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-beIN Sports 5,https://iptv.1989.click/sprt/7vwx3u?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Premier 1,https://iptv.1989.click/sprt/2t8zzs?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Premier 2,https://iptv.1989.click/sprt/sqrs3v?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Premier 3,https://iptv.1989.click/sprt/3pxt82?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Premier 4,https://iptv.1989.click/sprt/rqx5tt?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Premier 5,https://iptv.1989.click/sprt/n6rzt3?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Premier 6,https://iptv.1989.click/sprt/ur6eyx?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 1,https://iptv.1989.click/sprt/fm2t8a?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 2,https://iptv.1989.click/sprt/grqaju?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 3,https://iptv.1989.click/sprt/97fkk8?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 4,https://iptv.1989.click/sprt/jbkvtk?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 5,https://iptv.1989.click/sprt/eh28dv?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 6,https://iptv.1989.click/sprt/82km98?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 7,https://iptv.1989.click/sprt/xz3m3k?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Hub Sports 8,https://iptv.1989.click/sprt/chtmat?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Spotv 1,https://iptv.1989.click/sprt/68s6t6?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Spotv 2,https://iptv.1989.click/sprt/nq873w?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-FIGHT SPORTS,https://iptv.1989.click/sprt/rbq5py?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-
-•綜合「Relay」,#genre#
-BBC Earth,https://iptv.1989.click/comp/2mxveq?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-BBC Lifestyle,https://iptv.1989.click/comp/2hnpmj?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Discovery,https://iptv.1989.click/comp/w2e57x?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-HBO,https://iptv.1989.click/comp/4uwqpp?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-HBO Hits,https://iptv.1989.click/comp/auvjcz?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-HBO Family,https://iptv.1989.click/comp/8qqw38?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-HBO Signature,https://iptv.1989.click/comp/f9jv9x?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Channel 5,https://iptv.1989.click/comp/r5cnzh?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Channel 8,https://iptv.1989.click/comp/2e6rhg?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-Channel U,https://iptv.1989.click/comp/ubytxe?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
-中天亞洲,https://iptv.1989.click/comp/63m752?token=4cbf260b8f0662165aacbbe652b969511cc7918859839913
 
 •港澳台「Juli」,#genre#
 無綫新聞台,https://cdn.qd.je/163189/wxxw
@@ -420,76 +178,62 @@ DreamWorks梦工厂动画,https://cdn.qd.je/163189/dreamworks
 东森戏剧,https://cdn.qd.je/163189/dsxj
 东森洋片,https://cdn.qd.je/163189/dsyp
 
+2026世界杯,#genre#
+咪咕频道,https://live.666666.zip/migu/1.m3u8
+广东体育,https://2.fast.hidns.vip/163189/gdty
+CCTV5,https://live.666666.zip/stream/20233432.m3u8
+CCTV5,https://live.666666.zip/cctv/5.m3u8
+澳门体育,https://cdn6.cc.cd/163189/amty
+ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
+ELTA体育1,https://live.666666.zip/elta/index.m3u8
+ELTA体育2,https://live.666666.zip/stream/28361755.m3u8
+CCTV5+,https://live.666666.zip/stream/79635460.m3u8
+CCTV5+,https://live.666666.zip/cctv/5p.m3u8
+小红书1,https://live.666666.zip/xiaohongshu/1.m3u8
+小红书2,https://live.666666.zip/xiaohongshu/2.m3u8
+NOW618,https://live.666666.zip/yueyu/index.m3u8
+咪咕1,https://www.rtmpcdn.com/live/migu1.m3u8
+咪咕2,https://www.rtmpcdn.com/live/migu2.m3u8
+NOW616粤语4K,http://iptv.4666888.xyz/fifa/FYTV_FIFA.php?id=1
+NOW616英语4K,http://iptv.4666888.xyz/fifa/FYTV_FIFA.php?id=2
+NOW Sports 616 4Kᵁᴴᴰ,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
+NOW Sports 617 4Kᵁᴴᴰ,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
+NOW Sports 618,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
+NOW Sports 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
+CCTV5(临时),http://82.156.243.185:36888/av3a/cctv5n.m3u8
+CCTV5+(临时),http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+
+凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
+凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
+凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
+NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
+NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+NOW体育4,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+NOW体育5,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+NOW体育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
+NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+
+
 港澳台频道,#genre#
 TVB新闻,https://cdn6.cc.cd/163189/wxxw
-TVB星河,https://cdn6.cc.cd/163189/tvbxh
-TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
-TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
+无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 TVB1,https://cdn6.cc.cd/163189/tvb1
 TVBJ1,https://cdn6.cc.cd/163189/j1
 翡翠台,https://cdn6.cc.cd/163189/fct
 凤凰香港,https://cdn6.cc.cd/163189/fhhk
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
-华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
-华丽翡翠台,https://cdn6.cc.cd/163189/jade
-无线新闻台,https://cdn6.cc.cd/163189/wxxwt
-AMC电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
-大爱电视,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
-东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-公视戏剧,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
-华视,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837
-华视新闻,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-寰宇新闻台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-经典电影台,http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
-靖天电影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
-靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
-靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
-靖天戏剧台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
-靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
-靖天育乐台,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
-靖天资讯台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-靖天综合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
-靖洋戏剧台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
-民视,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
-民视第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
-民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
-民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-人间卫视,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
-三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
-中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-猪哥亮歌厅秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
-AMC电影台,https://cdn12.178.indevs.in/163189/amc
-采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
-公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
-经典电影台,https://cdn12.178.indevs.in/163189/jddyt
-靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
-靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
-靖天映画,https://cdn12.178.indevs.in/163189/jtyh
-靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
-民视影剧台,https://cdn12.178.indevs.in/163189/msyj
-影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
-TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+
+
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 翡翠台4K字幕,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台字幕,https://cdn3.indevs.in/stream/tvb/fct/
 华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
 华丽翡翠台新加坡,https://cdn3.indevs.in/stream/live/jade/
-天映,https://cdn3.indevs.in/stream/live/typd/
-天映经典,https://cdn3.indevs.in/stream/live/ccm/
-TVBPlus,https://smt.1678520.xyz/163189/tvbp
-东森电影,https://smt.1678520.xyz/163189/dsdy
-东森戏剧,https://smt.1678520.xyz/163189/dsxj
-东森洋片,https://smt.1678520.xyz/163189/dsyp
-龙祥时代,https://smt.1678520.xyz/163189/lxsd
-纬来电影台,https://smt.1678520.xyz/163189/wldy
-纬来体育台,https://smt.1678520.xyz/163189/wlty
-纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
+
 
 港澳台推流,#genre#
 翡翠台,http://www.kaniptv.cn/uadl.php?etoken=F3cu1umWOgz5QTXr2%2BkOLpMz5se91wnoY%2Fk0pTHaGLo4K%2BAQMsG8bOMxQHJxFWTeQRdNJuaehfwr%2FrEtssSk7ee0rJD1ClRfZ3fru4DSh9HttFPdCHH%2FnF9mbND5HHpMk5iaWUjqBbz699%2Bi7zndUgSYqcySSuHSo7%2ByaQWbofwLzSZ%2FVRjMBqSXvVQRMHMnLyYJsRLQh0xwOry%2FyKezO4difSesD8scJP8Ghco3Zb2rrgOK9EPKPJAlGSOWP%2BnyWzTC7xoOuOQCAOzF7oCCl36Y5VzJNHDa5EbP%2BZ1QPbXmW50Y02P38FabpMaN1Dt8dR9JbOEolfoXAuGskmfi8Q%3D%3D
