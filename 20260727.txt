@@ -1,7 +1,5 @@
 咪咕央视,#genre#,DE=3
 CCTV-1,http://go.bkpcp.top/mg/cctv1
-广东珠江,https://cdn.qd.je/163189/gdzj
-广东体育,https://cdn.qd.je/163189/gdty
 CCTV-2,http://go.bkpcp.top/mg/cctv2
 CCTV-3,http://go.bkpcp.top/mg/cctv3
 CCTV-4,http://go.bkpcp.top/mg/cctv4
