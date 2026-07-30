@@ -309,9 +309,17 @@ CCTV-17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 广州南国都市,https://cdn.qd.je/163189/ngds
 
 港澳频道,#genre#
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+无线新闻,https://live.catvod.com/iptv.php?id=tvbxw01
+无线新闻,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/wxxw
+无线新闻,http://74.91.26.218:82/live/inews.m3u8
 無綫新聞台,https://cdn.qd.je/163189/wxxw
 翡翠台,https://cdn.qd.je/163189/fct
 NOW新闻台,https://cdn.qd.je/163189/now
+NOW新闻台,http://hls.168.us.kg/u/332/master.m3u8
+NOW新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20041
+NOW新闻台,http://47.242.63.189/livehttpplay?channel_id=20041
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰资讯,https://cdn.qd.je/163189/fhzx
 凤凰香港,https://cdn.qd.je/163189/fhhk
