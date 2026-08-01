@@ -60,8 +60,8 @@ jobs:
       # ── 4. doh-ips（IP列表 → yaml → .mrs） ───────────────────
       - name: 生成 doh-ips.mrs
         run: |
-          curl -fsSL \
-            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/ips/doh.txt" \
+          curl --retry 3 --retry-delay 5 -fsSL \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt" \
             -o doh-ips.txt
 
           python3 - <<'EOF'
@@ -101,8 +101,8 @@ jobs:
       # ── 5. doh 域名（域名列表 → yaml → .mrs） ────────────────
       - name: 生成 doh.mrs
         run: |
-          curl -fsSL \
-            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/doh.txt" \
+          curl --retry 3 --retry-delay 5 -fsSL \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt" \
             -o doh.txt
 
           python3 - <<'EOF'
@@ -124,8 +124,8 @@ jobs:
       # ── 6. Hagezi Pro（wildcard域名 → yaml → .mrs） ───────────
       - name: 生成 Hagezi Blocklists Pro.mrs
         run: |
-          curl -fsSL \
-            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt" \
+          curl --retry 3 --retry-delay 5 -fsSL \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt" \
             -o Hagezi-Blocklists-Pro.txt
 
           python3 - <<'EOF'
