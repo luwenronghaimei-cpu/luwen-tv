@@ -102,7 +102,7 @@ jobs:
       - name: 生成 doh.mrs
         run: |
           curl --retry 3 --retry-delay 5 -fsSL \
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt" \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-onlydomains.txt" \
             -o doh.txt
 
           python3 - <<'EOF'
