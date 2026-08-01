@@ -135,7 +135,16 @@ jobs:
           sing-box rule-set convert --type adguard "pro.txt" -o "Hagezi-Blocklists-Pro.srs"
           mv "Hagezi-Blocklists-Pro.srs" rules/
 
-      # ── 9. 提交并推送到仓库 ───────────────────────────────────
+      # ── 9. antiiplookup（hosts/adguard → .srs） ────────────────
+      - name: 生成 antiiplookup.srs
+        run: |
+          curl --retry 3 --retry-delay 5 -fsSL \
+            "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antiiplookup.txt" \
+            -o antiiplookup.txt
+          sing-box rule-set convert --type adguard antiiplookup.txt -o antiiplookup.srs
+          mv antiiplookup.srs rules/
+
+      # ── 10. 提交并推送到仓库 ──────────────────────────────────
       - name: 提交更新
         run: |
           git config user.name  "github-actions[bot]"
