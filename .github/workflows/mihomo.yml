@@ -60,9 +60,26 @@ jobs:
       # ── 4. doh-ips（IP列表 → yaml → .mrs） ───────────────────
       - name: 生成 doh-ips.mrs
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt" \
-            -o doh-ips.txt
+          # 带回退的下载函数：GitHub → GitLab 镜像
+          download_hagezi() {
+            local path="$1" output="$2"
+            local github_url="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/${path}"
+            local gitlab_url="https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/${path}"
+            echo "尝试从 GitHub 下载: ${github_url}"
+            if curl --retry 2 --retry-delay 3 -fsSL "${github_url}" -o "${output}" 2>/dev/null; then
+              echo "✅ GitHub 下载成功"
+              return 0
+            fi
+            echo "⚠️ GitHub 不可用，切换到 GitLab 镜像: ${gitlab_url}"
+            if curl --retry 3 --retry-delay 5 -fsSL "${gitlab_url}" -o "${output}"; then
+              echo "✅ GitLab 镜像下载成功"
+              return 0
+            fi
+            echo "::error::GitHub 和 GitLab 镜像均不可用: ${path}"
+            return 1
+          }
+
+          download_hagezi "ips/doh.txt" doh-ips.txt
 
           python3 - <<'EOF'
           import ipaddress
@@ -101,9 +118,26 @@ jobs:
       # ── 5. doh 域名（域名列表 → yaml → .mrs） ────────────────
       - name: 生成 doh.mrs
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-onlydomains.txt" \
-            -o doh.txt
+          # 带回退的下载函数：GitHub → GitLab 镜像
+          download_hagezi() {
+            local path="$1" output="$2"
+            local github_url="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/${path}"
+            local gitlab_url="https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/${path}"
+            echo "尝试从 GitHub 下载: ${github_url}"
+            if curl --retry 2 --retry-delay 3 -fsSL "${github_url}" -o "${output}" 2>/dev/null; then
+              echo "✅ GitHub 下载成功"
+              return 0
+            fi
+            echo "⚠️ GitHub 不可用，切换到 GitLab 镜像: ${gitlab_url}"
+            if curl --retry 3 --retry-delay 5 -fsSL "${gitlab_url}" -o "${output}"; then
+              echo "✅ GitLab 镜像下载成功"
+              return 0
+            fi
+            echo "::error::GitHub 和 GitLab 镜像均不可用: ${path}"
+            return 1
+          }
+
+          download_hagezi "wildcard/doh-onlydomains.txt" doh.txt
 
           python3 - <<'EOF'
           with open("doh.txt", encoding="utf-8") as f:
@@ -124,9 +158,26 @@ jobs:
       # ── 6. Hagezi Pro（wildcard域名 → yaml → .mrs） ───────────
       - name: 生成 Hagezi Blocklists Pro.mrs
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt" \
-            -o Hagezi-Blocklists-Pro.txt
+          # 带回退的下载函数：GitHub → GitLab 镜像
+          download_hagezi() {
+            local path="$1" output="$2"
+            local github_url="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/${path}"
+            local gitlab_url="https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/${path}"
+            echo "尝试从 GitHub 下载: ${github_url}"
+            if curl --retry 2 --retry-delay 3 -fsSL "${github_url}" -o "${output}" 2>/dev/null; then
+              echo "✅ GitHub 下载成功"
+              return 0
+            fi
+            echo "⚠️ GitHub 不可用，切换到 GitLab 镜像: ${gitlab_url}"
+            if curl --retry 3 --retry-delay 5 -fsSL "${gitlab_url}" -o "${output}"; then
+              echo "✅ GitLab 镜像下载成功"
+              return 0
+            fi
+            echo "::error::GitHub 和 GitLab 镜像均不可用: ${path}"
+            return 1
+          }
+
+          download_hagezi "wildcard/pro-onlydomains.txt" Hagezi-Blocklists-Pro.txt
 
           python3 - <<'EOF'
           with open("Hagezi-Blocklists-Pro.txt", encoding="utf-8") as f:
