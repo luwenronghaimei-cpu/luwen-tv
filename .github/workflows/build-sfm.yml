@@ -69,6 +69,11 @@ jobs:
       - name: Copy Libbox to apple project
         run: cp -R core/Libbox.xcframework apple/
 
+      - name: Patch Swift compatibility
+        working-directory: apple
+        run: |
+          find . -name "*.swift" -exec sed -i '' 's/nonisolated deinit/deinit/g' {} +
+
       - name: Build SFM.app
         working-directory: apple
         env:
