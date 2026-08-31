@@ -1,42 +1,35 @@
-name: Build SFM with reF1nd Core
+name: Build SFM (reF1nd)
 
 on:
   workflow_dispatch:
     inputs:
       core_ref:
-        description: 'reF1nd/sing-box 分支、Tag 或 Commit (例如: reF1nd-stable, v1.13.20-reF1nd)'
-        required: true
-        default: 'reF1nd-stable'
-      apple_ref:
-        description: 'SagerNet/sing-box-for-apple 分支或 Tag (例如: dev, main)'
-        required: true
-        default: 'dev'
-      build_scheme:
-        description: '构建 Scheme (SFM 或 SFM.System)'
+        description: '内核版本 (分支名或 Tag，Tag 带 v 前缀如 v1.14.0-rc.4-reF1nd)'
         required: true
         type: choice
+        default: 'reF1nd-testing'
         options:
-          - 'SFM'
-          - 'SFM.System'
-          - 'Both'
-        default: 'SFM'
-      create_release:
-        description: '是否自动创建 GitHub Release'
-        required: false
-        type: boolean
-        default: false
+          - reF1nd-testing
+          - reF1nd-stable
+          - reF1nd-testing-next
+          - reF1nd-stable-next
+          - reF1nd
+      apple_ref:
+        description: 'sing-box-for-apple 分支 (一般不用改)'
+        required: true
+        default: 'dev'
 
 jobs:
   build:
-    name: Build SFM (${{ github.event.inputs.build_scheme }})
-    runs-on: macos-15
+    name: Build SFM macOS ARM64
+    runs-on: macos-15  # Apple Silicon runner
     steps:
       - name: Checkout sing-box-for-apple
         uses: actions/checkout@v4
         with:
           repository: SagerNet/sing-box-for-apple
           ref: ${{ inputs.apple_ref }}
-          path: sing-box-for-apple
+          path: apple
           submodules: recursive
           fetch-depth: 1
 
@@ -45,91 +38,98 @@ jobs:
         with:
           repository: reF1nd/sing-box
           ref: ${{ inputs.core_ref }}
-          path: sing-box-core
-          fetch-depth: 1
+          path: core
+          fetch-depth: 0
+          fetch-tags: true
 
-      - name: Set up Go
+      - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version: '1.24'
-          cache: false
+          go-version: '~1.25.12'
+          cache-dependency-path: core/go.sum
 
-      - name: Install gomobile & Dependencies
+      - name: Install gomobile
         run: |
           go install github.com/sagernet/gomobile/cmd/gomobile@latest
           go install github.com/sagernet/gomobile/cmd/gobind@latest
-          gomobile init
 
-      - name: Build Libbox.xcframework
-        working-directory: sing-box-core
+      - name: Get version info
+        id: version
         run: |
-          echo "Building Libbox.xcframework from reF1nd/sing-box..."
-          # 使用 sing-box 内部编译工具构建 macOS 平台的 Libbox.xcframework
-          go run ./cmd/internal/build_libbox -target apple -platform macos
-          
-          # 将编译好的 Libbox.xcframework 复制到 sing-box-for-apple 根目录
-          cp -R Libbox.xcframework ../sing-box-for-apple/
+          cd core
+          VERSION=$(git describe --tags --always 2>/dev/null || git rev-parse --short HEAD)
+          echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "Core version: ${VERSION}"
 
-      - name: Build SFM (macOS)
-        working-directory: sing-box-for-apple
+      - name: Build Libbox.xcframework (macOS ARM64 only)
+        working-directory: core
+        run: |
+          go run ./cmd/internal/build_libbox -target apple -platform macos/arm64
+
+      - name: Copy Libbox to apple project
+        run: cp -R core/Libbox.xcframework apple/
+
+      - name: Build SFM.app
+        working-directory: apple
         env:
-          DISABLE_SWIFTLINT: 1
+          DISABLE_SWIFTLINT: '1'
         run: |
-          SCHEMES=()
-          if [ "${{ inputs.build_scheme }}" == "Both" ]; then
-            SCHEMES=("SFM" "SFM.System")
-          else
-            SCHEMES=("${{ inputs.build_scheme }}")
-          fi
+          xcodebuild archive \
+            -project sing-box.xcodeproj \
+            -scheme SFM \
+            -configuration Release \
+            -destination 'generic/platform=macOS,arch=arm64' \
+            -archivePath build/SFM.xcarchive \
+            -skipPackagePluginValidation \
+            CODE_SIGN_IDENTITY="-" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=YES \
+            ONLY_ACTIVE_ARCH=NO \
+            ARCHS=arm64 \
+            | tail -20
 
-          mkdir -p ../dist
+      - name: Package
+        run: |
+          APP="apple/build/SFM.xcarchive/Products/Applications/SFM.app"
+          VERSION="${{ steps.version.outputs.version }}"
+          
+          mkdir -p dist
 
-          for SCHEME in "${SCHEMES[@]}"; do
-            echo "=========================================="
-            echo "Compiling Scheme: $SCHEME"
-            echo "=========================================="
-            
-            xcodebuild archive \
-              -project sing-box.xcodeproj \
-              -scheme "$SCHEME" \
-              -configuration Release \
-              -destination 'generic/platform=macOS' \
-              -archivePath "build/$SCHEME.xcarchive" \
-              -skipPackagePluginValidation \
-              CODE_SIGN_IDENTITY="-" \
-              CODE_SIGN_STYLE="Manual" \
-              CODE_SIGNING_REQUIRED=NO \
-              CODE_SIGNING_ALLOWED=YES
+          # zip
+          ditto -c -k --keepParent "$APP" "dist/SFM-${VERSION}-macOS-arm64.zip"
+          
+          # dmg
+          hdiutil create \
+            -volname "SFM" \
+            -srcfolder "$APP" \
+            -ov -format UDZO \
+            "dist/SFM-${VERSION}-macOS-arm64.dmg"
 
-            APP_PATH="build/$SCHEME.xcarchive/Products/Applications/SFM.app"
-            
-            # 打包为 zip
-            ZIP_NAME="$SCHEME-${{ inputs.core_ref }}-macOS.zip"
-            ditto -c -k --keepParent "$APP_PATH" "../dist/$ZIP_NAME"
-
-            # 打包为 dmg
-            DMG_NAME="$SCHEME-${{ inputs.core_ref }}-macOS.dmg"
-            hdiutil create -volname "$SCHEME" -srcfolder "$APP_PATH" -ov -format UDZO "../dist/$DMG_NAME"
-          done
+          echo "=== 打包完成 ==="
+          ls -lh dist/
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: SFM-reF1nd-${{ inputs.core_ref }}
+          name: SFM-${{ steps.version.outputs.version }}-macOS-arm64
           path: dist/*
-          if-no-files-found: error
 
-      - name: Create GitHub Release
-        if: ${{ inputs.create_release == true }}
+      - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: sfm-${{ inputs.core_ref }}-${{ github.run_id }}
-          name: "SFM with reF1nd core (${{ inputs.core_ref }})"
+          tag_name: sfm-${{ steps.version.outputs.version }}
+          name: "SFM ${{ steps.version.outputs.version }} (macOS ARM64)"
           body: |
-            ### 编译说明
-            - **Core Repo**: https://github.com/reF1nd/sing-box (Ref: `${{ inputs.core_ref }}`)
-            - **Apple Client**: https://github.com/SagerNet/sing-box-for-apple (Ref: `${{ inputs.apple_ref }}`)
-            - **Scheme**: `${{ inputs.build_scheme }}`
+            使用 reF1nd 第三方内核编译的 SFM macOS 客户端（ARM64）
+
+            | 项目 | 值 |
+            |---|---|
+            | 内核来源 | [`reF1nd/sing-box`](https://github.com/reF1nd/sing-box) |
+            | 内核版本 | `${{ inputs.core_ref }}` → `${{ steps.version.outputs.version }}` |
+            | 客户端来源 | [`sing-box-for-apple`](https://github.com/SagerNet/sing-box-for-apple) @ `${{ inputs.apple_ref }}` |
+            | 架构 | `arm64` (Apple Silicon) |
+            
+            > 首次打开如遇安全提示，终端运行: `xattr -cr /Applications/SFM.app`
           files: dist/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
