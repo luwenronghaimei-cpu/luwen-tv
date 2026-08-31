@@ -1,5 +1,8 @@
 name: Build SFM (reF1nd)
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
     inputs:
@@ -22,7 +25,7 @@ on:
 jobs:
   build:
     name: Build SFM macOS ARM64
-    runs-on: macos-15  # Apple Silicon runner
+    runs-on: macos-latest  # Use latest Apple Silicon runner
     steps:
       - name: Checkout sing-box-for-apple
         uses: actions/checkout@v4
