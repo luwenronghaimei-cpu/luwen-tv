@@ -72,7 +72,43 @@ jobs:
       - name: Patch Swift compatibility
         working-directory: apple
         run: |
-          find . -name "*.swift" -exec sed -i '' 's/nonisolated deinit/deinit/g' {} +
+          python3 - << 'EOF'
+          import os, glob, re
+
+          for p in glob.glob('**/*.swift', recursive=True):
+              with open(p, 'r', encoding='utf-8') as f:
+                  content = f.read()
+              orig = content
+
+              # 1. Patch nonisolated deinit -> deinit
+              content = content.replace('nonisolated deinit', 'deinit')
+
+              # 2. Patch selectorBackground glassEffect (iOS 26.0 mock)
+              content = re.sub(
+                  r'func selectorBackground\(\) -> some View \{[\s\S]*?if #available\(iOS 26\.0[\s\S]*?else \{\s*background\(([\s\S]*?)\)\s*\}\s*\}',
+                  r'func selectorBackground() -> some View {\n        background(\1)\n    }',
+                  content
+              )
+
+              # 3. Patch actionButtonStyle glassEffect (iOS 26.0 mock)
+              content = re.sub(
+                  r'if #available\(iOS 26\.0, macOS 26\.0, \*\) \{[\s\S]*?\} else \{\s*(frame\(width: 44, height: 32\)[\s\S]*?\.clipShape\([^\)]+\)\))\s*\}',
+                  r'\1',
+                  content
+              )
+
+              # 4. Patch CardStyleModifier glassEffect (iOS 26.0 mock)
+              content = re.sub(
+                  r'if #available\(iOS 26\.0, macOS 26\.0, tvOS 26\.0, \*\) \{[\s\S]*?\} else \{\s*(content[\s\S]*?\.cornerRadius\(16\))\s*\}',
+                  r'\1',
+                  content
+              )
+
+              if content != orig:
+                  print(f"Successfully patched: {p}")
+                  with open(p, 'w', encoding='utf-8') as f:
+                      f.write(content)
+          EOF
 
       - name: Build SFM.app
         working-directory: apple
