@@ -78,15 +78,13 @@ jobs:
             -project sing-box.xcodeproj \
             -scheme SFM \
             -configuration Release \
-            -destination 'generic/platform=macOS,arch=arm64' \
+            -destination 'generic/platform=macOS' \
             -archivePath build/SFM.xcarchive \
             -skipPackagePluginValidation \
             CODE_SIGN_IDENTITY="-" \
             CODE_SIGNING_REQUIRED=NO \
             CODE_SIGNING_ALLOWED=YES \
-            ONLY_ACTIVE_ARCH=NO \
-            ARCHS=arm64 \
-            | tail -20
+            ARCHS=arm64
 
       - name: Package
         run: |
