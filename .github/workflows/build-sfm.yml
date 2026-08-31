@@ -129,7 +129,7 @@ jobs:
 
       - name: Package
         run: |
-          APP="apple/build/SFM.xcarchive/Products/Applications/SFM.app"
+          APP="apple/build/SFM.xcarchive/Products/Applications/sing-box.app"
           VERSION="${{ steps.version.outputs.version }}"
           
           mkdir -p dist
@@ -168,7 +168,7 @@ jobs:
             | 客户端来源 | [`sing-box-for-apple`](https://github.com/SagerNet/sing-box-for-apple) @ `${{ inputs.apple_ref }}` |
             | 架构 | `arm64` (Apple Silicon) |
             
-            > 首次打开如遇安全提示，终端运行: `xattr -cr /Applications/SFM.app`
+            > 首次打开如遇安全提示，终端运行: `xattr -cr /Applications/sing-box.app`
           files: dist/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
