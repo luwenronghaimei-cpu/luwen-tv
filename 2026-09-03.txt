@@ -4,8 +4,7 @@
 
 無綫新聞台,https://php.946985.filegear-sg.me/tvbnews.php?id=c
 無綫新聞台國際版,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
-翡翠台,https://cdn6.cc.cd/163189/fct
-翡翠台(字幕),https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 
 TVB翡翠,http://45.192.97.170:8880/play/724.m3u8
 NOW新闻台,http://45.192.97.170:8880/play/761.m3u8
