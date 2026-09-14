@@ -1101,7 +1101,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
-移动源,#genre#
+央卫源,#genre#
 CCTV1,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=6607337aa8fa6d6cd9b46915384af2
 CCTV2,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=8b1ef854627b2932a03253027be80a
 CCTV3,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=946c9b8ad616a27881ba78b3e7f291
@@ -1153,7 +1153,7 @@ CCTV17,http://smzb.bypbwxx.top/lvdou/zhibojm-yangshi.php?token=452cbfaa85399c3de
 兵团卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=e1f8ab6aa6a840c041990b4ff518b6
 深圳卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=dce8e33a5208f3e354ecec18a6ff56
 厦门卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=bdb67acda723b004eb34acee12d775
-联通源,#genre#
+
 CCTV1,http://111.8.242.127:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://111.8.242.127:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://111.8.242.127:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1207,7 +1207,6 @@ CCTV17,http://111.8.242.142:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&a
 江西卫视,http://111.8.242.142:9999/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://111.8.242.127:9999/tsfile/live/1019_1.m3u8?key=txip
 
-电信源,#genre#
 CCTV1综合,http://218.206.193.218:8888/hls/1/index.m3u8
 CCTV2财经,http://218.206.193.218:8888/hls/2/index.m3u8
 CCTV3综艺,http://218.206.193.218:8888/hls/3/index.m3u8
@@ -1264,7 +1263,6 @@ CETV2,http://218.206.193.218:8888/hls/49/index.m3u8
 金鹰卡通,http://218.206.193.218:8888/hls/37/index.m3u8
 优漫卡通,http://218.206.193.218:8888/hls/45/index.m3u8
 
-咪咕源,#genre#
 CCTV1,http://111.8.242.127:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://111.8.242.127:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://111.8.242.127:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1337,7 +1335,6 @@ CCTV17,http://111.8.242.142:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&a
 青海卫视,http://111.8.242.142:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://111.8.242.127:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=
 
-组播源,#genre#
 CCTV1,http://222.134.19.49:8090/608807420
 CCTV2,http://222.134.19.49:8090/631780532
 CCTV3,http://222.134.19.49:8090/624878271
@@ -1395,7 +1392,6 @@ CGTN,http://222.134.19.49:8090/609017205
 重庆卫视,http://222.134.19.49:8090/738910914
 三沙卫视,http://222.134.19.49:8090/961023778
 
-内网源,#genre#
 CCTV1,http://2280.eu.org:1234/608807420
 CCTV2,http://2280.eu.org:1234/631780532
 CCTV3,http://2280.eu.org:1234/624878271
