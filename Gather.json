@@ -47,7 +47,7 @@
     {
       "name": "电视直播4",
       "type": 3,
-      "url": "https://raw.githubusercontent.com/luwenronghaimei-cpu/luwen-tv/refs/heads/main/20260727.m3u",
+      "url": "https://raw.githubusercontent.com/luwenronghaimei-cpu/luwen-tv/refs/heads/main/2026-09-15.txt",
       "ua": "okhttp/3.8.1",
       "timeout": 10,
       "playerType": 2
