@@ -1,5 +1,155 @@
 {
-"lives": [
+  "lives": [
+    {
+      "name": "Gather「IPTV」",
+      "type": 3,
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u",
+      "epg": "https://material.1989.click/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "抖音直播",
+      "type": 3,
+      "url": "https://live.yang-1989.eu.org/Live.m3u",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "ipv6",
+      "type": 3,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "范明明",
+      "type": 3,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365_lite.m3u",
+      "epg": "https://live.fanmingming.cn/e.xml",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "冬哥TV",
+      "type": 3,
+      "url": "http://1.94.31.214/live/live9/dgtv.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "港澳TV",
+      "type": 3,
+      "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "锋云TV",
+      "type": 3,
+      "url": "https://wget.la/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "王子TV",
+      "type": 3,
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "聚力TV",
+      "type": 3,
+      "url": "http://45.32.81.163:30000/mytv.m3u?token=juli",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "易发Tv",
+      "type": 3,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "jackTV",
+      "type": 3,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/luwenronghaimei-cpu/luwen-tv/refs/heads/main/jackTV.m3u",
+      "epg": "https://iptv.1989.click/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "20260906",
+      "type": 3,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/luwenronghaimei-cpu/luwen-tv/refs/heads/main/2026-09-06.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "日后接口",
+      "type": 3,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "itv",
+      "type": 3,
+      "url": "https://live.fanmingming.com/tv/m3u/itv.m3u",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "iptv4",
+      "type": 3,
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "tv",
+      "type": 3,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/best-fan/iptv-sources/main/tv.m3u",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "myTV「香港」",
+      "type": 3,
+      "url": "https://iptv.yang-1989.xyz/myTV/playlist.m3u",
+      "epg": "https://material.1989.click/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "Sport「体育」",
+      "type": 3,
+      "url": "https://migu.yang-1989.xyz/playlist.m3u",
+      "epg": "https://material.1989.click/epg.xml.gz",
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
+      "playerType": 2
+    },
     {
       "name": "👖IPTV直播",
       "type": 0,
@@ -95,15 +245,6 @@
       "type": 0,
       "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
     },
-    {"name": "🐉JackTV直播{翻}","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}},
-{
-    "name": "🐉日本TV直播{翻}",
-    "url": "https://web.utako.moe/jp.m3u"
-  },
-{
-    "name": "🐉海外TV直播{翻}",
-    "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u"
-  },
     {
       "name": "日后接口（仅zb）",
       "boot": false,
@@ -128,7 +269,7 @@
       "name": "念心接口（仅zb）",
       "boot": false,
       "type": 0,
-      "url": "https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt",
       "playerType": 1,
       "ua": "Goiptv/8.8.8",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
