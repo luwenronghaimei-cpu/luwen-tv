@@ -1,12 +1,5 @@
 {
 "lives": [
-  {"name": "🐉冬哥TV直播","type": 1,"url": "http://1.94.31.214/live/live9/dgtv.txt"},
-  {"name": "🐉港澳TV直播","type": 1,"url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt"},
-{"name": "🐉锋云TV直播","type": 1,"url": "https://wget.la/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt"},
-{"name": "🐉王子TV直播","type": 1,"url": "http://wangziduoqing.com/yuan/zb.txt"},
-{"name": "🐉聚力TV直播","type": 1,"url": "http://45.32.81.163:30000/mytv.m3u?token=juli"},
-{"name": "🐉易发TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
-
     {
       "name": "👖IPTV直播",
       "type": 0,
