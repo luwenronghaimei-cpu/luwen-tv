@@ -243,16 +243,7 @@
       "type": 0,
       "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
     },
-    {"name": "🐉JackTV直播{翻}","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}},
-{
-    "name": "🐉日本TV直播{翻}",
-    "url": "https://web.utako.moe/jp.m3u"
-  },
-{
-    "name": "🐉海外TV直播{翻}",
-    "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u"
-  },
-    {
+     {
       "name": "日后接口（仅zb）",
       "boot": false,
       "type": 0,
