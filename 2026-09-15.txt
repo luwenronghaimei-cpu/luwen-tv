@@ -5,15 +5,6 @@
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/GeWKr
-
-凤凰中文台｜1080P优先,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯台｜HD,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港台｜HD,https://playtv-live.ifeng.com/live/06OLEHHK3N4.m3u8
-无綫新闻台｜83｜1080P优先,https://live-hls.tvb.com/tvbnews/playlist.m3u8
-翡翠台｜81｜HD,https://live-hls.tvb.com/jade/playlist.m3u8
-J2｜82｜HD,https://live-hls.tvb.com/j2/playlist.m3u8
-明珠台｜84｜HD,https://live-hls.tvb.com/pearl/playlist.m3u8
-無綫財經台｜85｜HD,https://live-hls.tvb.com/finance/playlist.m3u8
 無線新聞,http://r.jdshipin.com/CkuBd
 無線新聞,http://r.jdshipin.com/CkuBd
 無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
@@ -27,9 +18,11 @@ J2｜82｜HD,https://live-hls.tvb.com/j2/playlist.m3u8
 
 NOW新闻台,http://45.192.97.170:8880/play/761.m3u8
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
-凤凰中文台,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯台,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+無綫新聞台,https://php.946985.filegear-sg.me/tvbnews.php?id=c
+無綫新聞台國際版,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+NOW新闻台,http://45.192.97.170:8880/play/761.m3u8
+NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
@@ -54,6 +47,8 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 台視,http://211.72.174.95:8112/0.ts
 東森新聞,http://211.72.174.95:8138/0.ts
 
+广东珠江,http://120.87.19.109:80/PLTV/88888973/224/3221226219/10000100000000060000000001339127_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x+CS96WyrUxGNCtCCya4wzgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
+广东珠江,http://120.87.19.109:80/PLTV/88888973/224/3221226220/10000100000000060000000001339130_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x1QloRSpR2tmk4KRoCuDmyQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -84,48 +79,68 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 大湾区卫视,http://198.204.228.26/live/nfws.m3u8
 广东体育,http://120.87.19.109:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xxwqT5CsuIcla/KR82wV4KQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 广东新闻,http://120.87.19.109:80/PLTV/88888973/224/3221226655/10000100000000060000000002048492_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xB0xoYt5pz45xkfYvfDE3rwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
+广东民生,http://120.87.19.109:80/PLTV/88888973/224/3221226660/10000100000000060000000002048488_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xS6R0N8Xi13xk2HtVd54LmAWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 
-香港频道,#genre#
+凤凰卫视,#genre#
+凤凰中文台｜1080P优先,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯台｜HD,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港台｜HD,https://playtv-live.ifeng.com/live/06OLEHHK3N4.m3u8
+
+TVB,#genre#
+无綫新闻台｜83｜1080P优先,https://live-hls.tvb.com/tvbnews/playlist.m3u8
+翡翠台｜81｜HD,https://live-hls.tvb.com/jade/playlist.m3u8
+J2｜82｜HD,https://live-hls.tvb.com/j2/playlist.m3u8
+明珠台｜84｜HD,https://live-hls.tvb.com/pearl/playlist.m3u8
+無綫財經台｜85｜HD,https://live-hls.tvb.com/finance/playlist.m3u8
 
 
-Now新闻台,http://iptv.852851.xyz/l/0uG2gp1-XJhCKanSZwj5agG_CQtb1OI_ddW2D8_QrWhuHxtLREWArEpO-KqhMdHD/index.m3u8
-無綫新聞台,http://iptv.852851.xyz/l/uN5k9t2ezL3J_3LjmK3Fw1jWCGtBV8ZSZKrGpR7NlLJXJCX94sIYGrp_dethXGpc/index.m3u8
-美亞電影台,http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
-功夫台,http://iptv.852851.xyz/l/xAXNkgs6kRkmu2tXK4Chb1At9mr5wPAY7lKANqGCVEfog_IUtLH13gyqcDn7xFha/index.m3u8
-
-翡翠台,http://iptv.852851.xyz/l/G7LxUct7vFy7jWNse298AlBncbM4KdL4liz2kehcgRoQeKJqNBuOTg1YdaHQirzr/index.m3u8
-Now Sports 618,http://iptv.852851.xyz/l/354o4Xg-GBvLvDNaZKi_kzt0NbnfJ5L3M_JiTP586x9QERTPrSysuV1M1DEoUhBh/index.m3u8
-
-凤凰中文,http://iptv.852851.xyz/l/QsNpd7xGLD6bTK8_3qOHFjKSYd7B8NrgF7jmTSZLEL5EItzLj4zds6AeQlLdtfMY/index.m3u8
-凤凰资讯,http://iptv.852851.xyz/l/ocJdGFvvJh4y5a4QCWfPsnsdBbMXgQrWXEQekqSziQPi9Pumcq-PmKuwiRl28_fw/index.m3u8
-凤凰香港,http://iptv.852851.xyz/l/nLdqC7qjYeziZDJb1HApyvHmi634n9kp0RqI_LO1uqTx1xnQItjMDUWVCYWw5E2N/index.m3u8
-
-Now Sports 英超1台,http://iptv.852851.xyz/l/vZww_wBUx0MqrQsoFkZTawMKjTFXVEE0t_GA7bvIb5GQcezvXdu_g9tziNM-uPRa/index.m3u8
-愛爾達體育3台,http://iptv.852851.xyz/l/ub5934TRfX6wRDExPZqB7-1V8WWIUy_sLVUYI-EOu-rpsrpLPi2TbpWsBI7-CSsu/index.m3u8
-愛爾達體育2台,http://iptv.852851.xyz/l/E1QgWQLwZCgM606cW284Iw_b5zvRHdFTtnMJbABM1pETz4WCcGiZhhkeqPLuVm9H/index.m3u8
-愛爾達體育1台,http://iptv.852851.xyz/l/rhRtmrLcYUEdX9ShuLW9sVxDvbFkSG7ouIMGxKdjdnab0qFWA6LkGrvkYNfQAAxS/index.m3u8
-
-民視綜藝台,http://iptv.852851.xyz/l/sOMuuGYqN7AAlYRUGTCy2MhhaYDpfIw17ynSrxv4MEFSGoCJ3J3PZJYau05s0Rgh/index.m3u8
-民視第一台,http://iptv.852851.xyz/l/kgBA89YBMn_3OReh4clY8A6QmfN1nu1T_4X-T2qC-vKFzvA2tWEVVNbsKvdT3Vv-/index.m3u8
-民視台灣台,http://iptv.852851.xyz/l/rmpc-LjsZD61lKJj0Wb1BEjwpQnPYQ1iXNvE-7Ufv5YDEk-bAZDrejBWiUsFdb8j/index.m3u8
-民視,http://iptv.852851.xyz/l/YcnRwr9zJimjYVzHVdjW8eVtlTcSMHDgjDG-Xv56oKqfYZ84JngtG635gIuTU1eD/index.m3u8
-大愛電視,http://iptv.852851.xyz/l/p-6JCOF7fql93Zxa-nEmXrqHEwV8bJMCRoJr0iMIn10PnO-q8zvVAAmI5v0Peyfx/index.m3u8
-中視,http://iptv.852851.xyz/l/9EfW1_-KPuves0aFbsnhnMJOLnuv4LW_3fVEYGOluARJrEEy23scY_A2hro17wxf/index.m3u8
-華視,http://iptv.852851.xyz/l/jOc1R1zO8N8ZZmgWtoqnXxpvj7-rMuEwaKRddP7dTYcd-ThqyllaRRTSQAstsRdg/index.m3u8
-
-東森新聞台,http://iptv.852851.xyz/l/hxwEnL7QwdO6HDFubVQyfNvOgjSEq-1AUpjFgIGUlSmQ8MqGuxMGFrpCo26aUCod/index.m3u8
-華視新聞,http://iptv.852851.xyz/l/hxM5Jwfxo4ppqlY9l7q_QOZj439bgpVcCEnjqu4G_gSr0Qu7TGMhXx5JVuEOow64/index.m3u8
-民視新聞台,http://iptv.852851.xyz/l/5NT49sF2NC33A79Q5nihYTieeON98tglSEhjOHXgpRapXNds8OsQmfQ3eNJps_hE/index.m3u8
-三立新聞iNEWS,http://iptv.852851.xyz/l/EB3GpbWTHMWTu2rCPtDHojvB6FASLqLi7dVr7ggdZUQ2rvp1uc3ldQsucPuCaN6-/index.m3u8
-東森財經新聞台,http://iptv.852851.xyz/l/Y_wswdcZvr-Hg4IRWNjXu1FHs8TYPOolH2cnkbElcrsT1gyouZWiFD8IofhgVrHa/index.m3u8
-中視新聞,http://iptv.852851.xyz/l/gYxFzrZZJtgqMmvFXihwvnvV06BLNJyS976CyVBJkqGDuJV4KKMUUVKw4hpoOkaa/index.m3u8
-Bloomberg TV,http://iptv.852851.xyz/l/_8oPqt9xqREjITUYsOjyoEMAO72exnAasUn8w0VnFtT660il-K4stkCKdsCvYP2-/index.m3u8
-寰宇新聞台,http://iptv.852851.xyz/l/uxQ8PDaRNaMnrc7xlyq3DHPTsQSK06cL67YP8h_2WQfNehoz6RBLyjf8s-ovKm05/index.m3u8
-寰宇新聞台灣台,http://iptv.852851.xyz/l/2hxFj98oqnsT6KMb659ipdhBKilPL61eDVyycl3NqJ3SuEbG9Tylk0PvbndzA-cB/index.m3u8
-SBN全球財經台,http://iptv.852851.xyz/l/tun-TUKaY8BkuA8shkkHVA4WzY-HOJE-eYUz9Za80PAYELs_e63Sg9OipxPM1kZU/index.m3u8
-東森購物四台,http://iptv.852851.xyz/l/RpsJ8kjS_uqtJtWHLRGpq0vemdZRHWo4ATum-0S6jzxJ7N-6g0plKS8zO_yOCstQ/index.m3u8
-豬哥亮歌廳秀,http://iptv.852851.xyz/l/HznTMsZCGZ5YjqWLfTT3kHk-hWqxBxMs-lenQxCw-rJcUyq4yxTANgw5PXXtiVzO/index.m3u8
-靖天育樂台,http://iptv.852851.xyz/l/LBMP2f3YDWOq3xwEKhJ5S9Xx7J6m9XEEEpWurPGWfTUcwVyS3AQ9Eirl3E6svudC/index.m3u8
+•咪咕频道,#genre#
+睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+睛彩篮球「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜「移动」,http://gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播 𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播 𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播 𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播 𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播 𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟟「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟠「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟡「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟘「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟙「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟚「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟛「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟜「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+睛彩广场舞「Relay」,https://iptv.yang-1989.xyz/cn/gd3ezx?token=8796d5185e437937b5f122e225f2abcfe318d915ad4f3a09
+睛彩青少「Relay」,https://iptv.yang-1989.xyz/cn/c8hdhc?token=8796d5185e437937b5f122e225f2abcfe318d915ad4f3a09
+睛彩竞技「Relay」,https://iptv.yang-1989.xyz/cn/juw77s?token=8796d5185e437937b5f122e225f2abcfe318d915ad4f3a09
+睛彩篮球「Relay」,https://iptv.yang-1989.xyz/cn/x3kdtb?token=8796d5185e437937b5f122e225f2abcfe318d915ad4f3a09
 
 央视频道,#genre#
 CCTV-1,http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8
@@ -207,114 +222,53 @@ CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 
-澳门频道,#genre#
-澳视澳门,http://iptv.852851.xyz/l/7avRIGQ7EI2MEkrRg1sUqKU3ZL916dGj1DlVleEgY_rsocN1kArwB8tfoNWDM2bk/index.m3u8
-澳视卫星,http://iptv.852851.xyz/l/RiANBgtgn8HtpHqma0rk76EYHlQyQ0TKBMjS7Po3B2s_0eRyVHaDzP5EvOC6xbVI/index.m3u8
-澳门体育,http://iptv.852851.xyz/l/cs0XpZJ-u0WQT-Y-B_wBs_3pP_UUg9UrqdzhQvMjW2PJjJ1xNOKtFOHa_bNj-OtJ/index.m3u8
-澳门综艺,http://iptv.852851.xyz/l/cTeFp29IBMnbm_p2b4rDlXLHPtHPn64VfnwjVX4iLPqUNt31_GhKD5cWB2BW9w0d/index.m3u8
-澳门莲花,http://iptv.852851.xyz/l/mH5s3Z6ml6j2teCa351QaVywhyRJB9Gwc0bWEj0vjICQUb099t0oZtkwZCL7PtzN/index.m3u8
-
-中国频道,#genre#
-CCTV17,http://iptv.852851.xyz/l/je_mXAcdeaz1QVqRZ5kdEo1FGbeRfkC0J-laqMsZWIO5hm1127a9v-kBg0NqS24G/play
-CCTV15,http://iptv.852851.xyz/l/3xG-Qxj3_NYJ9s3SmTj1KaaJAsIRbEZe5zPxjQLnNbSyxH-WpGiC704aGqeY4R4a/play
-CCTV14,http://iptv.852851.xyz/l/hZCOgaMOZ-tRua4DPz2bBuQD-T1dTyp9_HNMfczU59Lsmab_Q53wRIEE8y6RwZhk/play
-CCTV13,http://iptv.852851.xyz/l/MN3eHsygEOMmtgZivUlHRhLLYHCfP3I8mbdNEnaPLxrRbmvvdLp6LRyQuvuMH647/play
-CCTV12,http://iptv.852851.xyz/l/BkLA1pNSoiQKqRs2EFTkufZ1Bu5sP9G6pJ2RkqWju9saV9Du84PA2S51yBKN-_UT/play
-CCTV11,http://iptv.852851.xyz/l/VAdcCQQSWA7O-BgBGmwzsgWpqjVFMC5d8h4SIS80QKW0ubh7cTn3r4XCNUcKM9QW/play
-CCTV10,http://iptv.852851.xyz/l/oSRfukbeEcL6N5HBd5WFSNStsV_8s-ug-gg7gD7FvqEYtkFYk-t9lQdrj98z6WpB/play
-CCTV9,http://iptv.852851.xyz/l/cgWLMrM-W3KndoDLXaTH0Q92oBnP34VV5hAGBVEVzzI0LuTwBU0U-cf6ewEwoZN7/play
-CCTV8,http://iptv.852851.xyz/l/FGgJ2BSo6VX6twNuBfo53jF1VcIzszlQOZcvz8JiTcJEDY4gUwvEAMRATEUOp9IR/play
-CCTV7,http://iptv.852851.xyz/l/PDkkaNO0vHWHRteT8yPeuWGKYbJAPQnJooKppvDIhdL7IJJzu3mjZ7p2MSJMwxGC/play
-CCTV6,http://iptv.852851.xyz/l/HJ0HbV88Pu6rIbKLN9jwHRH6upZh0vK1m4bvK2lycZc2w0YnCDLKAUm4PW3wd0s7/play
-CCTV5,http://iptv.852851.xyz/l/Awty_lPiEy9alAeEkJaiynLSSFdjc2S9F6ZBA41Ike3_OVEnLx81uUk83M6Fu3G4/play
-CCTV4,http://iptv.852851.xyz/l/Pzs1m48BkplGGVK0BgqF7-EwtCcVFRMYOHV-_UnUgE3ozMCr0hK6k8bZjbiCpvYU/play
-CCTV3,http://iptv.852851.xyz/l/01Z_WzWGXNpN-j28fwGlekE9jl_3NPXoliRNwbskqbr-TFOaI72j4RwoZupEFRdt/play
-CCTV2,http://iptv.852851.xyz/l/X3T6O7IWV_UIfx35ZQjTIxz4uyDogeyuxUIZHshFGuUxfYs9xZmK2Lt2mUFiLNrq/play
-CCTV1,http://iptv.852851.xyz/l/5pDb4b8Bv5js0o5Pk0JTRZ6kW5llrtVqfV9U3yPlFGr6sltppensnjlcTrae_51O/play
-安徽卫视,http://iptv.852851.xyz/l/7sUp0r9W_80d1A3HTZ1wWXYMUMjYcC9VOQ_fBt1oMEIzUVwhZ6TvZYxv6-EOu0eI/play
-北京卫视,http://iptv.852851.xyz/l/FWDfKG10y6gpihvGVpZoFA0xDw4n-ffqCN6_GHiFb4CKgyBHPIZ29TdUjYruOQjs/play
-东方卫视,http://iptv.852851.xyz/l/RL7BcHiJU-BnSGWJYs6KBbKt3qSk8qpsAwqcPYpeIezP4WD9mJyKhQjsW6ngMRN0/play
-东南卫视,http://iptv.852851.xyz/l/qNQ5BDbZ21kDYtYI_cYTp1FTAQwrVjla1KXQZ9PihLjYzU5yTjkvBvH_ahgdNccN/play
-广东卫视,http://iptv.852851.xyz/l/DGMfG_iWnImnixfvMwkG30_PjDoLD7cs5MA1NRlcHOAHIl2EbpTeWwrvEW-bFABa/play
-湖南卫视,http://iptv.852851.xyz/l/47eLL2aI0sWG7-27-Qh5Q5ULUoYEhkfTDoP0h-wx32RXRhBpQjOssvia6pmCiOrP/play
-江苏卫视,http://iptv.852851.xyz/l/UBzQ1KXTvZJJXXI7oYubxB1MxKJHvkoojuKcwIeKJ0e_Eu6agxq3jQvKdkSab1BI/play
-江西卫视,http://iptv.852851.xyz/l/geZZf3yp_oVCx9TeoQE3JfFUApFBdzTgNSTNj3n-IHqwUzu305QY8X5r1vO0JXnm/play
-辽宁卫视,http://iptv.852851.xyz/l/RLiLPiZiGFyvVBFrpk_u844Bb3p0gKHHJioF2pFqnQXuEwQgjDef_XbyXnqLTJYh/play
-山东卫视,http://iptv.852851.xyz/l/Pjg6KwbWbXg3yrHCgg8WHGM2J0EIQct_2--hAVEoJ0kABB86eRfCXHXg-yNB2Ski/play
-深圳卫视,http://iptv.852851.xyz/l/m9eXCCj5rfi_uUIdj0rkBnJ2fvZ-szrJun3DaV5fWTrwL8pSK32NrP9hzINt413z/play
-天津卫视,http://iptv.852851.xyz/l/SBgXDDKGLdjtypqn7Y_7XDeqQ3Sjqrsu1snJMVNym5wKl1CwAnpXMf5LLP8OLsnu/play
-浙江卫视,http://iptv.852851.xyz/l/Q64cxy1njCqQFX-YE7lwPVjAtBxQ1sH1Jsja8H1H4u9tf3Lc1N_UqbR453909hQB/play
-西藏卫视,http://iptv.852851.xyz/l/tQg7T8JWd2zYxTW8_YCIYNZ3To_2DfhooGsB03Zsqg5aZ6diH55_cxEcHzBnMKhs/play
-新疆卫视,http://iptv.852851.xyz/l/ZhHV_TLf0VZGzPlo83kQbydP3YPMw8fyV2wWgjfDghjncEmgu-bcBs1zJzhmBJuN/play
-内蒙古卫视,http://iptv.852851.xyz/l/_eR809HP3RP5Bm22aOylVICu-tOqY6T3PvuaPpKPRlRFTXMNgoxifEdGLz4vo7ug/play
-甘肃卫视,http://iptv.852851.xyz/l/bo0mxA9yJY5Xdv90gfrRa5-auPt8MubTtaZwA997-0u-EVgCqtcIUAM4APyCt1Lb/play
-河北卫视,http://iptv.852851.xyz/l/MEEZx49zytYklxcSoqyh0fRLXWiqET77OucobrRqx6GMbicmQC4XZyXmf9tH1rYT/play
-四川卫视,http://iptv.852851.xyz/l/H6oFCWuYLQ7tYUTIIq2hUpxhbDEzPEsUIdVh6waTyhrPRaIJfTG5N6ZXpt0RQHPG/play
-陕西卫视,http://iptv.852851.xyz/l/eEnQAdHJqeH8JUk9esMlC5mXXEzlgyywNrIhtBZ0mGXmxZXsX-ND1KjdH65uAxEm/play
-云南卫视,http://iptv.852851.xyz/l/TwAeK5e0I89I-X33uAHinHLdI1SLuddJyla7jE-rCPCaPHfIBpKk9pyLBvPxpPjH/play
-广西卫视,http://iptv.852851.xyz/l/lKQkuDjwELNDFWKB7IvyLmMMut39PNFC--gGAhA9t2dqGBWqikXfeD-tpKPWJ0Y7/play
-重庆卫视,http://iptv.852851.xyz/l/k6xh8scXTw_v5y-m5dWIZoJYiZSjlv6vi3b4fpfViXgMs4Moit0zY5BYjokC4Fip/play
-贵州卫视,http://iptv.852851.xyz/l/-v3lx0xkY7nszn-BHugx4qjaAOgfB_mozllyDLCadnGeXk7TUxgrA1KETvcgEFHp/play
-湖北卫视,http://iptv.852851.xyz/l/dh2rv2IOeJk7Ebp6O8ZkPHQBFppqGH8L-MjiHlaJum28bDM5U4vlLUH_LZ_2n7q4/play
-河南卫视,http://iptv.852851.xyz/l/nKXC3Z0DwtJM1sSnzR9_fL_zF3L4qtiSTGIF2SPFoBpHaSaskS9MKD4OWdncQ3Kg/play
-吉林卫视,http://iptv.852851.xyz/l/Z8JwdRNPPwzHUx39lfrmaQrfdhG-AXSnOJehIILBMLyOrcaTvEOMjnC1uJGgdwxQ/play
-海南卫视,http://iptv.852851.xyz/l/hOjMEPFvCC06NdVLkAQSLlcIjp3gF0UbrQ3_JLKmh7Ngtp3RhLgHNFrH-E3Uc-Fk/play
-黑龙江卫视,http://iptv.852851.xyz/l/iDQ6xktipn4O54Rh2Ho-1KNZuVHdT1r7U-R8GvslnYN8dPyqUyXy-vw3oS4tkT0T/play
-山西卫视,http://iptv.852851.xyz/l/PcGvTshZ5RPWwoMIOETtNqPP1rNTB3hIdccko7vCl4pZ4X11aoi92DBOePBkgkpP/play
-青海卫视,http://iptv.852851.xyz/l/nzUWpVvJQEBcUO1Jky5Do04FrJk5UORaYwYIR4dTn8PoiSYDpIXA3eqxCkkNtnfT/play
-宁夏卫视,http://iptv.852851.xyz/l/Ifz6WkmgXUA5FffPo02obMPAHzkJj2kMoiAoAAt1bcFEUIupK8bECxB6Hk0KQlDf/play
-CCTV-兵器科技,http://iptv.852851.xyz/l/pFmuEAd9s_AlWWCT50mwCAoD7ERt1U7-azqp_RAixa2SJgTOos_hYp4CE3gV_e9b/play
-CCTV-女性时尚,http://iptv.852851.xyz/l/aR2gG67dqcTvMdRjRdIBhWFeWe9HpElxfv8RAplR4MHEqQCa9I04odkBX2FdAvHM/play
-CCTV-世界地理,http://iptv.852851.xyz/l/Vn8QCUJjQmI57eWIwZswVk9BOyPtzrg3f2hVAhzjxQ-Idj2F943GsWj0Pbg1nFjn/play
-CCTV-卫生健康,http://iptv.852851.xyz/l/U3wVSxTd-hRx-Yj428d7nNHasWZOK3p9jVg9A5tuLhHs5CwTMpchwXIR3QMYt0B7/play
-CCTV-央视文化精品,http://iptv.852851.xyz/l/yVAhU58NlSobX10A8GIGqW_1c6Inkzjtjh2t7GLXi5nK-LsulqPnaosuGcukzBc5/play
-CCTV-第一剧场,http://iptv.852851.xyz/l/V9KMgZ8pm6USFOvVV6ILR3alJtLMo2vhMjRBWrqi_Cq1XtftsHP1N1ZNp9BU65jR/play
-CCTV-怀旧剧场,http://iptv.852851.xyz/l/XwUUTOVaCm-dDQInSXBLGkXLg1bOkk5VQ5idPJgSpPhku6ZhcE49f9HGfQZ8uSYF/play
-CCTV-风云剧场,http://iptv.852851.xyz/l/bNTXVMMNp89r3A3LUj8rcTpC9XLOjNhPJ0BmtUfedxOQyZSnDKPkkPgGkU9EJvkb/play
-CCTV-风云足球,http://iptv.852851.xyz/l/PqGhFQT-SkITpcm7Hxhjts9SnpTbWGnyqvTT0txn_ix_Jqd7nAH3u2oYfJxpX4c6/play
-CCTV-风云音乐,http://iptv.852851.xyz/l/xWOg9dcnYQZNOXcojvEu6e4VZURW4J5i12XtUm817QBOEmcl7EvBUKXuE1T0fm1y/play
-CCTV-央视台球,http://iptv.852851.xyz/l/M6BheRylfoB2-a_FpjdLhSavmGeNVsow4W7fsiI8dFZU4NJpnk4sBqvlt9NLQi5s/play
-CCTV-高尔夫网球,http://iptv.852851.xyz/l/b9vIwLJKD_PpVRbiMq74JLQQailqI-kbN_Kc6zpVIgGM7p92fz7WaKTtIb8Gyf8K/play
-CCTV-16奥林匹克,http://iptv.852851.xyz/l/rVEt7BlZaqij23TnPGPhJ6nI7nzmV-P0ThKX_oJR2Bg0nkk-KVSEXSdo_N-qeEnJ/play
-CCTV-4K超高清,http://iptv.852851.xyz/l/xj7yndnCmAqp1SpMA8A6nw8qMJZEDIZ-HRPAfcH7705L6HjwEt2V9qQ0cf0p615r/play
-CCTV16-4K超高清,http://iptv.852851.xyz/l/Xidc2_Xvo45545fQiUCVgWMslsaqqjjJT342CafjeIFzEH4_0rvpkpIgkjRr8IcL/play
-湖南卫视4K,http://iptv.852851.xyz/l/DAKIRZDyL8JpY8VVJagtuazMuYsuXvsekkNZeMQJEDhjNiXuJrp2hBBFkYve_oEV/play
-深圳卫视4K,http://iptv.852851.xyz/l/FxX61VWqqTNXF7LQjIJZgVErZpmhiaVo8di5uICN3UsM4zFHHZOSETpWmWBDMnRI/play
-江苏卫视4K,http://iptv.852851.xyz/l/gpPwBTEYq3NHULqrFqBO-85KmK3SKFi9EiL3P5efdum5c0KhyxJyhlLM8I57-7pz/play
-浙江卫视4K,http://iptv.852851.xyz/l/fOT6bd6KME_suCm-w0H43C3A_U6cq0is8XCbp_yXaHzu7wKSBJ_IVbMF_WZlepFC/play
-四川卫视4K,http://iptv.852851.xyz/l/a199d1C4lJzRcrtaQEELCUaXdTzimN6_06l7PAtouGG1PO8VfckdA_FtByjgaqlQ/play
-山东卫视4K,http://iptv.852851.xyz/l/eJTU5Xahf50P_QkpIuSMtGkDmfli9GyCgSB0WkkOcmzgch66qKrlZNitj7c0Yc7W/play
-东方卫视4K,http://iptv.852851.xyz/l/E_ZjLxJxXlC5-_seW8YFpvYOR0ZHAGPK3XP5dZY9Xg3DgGqohZSFpQc15fMXgbyK/play
-广东卫视4K,http://iptv.852851.xyz/l/0O3oVMi1iq8pAgV0pB-0YetzlaYGJg4Ik7KP_4BSccKQ5a0pum9qRM44BhuN6HFB/play
-求索纪录,http://iptv.852851.xyz/l/c1YDfbRLmuQo3QtwiUDqgDkcQQZLWEXXK8TL_j3XvHn_F0Z9pAKe7UKfwn5yzBya/play
-求索动物,http://iptv.852851.xyz/l/AXRgR469wPOlVGl9GUr2_0VRXxnzmhsuUJrxA8p3m8ASwUrOW2ey1AEjWJGtWIbh/play
-求索海淘,http://iptv.852851.xyz/l/_Gk_TBz8_v4Dw9MPu4HZPQ1iXE1BakzFDpk3UiN31XeA2sc0KMMr-3PcKhPRZg_y/play
-求索生活,http://iptv.852851.xyz/l/JMMSxrdbMxz_7KtAPA_CvN3qMb8CUyg1uGC6dQ0Lf_a3bxqMHXbShAObIRRyU4li/play
-精彩影视,http://iptv.852851.xyz/l/X-Hhr8TOrmU8CBSRTgTWefqpbuwdZKZChAlMrTdzoFlShNlPqIx3oLWZyVdq2rld/play
-风尚音乐,http://iptv.852851.xyz/l/CT2n3hXkqLDK6F71Im_QMLGLMRJBczfJjH77FNOWew9Cr5wf9bi20EQFB91xNRXG/play
-精品剧场,http://iptv.852851.xyz/l/ivRLM283hCNU6uNNy2B48_ReAtrZTFP6hnvYzoncPcLhseCTPfETB-00f5crmoe0/play
-欧美影院,http://iptv.852851.xyz/l/rVtXGYR9eGo_e4tcdnqo-nsCzOB05dvxH5yBh4XYx59rvLkQfY3pNF8N8dZbishp/play
-少儿动漫,http://iptv.852851.xyz/l/LUMMIkdCzaxhb1nB6kklWz-rtl3BGWMfz1bSBD0QHGDf9DKDtWIHyQHx6o0HdhK9/play
-探索纪录,http://iptv.852851.xyz/l/F1mXeM6Pivte9K04IPomhWY3Cnec3ZMDWhUvjJPHNN0H4oKoBG5_UasvSC_wfibX/play
-亚洲影院,http://iptv.852851.xyz/l/dDpLe3Ht4PuZ3bqfKUzKKHq-LOM6JRB-RRSGgWyEIwtwdHK2ICAe8e5_NRcnU8ji/play
-IHOT爱院线,http://iptv.852851.xyz/l/iH_POMTL0bZTTugcacbeOh0kR-7tGXEkLrS3kVTyYU_yzhjUoOlcXL0DOfPdoEt_/play
-睛彩广场舞,http://iptv.852851.xyz/l/NPaAx_vTmTq1bxz3rDyBebJts7_Q3bp1TaQvR0M3d7Pf7nyI7E6FL9CUGAZOxcKQ/play
-睛彩竞技,http://iptv.852851.xyz/l/j4KaAhWa8yOMasKvKfPVSvkASLRfMEtauYM0jHIWnDVlbixk1jLYTOoR-ZJdz_5J/play
-睛彩青少,http://iptv.852851.xyz/l/J13gobz7ogAWHop39vrpQuGFTKOyXBX5hkIPIuNcH2sawOJ1wcdqt0KaKmY3HyBp/play
-睛彩篮球,http://iptv.852851.xyz/l/i53AdH_4KGYXNq9PYiNslqIQNi5bi1uM9NKXq5-RJw7BsWa8khELGvPEOQskpgjk/play
-湖南电影,http://iptv.852851.xyz/l/IG768sX4JFxjk8UsrqjcYYPWU6Ez7GEwOo27yfyk9OjTSl2-IZet9HSKbgU0aihS/play
-湖南电视剧,http://iptv.852851.xyz/l/T2N4bfaw9J9GJSs6FNAtOk_2LDIYQzVVnQo9zYgFwD3tlniK-pSDL_6iLuui4H1J/play
-湖南经视,http://iptv.852851.xyz/l/teuRhQcS_i8l4tm-Of-HUhP-D5c9_0Gb1rdhSwCZaHSuOZPbxGrwM1LWdq1XXepV/play
-湖南都市,http://iptv.852851.xyz/l/jTylXGSIwmbFnFydWAqQfXLwEZ4Nkpqj0qfklnXFOiTtyN0yjDZaWCaLGHXaquT4/play
-湖南爱晚,http://iptv.852851.xyz/l/ok0iqdLosRRSMOH-At33CRRYwfOxlHBZu3vBPF5NwikscKffCEtJGKap321KTLrQ/play
-湖南娱乐,http://iptv.852851.xyz/l/sJmeGrLjUc0p1y0Ud1-KbtsN4q48bx7AG6gkPrzeHyGT4DUGeo2a0NEZ2CwKcl-r/play
-湖南教育,http://iptv.852851.xyz/l/COwJ5QMkCzuGBo7kf-eRCjeJpoRePk77SR653BiE-pYiPhp3DspCeEjnSxohlg4k/play
-金鹰纪实,http://iptv.852851.xyz/l/2Eb-iduBcKbzEGJizZkcny8R1giAnF1cyyPgWFPaMmFEPp4GWFWLSHDeaxHJZWVK/play
-湖南国际,http://iptv.852851.xyz/l/v7Vc8boiWlMdKnhMQ7IaXtmLAFJFIZoz2cOmOSxDrRHzSiDiDjO-60FnRZptYDkW/play
-湖南导视,http://iptv.852851.xyz/l/O1RU6RGD5-vEyzRlmkDjbw87CLaBi221Eu3dP5MQF505B-EoZJuAFs8ShDT6wSS3/play
-CCTV5,http://iptv.852851.xyz/l/MK8pIoWGMB9vH5AXc8I4vyImVHBluTmCniPUk32RQU8iYDTIv3PxNSjjTKkvmuw2/index.m3u8
-CCTV16奧林匹克,http://iptv.852851.xyz/l/khqEevdLyoF6liPtVcH3Jew6j9xdhXQEGxqgk4FR-pbCvlx6Id9FJ8BrmIDIR7y9/index.m3u8
-
+4K频道,#genre#
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视4K,http://go.bkpcp.top/mg/dfws
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视4K,http://go.bkpcp.top/mg/zjws
+湖南卫视4K,http://go.bkpcp.top/mg/hunws
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
+河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+河北4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f56e90&tk=922ba46651d3
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+咪咕体育1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
+咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+北京IPTV4K,http://home.kuaidi521.com:35455/bptv/3221226550.m3u8
+CCTV 4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
+CCTV 4K,http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8
+北京卫视4K,http://43.251.226.89:8080/play/918.m3u8
+深圳卫视4K,http://43.251.226.89:8080/play/919.m3u8
+湖南卫视4K,http://43.251.226.89:8080/play/920.m3u8
+湖南卫视4K,http://43.251.226.89:8080/play/921.m3u8
+浙江卫视4K,http://43.251.226.89:8080/play/922.m3u8
+浙江卫视4K,http://43.251.226.89:8080/play/923.m3u8
+江苏卫视4K,http://43.251.226.89:8080/play/924.m3u8
+江苏卫视4K,http://43.251.226.89:8080/play/925.m3u8
+东方卫视4K,http://43.251.226.89:8080/play/926.m3u8
+苏州4K,http://43.251.226.89:8080/play/927.m3u8
+河北4K,http://43.251.226.89:8080/play/928.m3u8
+深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
+深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+深圳卫视4K,http://27.184.29.189:4022/rtp/239.254.201.68:6000
+广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1761&tk=f6cc1e0a0e1a
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Loupe 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4726&tk=f6cc1e0a0e1a
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
 
 •香港「Relay」,#genre#
 翡翠台「24小时回看」,https://iptv.yang-1989.xyz/hk/ex2m3k.m3u8?token=988373cbbb042043aa88a49676e736535a364cc1bf3833ee
@@ -659,6 +613,5 @@ Sky Sports Cricket,https://migu.yang-1989.xyz/sprts/jaz8qt.m3u8?token=6f668ae3f9
 Sky Sports Golf,https://migu.yang-1989.xyz/sprts/u8spv5.m3u8?token=6f668ae3f901ac1ad598ed9c8ad3e199929007b8f59dc939
 Sky Sports Mix,https://migu.yang-1989.xyz/sprts/rbanfd.m3u8?token=6f668ae3f901ac1ad598ed9c8ad3e199929007b8f59dc939
 Sky Sports Racing,https://migu.yang-1989.xyz/sprts/6g3xr4.m3u8?token=6f668ae3f901ac1ad598ed9c8ad3e199929007b8f59dc939
-
 
 
