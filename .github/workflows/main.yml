@@ -5,73 +5,98 @@ on:
     - cron: '0 2 * * *'  # 每天 UTC 02:00（北京时间 10:00）运行
   workflow_dispatch:       # 允许手动触发
 
+permissions:
+  contents: write
+
+# 与 Mihomo 规则集 workflow 共用同一并发组：两者同一时间触发且都推送到同一分支，
+# 排队执行可避免推送冲突
+concurrency:
+  group: rules-update
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash            # 显式指定后默认带 -eo pipefail，管道中任一命令失败即报错
+
 jobs:
   update-rules:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     env:
-      GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+      RULES_DIR: ${{ github.workspace }}/rules
+      CURL_OPTS: >-
+        -fsSL --retry 5 --retry-delay 5 --retry-all-errors
+        --connect-timeout 15 --max-time 300
 
     steps:
       # ── 1. 检出仓库 ──────────────────────────────────────────
       - name: 检出仓库
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }}   # ← 用 PAT 检出
+          token: ${{ secrets.PAT_TOKEN }}   # 用 PAT 检出，后续 git push 自动复用该凭据
 
-      # ── 2. 下载 sing-box ─────────────────────────────────────
-      - name: 下载 sing-box
+      # ── 2. 准备目录 ───────────────────────────────────────────
+      - name: 准备目录
         run: |
-          # 带重试的函数
-          retry_curl() {
-            local url="$1"; shift
-            for i in 1 2 3; do
-              echo "尝试第 ${i} 次下载: ${url}"
-              if curl --retry 3 --retry-delay 5 -fsSL \
-                   -H "Authorization: token ${GH_TOKEN}" \
-                   "$url" "$@"; then
-                return 0
-              fi
-              echo "第 ${i} 次失败，等待 10 秒后重试..."
-              sleep 10
-            done
-            echo "::error::3 次重试均失败: ${url}"
-            return 1
-          }
+          mkdir -p "$RULES_DIR"
+          # 中间文件放在临时目录，避免污染仓库工作区
+          echo "WORK_DIR=$RUNNER_TEMP/build" >> "$GITHUB_ENV"
+          mkdir -p "$RUNNER_TEMP/build"
 
-          LATEST=$(retry_curl https://api.github.com/repos/SagerNet/sing-box/releases/latest \
-                   | grep '"tag_name"' | head -1 | cut -d'"' -f4)
+      # ── 3. 下载 sing-box ─────────────────────────────────────
+      - name: 下载 sing-box
+        working-directory: ${{ runner.temp }}/build
+        env:
+          GH_TOKEN: ${{ github.token }}     # 只读 API 调用，无需 PAT
+        run: |
+          LATEST=$(curl $CURL_OPTS \
+                     -H "Authorization: Bearer ${GH_TOKEN}" \
+                     -H "Accept: application/vnd.github+json" \
+                     https://api.github.com/repos/SagerNet/sing-box/releases/latest \
+                   | jq -r '.tag_name')
+          if [[ -z "$LATEST" || "$LATEST" == "null" ]]; then
+            echo "::error::无法获取 sing-box 最新版本号"
+            exit 1
+          fi
           VERSION=${LATEST#v}
           echo "最新版本: ${LATEST}"
 
-          retry_curl "https://github.com/SagerNet/sing-box/releases/download/${LATEST}/sing-box-${VERSION}-linux-amd64.tar.gz" \
-               -o sing-box.tar.gz
+          curl $CURL_OPTS \
+            "https://github.com/SagerNet/sing-box/releases/download/${LATEST}/sing-box-${VERSION}-linux-amd64.tar.gz" \
+            -o sing-box.tar.gz
           tar -xzf sing-box.tar.gz
-          sudo mv sing-box-${VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
+          sudo install -m 755 "sing-box-${VERSION}-linux-amd64/sing-box" /usr/local/bin/sing-box
           sing-box version
 
-      # ── 3. 创建输出目录 ───────────────────────────────────────
-      - name: 创建输出目录
-        run: mkdir -p rules
+      # 以下每个规则步骤均 continue-on-error：单个上游失败不影响其他规则更新，
+      # 失败的规则保留旧版本，最后在「汇总构建结果」步骤统一报错。
+      # 所有产物先在临时目录生成，成功后才 mv 到 rules/，保证不会写入半成品。
 
       # ── 4. AWAvenue 广告规则（JSON → .srs） ──────────────────
-      - name: 生成 AWAvenue-Ads-Rule.srs
+      - name: 生成 AWAvenue-Ads-Rule-Singbox.srs
+        id: awavenue
+        continue-on-error: true
+        working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
+          curl $CURL_OPTS \
             "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Singbox.json" \
             -o AWAvenue-Ads-Rule-Singbox.json
-          sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json
-          mv AWAvenue-Ads-Rule-Singbox.srs rules/
+          sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json -o AWAvenue-Ads-Rule-Singbox.srs
+          mv AWAvenue-Ads-Rule-Singbox.srs "$RULES_DIR/"
 
       # ── 5. china-apps（APP.mutated.yaml → JSON → .srs） ──────
       - name: 生成 china-apps.srs
+        id: china_apps
+        continue-on-error: true
+        working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
-            "https://github.com/mnixry/direct-android-ruleset/raw/refs/heads/rules/@Merged/APP.mutated.yaml" \
+          curl $CURL_OPTS \
+            "https://raw.githubusercontent.com/mnixry/direct-android-ruleset/rules/@Merged/APP.mutated.yaml" \
             -o APP.mutated.yaml
 
           python3 - <<'EOF'
-          import re, json
+          import re, json, sys
 
           pkgs = []
           with open("APP.mutated.yaml", encoding="utf-8") as f:
@@ -80,6 +105,10 @@ jobs:
                   if m:
                       pkgs.append(m.group(1).strip())
 
+          pkgs = list(dict.fromkeys(pkgs))  # 去重并保持原顺序
+          if not pkgs:
+              sys.exit("::error::未提取到任何包名，上游格式可能已变化")
+
           data = {"version": 3, "rules": [{"package_name": pkgs}]}
           with open("china-apps.json", "w", encoding="utf-8") as f:
               json.dump(data, f, ensure_ascii=False, indent=2)
@@ -87,25 +116,32 @@ jobs:
           print(f"[OK] 共提取 {len(pkgs)} 个包名")
           EOF
 
-          sing-box rule-set compile china-apps.json
-          mv china-apps.srs rules/
+          sing-box rule-set compile china-apps.json -o china-apps.srs
+          mv china-apps.srs "$RULES_DIR/"
 
       # ── 6. doh-ips（IP列表 → JSON → .srs） ──────────────────
       - name: 生成 doh-ips.srs
+        id: doh_ips
+        continue-on-error: true
+        working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
-            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/ips/doh.txt" \
+          curl $CURL_OPTS \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt" \
             -o doh-ips.txt
 
           python3 - <<'EOF'
-          import json
+          import json, sys
 
           ips = []
           with open("doh-ips.txt", encoding="utf-8") as f:
               for line in f:
-                  line = line.strip()
-                  if line and not line.startswith("#"):
+                  line = line.split("#", 1)[0].strip()  # 去掉注释（含行尾注释）
+                  if line:
                       ips.append(line)
+
+          ips = list(dict.fromkeys(ips))
+          if not ips:
+              sys.exit("::error::未提取到任何 IP/CIDR，上游格式可能已变化")
 
           data = {"version": 3, "rules": [{"ip_cidr": ips}]}
           with open("doh-ips.json", "w", encoding="utf-8") as f:
@@ -114,45 +150,77 @@ jobs:
           print(f"[OK] 共提取 {len(ips)} 条 IP/CIDR")
           EOF
 
-          sing-box rule-set compile doh-ips.json
-          mv doh-ips.srs rules/
+          sing-box rule-set compile doh-ips.json -o doh-ips.srs
+          mv doh-ips.srs "$RULES_DIR/"
 
       # ── 7. doh 广告屏蔽（adguard → .srs） ───────────────────
       - name: 生成 doh.srs
+        id: doh
+        continue-on-error: true
+        working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
-            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh.txt" \
+          curl $CURL_OPTS \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt" \
             -o doh.txt
           sing-box rule-set convert --type adguard doh.txt -o doh.srs
-          mv doh.srs rules/
+          mv doh.srs "$RULES_DIR/"
 
       # ── 8. Hagezi Pro 广告屏蔽（adguard → .srs） ─────────────
       - name: 生成 Hagezi-Blocklists-Pro.srs
+        id: hagezi_pro
+        continue-on-error: true
+        working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
-            "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt" \
-            -o "pro.txt"
-          sing-box rule-set convert --type adguard "pro.txt" -o "Hagezi-Blocklists-Pro.srs"
-          mv "Hagezi-Blocklists-Pro.srs" rules/
+          curl $CURL_OPTS \
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt" \
+            -o pro.txt
+          sing-box rule-set convert --type adguard pro.txt -o Hagezi-Blocklists-Pro.srs
+          mv Hagezi-Blocklists-Pro.srs "$RULES_DIR/"
 
-      # ── 9. antiiplookup（hosts/adguard → .srs） ────────────────
+      # ── 9. antiiplookup（adguard → .srs） ────────────────────
       - name: 生成 antiiplookup.srs
+        id: antiiplookup
+        continue-on-error: true
+        working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl --retry 3 --retry-delay 5 -fsSL \
+          curl $CURL_OPTS \
             "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antiiplookup.txt" \
             -o antiiplookup.txt
           sing-box rule-set convert --type adguard antiiplookup.txt -o antiiplookup.srs
-          mv antiiplookup.srs rules/
+          mv antiiplookup.srs "$RULES_DIR/"
 
       # ── 10. 提交并推送到仓库 ──────────────────────────────────
       - name: 提交更新
         run: |
           git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add rules/
           if git diff --cached --quiet; then
             echo "规则文件无变化，跳过提交。"
-          else
-            git commit -m "chore: 自动更新规则集 $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/luwenronghaimei-cpu/luwen-tv.git
+            exit 0
           fi
+          git commit -m "chore: 自动更新规则集 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # 推送前先 rebase，避免运行期间远端有新提交导致推送被拒
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      # ── 11. 汇总构建结果 ──────────────────────────────────────
+      - name: 汇总构建结果
+        if: always()
+        env:
+          STEPS_JSON: ${{ toJSON(steps) }}
+        run: |
+          {
+            echo "### 规则集文件"
+            echo '```'
+            ls -lh "$RULES_DIR"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          failed=$(jq -r 'to_entries[] | select(.value.outcome == "failure") | .key' <<<"$STEPS_JSON" | xargs)
+          if [[ -n "$failed" ]]; then
+            echo "::error::以下规则生成失败（已保留旧版本）: ${failed}"
+            echo "**❌ 失败的规则:** ${failed}" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "**✅ 全部规则生成成功**" >> "$GITHUB_STEP_SUMMARY"
