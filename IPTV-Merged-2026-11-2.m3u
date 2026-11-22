@@ -1,4 +1,319 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="广东",CCTV1综合
+http://218.13.170.98:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="广东",CCTV2财经
+http://218.13.170.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="广东",CCTV3综艺
+http://218.13.170.98:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="" group-title="广东",CCTV4中文国际
+http://218.13.170.98:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="" group-title="广东",CCTV5体育
+http://218.13.170.98:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="" group-title="广东",CCTV6电影
+http://218.13.170.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="" group-title="广东",CCTV7国防军事
+http://218.13.170.98:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="" group-title="广东",CCTV8电视剧
+http://218.13.170.98:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="" group-title="广东",CCTV9纪录
+http://218.13.170.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="" group-title="广东",CCTV10科教
+http://218.13.170.98:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="" group-title="广东",CCTV11戏曲
+http://218.13.170.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="" group-title="广东",CCTV12社会与法
+http://218.13.170.98:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="广东",CCTV13新闻
+http://218.13.170.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="" group-title="广东",CCTV14少儿
+http://218.13.170.98:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="" group-title="广东",CCTV15音乐
+http://218.13.170.98:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV-17农业" tvg-name="CCTV-17农业" tvg-logo="" group-title="广东",CCTV-17农业
+http://218.13.170.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="广东",广东卫视
+http://218.13.170.98:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="" group-title="广东",经济科教
+http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="广东",广东体育
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="" group-title="广东",广东珠江
+http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="广东",湖南卫视
+http://218.13.170.98:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="广东",浙江卫视
+http://218.13.170.98:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="广东",江苏卫视
+http://218.13.170.98:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="广东",北京卫视
+http://218.13.170.98:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="广东",深圳卫视
+http://218.13.170.98:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="广东",黑龙江卫视
+http://218.13.170.98:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="广东",湖北卫视
+http://218.13.170.98:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="广东",天津卫视
+http://218.13.170.98:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="广东",山东卫视
+http://218.13.170.98:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="广东",东方卫视
+http://218.13.170.98:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="广东",辽宁卫视
+http://218.13.170.98:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="广东",四川卫视
+http://218.13.170.98:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="" group-title="广东",重庆卫视
+http://218.13.170.98:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="广东",安徽卫视
+http://218.13.170.98:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="广东",贵州卫视
+http://218.13.170.98:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="福建东南卫视" tvg-name="福建东南卫视" tvg-logo="" group-title="广东",福建东南卫视
+http://218.13.170.98:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="广东",河北卫视
+http://218.13.170.98:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="广东",江西卫视
+http://218.13.170.98:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="广东",吉林卫视
+http://218.13.170.98:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="广东",广西卫视
+http://218.13.170.98:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="广东",陕西卫视
+http://218.13.170.98:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="广东",山西卫视
+http://218.13.170.98:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="广东",内蒙古卫视
+http://218.13.170.98:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="广东",海南卫视
+http://218.13.170.98:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="广东",宁夏卫视
+http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="广东",西藏卫视
+http://218.13.170.98:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="广东",新疆卫视
+http://218.13.170.98:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="广东",甘肃卫视
+http://218.13.170.98:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="广东",兵团卫视
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="" group-title="广东",卡酷动画
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
+http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jade.flv
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="香港",无线新闻台
+http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="" group-title="香港",中天新闻台
+http://128.14.206.166/pull-f5-mptcp.flive.douyincdn.com/live/ztxw.flv
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="" group-title="香港",寰宇新闻台
+http://128.14.206.166/pull-f5-mptcp.flive.douyincdn.com/live/hyxw.flv
+#EXTINF:-1 tvg-id="CM+" tvg-name="CM+" tvg-logo="" group-title="香港",CM+
+http://128.14.206.166/pull-f5-mptcp.flive.douyincdn.com/live/cmt156.flv
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="" group-title="香港",香港卫视
+https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="" group-title="香港",香港卫视
+http://8.138.7.223/tv/hks
+#EXTINF:-1 tvg-id="亚洲卫视" tvg-name="亚洲卫视" tvg-logo="" group-title="香港",亚洲卫视
+http://8.138.7.223/tv/yzws
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="香港",无线新闻台
+http://cc.123.rr.kg/163189/wxxw
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="香港",无线新闻台
+http://cc.123.rr.kg/163189/wxxwt
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="香港",无线新闻台
+http://cdn6.123.rr.kg/163189/wxxw
+#EXTINF:-1 tvg-id="无线新闻台(北美)" tvg-name="无线新闻台(北美)" tvg-logo="" group-title="香港",无线新闻台(北美)
+http://cdn6.123.rr.kg/163189/wxxwt
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="香港",TVB1
+http://cc.123.rr.kg/163189/tvb1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="香港",TVBJ1
+http://cc.123.rr.kg/163189/j1
+#EXTINF:-1 tvg-id="TVB亚洲武侠" tvg-name="TVB亚洲武侠" tvg-logo="" group-title="香港",TVB亚洲武侠
+http://cc.123.rr.kg/163189/yzwx
+#EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="" group-title="香港",TVB娱乐新闻台
+http://cc.123.rr.kg/163189/ylxw
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="" group-title="香港",TVB星河
+http://cc.123.rr.kg/163189/tvbxh
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
+http://cc.123.rr.kg/163189/fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="香港",凤凰资讯
+http://cc.123.rr.kg/163189/fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="香港",凤凰香港
+http://cc.123.rr.kg/163189/fhhk
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="" group-title="香港",华丽翡翠台
+http://cc.123.rr.kg/163189/hlfct
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="" group-title="香港",华丽翡翠台
+http://cc.123.rr.kg/163189/jade
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="香港",无线新闻台
+http://cc.123.rr.kg/163189/wxxw
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="香港",无线新闻台
+http://cc.123.rr.kg/163189/wxxwt
+#EXTINF:-1 tvg-id="翡翠剧" tvg-name="翡翠剧" tvg-logo="" group-title="香港",翡翠剧
+http://cc.123.rr.kg/163189/tvbd
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
+http://cc.123.rr.kg/163189/fct
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="香港",重温经典
+http://cc.123.rr.kg/163189/cwjd
+#EXTINF:-1 tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="" group-title="香港",NOW爆谷
+http://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu.flv
+#EXTINF:-1 tvg-id="NOW星影" tvg-name="NOW星影" tvg-logo="" group-title="香港",NOW星影
+http://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying.flv
+#EXTINF:-1 tvg-id="NOW华剧" tvg-name="NOW华剧" tvg-logo="" group-title="香港",NOW华剧
+http://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju.flv
+#EXTINF:-1 tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="" group-title="香港",NOW爆谷
+rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
+#EXTINF:-1 tvg-id="NOW星影" tvg-name="NOW星影" tvg-logo="" group-title="香港",NOW星影
+rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
+#EXTINF:-1 tvg-id="NOW华剧" tvg-name="NOW华剧" tvg-logo="" group-title="香港",NOW华剧
+rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="香港",凤凰资讯
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="香港",凤凰香港
+http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="香港",中天新闻
+http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="香港",无线新闻台
+http://8.138.7.223/tv/tvbnews
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="香港",凤凰中文
+http://8.138.7.223/tv/fengshows.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="香港",凤凰资讯
+http://8.138.7.223/tv/fengshows.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="香港",凤凰香港
+http://8.138.7.223/tv/fengshows.php?id=fhhk
+#EXTINF:-1 tvg-id="FIGHT" tvg-name="FIGHT" tvg-logo="" group-title="香港",FIGHT
+http://iptv.4666888.xyz/iptv2A.php?id=1
+#EXTINF:-1 tvg-id="sky sports F1" tvg-name="sky sports F1" tvg-logo="" group-title="香港",sky sports F1
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-id="sky sports football" tvg-name="sky sports football" tvg-logo="" group-title="香港",sky sports football
+http://iptv.4666888.xyz/iptv2A.php?id=5
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="" group-title="香港",ALJAZEERA
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="香港",内蒙古卫视
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="香港",青海卫视
+http://iptv.4666888.xyz/iptv2A.php?id=8
+#EXTINF:-1 tvg-id="ELTA体育MAX4" tvg-name="ELTA体育MAX4" tvg-logo="" group-title="香港",ELTA体育MAX4
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 tvg-id="ABC互动英语" tvg-name="ABC互动英语" tvg-logo="" group-title="香港",ABC互动英语
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 tvg-id="ELTA体育2台" tvg-name="ELTA体育2台" tvg-logo="" group-title="香港",ELTA体育2台
+http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1 tvg-id="中视晴彩HD" tvg-name="中视晴彩HD" tvg-logo="" group-title="香港",中视晴彩HD
+http://iptv.4666888.xyz/iptv2A.php?id=13
+#EXTINF:-1 tvg-id="CARTNITO" tvg-name="CARTNITO" tvg-logo="" group-title="香港",CARTNITO
+http://iptv.4666888.xyz/iptv2A.php?id=14
+#EXTINF:-1 tvg-id="靖天中文台" tvg-name="靖天中文台" tvg-logo="" group-title="香港",靖天中文台
+http://iptv.4666888.xyz/iptv2A.php?id=15
+#EXTINF:-1 tvg-id="SCI" tvg-name="SCI" tvg-logo="" group-title="香港",SCI
+http://iptv.4666888.xyz/iptv2A.php?id=16
+#EXTINF:-1 tvg-id="TVB" tvg-name="TVB" tvg-logo="" group-title="香港",TVB
+http://iptv.4666888.xyz/iptv2A.php?id=17
+#EXTINF:-1 tvg-id="CHINA MOVIE" tvg-name="CHINA MOVIE" tvg-logo="" group-title="香港",CHINA MOVIE
+http://iptv.4666888.xyz/iptv2A.php?id=18
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="" group-title="香港",澳视澳门
+http://iptv.4666888.xyz/iptv2A.php?id=19
+#EXTINF:-1 tvg-id="创世电视" tvg-name="创世电视" tvg-logo="" group-title="香港",创世电视
+http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-1 tvg-id="MYTV SUPER" tvg-name="MYTV SUPER" tvg-logo="" group-title="香港",MYTV SUPER
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-id="RHK31" tvg-name="RHK31" tvg-logo="" group-title="香港",RHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="" group-title="香港",黄金华剧台
+http://iptv.4666888.xyz/iptv2A.php?id=24
+#EXTINF:-1 tvg-id="TVB 1" tvg-name="TVB 1" tvg-logo="" group-title="香港",TVB 1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="" group-title="香港",TVB J1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-id="FIGHT" tvg-name="FIGHT" tvg-logo="" group-title="香港",FIGHT
+http://iptv.4666888.xyz/iptv2A.php?id=27
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="" group-title="香港",TVB明珠台
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-id="FIGHT" tvg-name="FIGHT" tvg-logo="" group-title="香港",FIGHT
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 tvg-id="TVB J2" tvg-name="TVB J2" tvg-logo="" group-title="香港",TVB J2
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-id="MYTV SUPER" tvg-name="MYTV SUPER" tvg-logo="" group-title="香港",MYTV SUPER
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 tvg-id="TVB DRAMA" tvg-name="TVB DRAMA" tvg-logo="" group-title="香港",TVB DRAMA
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-id="MYTV SUPER" tvg-name="MYTV SUPER" tvg-logo="" group-title="香港",MYTV SUPER
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="" group-title="香港",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
+#EXTINF:-1 tvg-id="FIGHT" tvg-name="FIGHT" tvg-logo="" group-title="香港",FIGHT
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 tvg-id="festival 4K" tvg-name="festival 4K" tvg-logo="" group-title="香港",festival 4K
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="" group-title="香港",未知频道
+http://iptv.4666888.xyz/iptv2A.php?id=38
+#EXTINF:-1 tvg-id="3频道" tvg-name="3频道" tvg-logo="" group-title="香港",3频道
+http://iptv.4666888.xyz/iptv2A.php?id=39
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="" group-title="香港",CinemaWorld
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="" group-title="香港",Lifetime
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="" group-title="香港",寰宇财经台
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="" group-title="香港",Pet Club TV
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 tvg-id="cna" tvg-name="cna" tvg-logo="" group-title="香港",cna
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 tvg-id="未知频道" tvg-name="未知频道" tvg-logo="" group-title="香港",未知频道
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="" group-title="香港",FOX NEWS
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 tvg-id="mezzo" tvg-name="mezzo" tvg-logo="" group-title="香港",mezzo
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-id="arts" tvg-name="arts" tvg-logo="" group-title="香港",arts
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 tvg-id="时尚运动" tvg-name="时尚运动" tvg-logo="" group-title="香港",时尚运动
+http://iptv.4666888.xyz/iptv2A.php?id=49
+#EXTINF:-1 tvg-id="GiNX" tvg-name="GiNX" tvg-logo="" group-title="香港",GiNX
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 tvg-id="未知财经频道" tvg-name="未知财经频道" tvg-logo="" group-title="香港",未知财经频道
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1 tvg-id="TITV" tvg-name="TITV" tvg-logo="" group-title="香港",TITV
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1 tvg-id="台视财经HD" tvg-name="台视财经HD" tvg-logo="" group-title="香港",台视财经HD
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1 tvg-id="TITV" tvg-name="TITV" tvg-logo="" group-title="香港",TITV
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 tvg-id="rollor" tvg-name="rollor" tvg-logo="" group-title="香港",rollor
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="" group-title="香港",INULTRA
+http://iptv.4666888.xyz/iptv2A.php?id=57
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="" group-title="香港",ELTV生活英语台
+http://iptv.4666888.xyz/iptv2A.php?id=58
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
+https://cdn3.indevs.in/stream/live/jade/
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="香港",明珠台
+https://cdn3.indevs.in/stream/tvb/mzt/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="" group-title="香港",TVB Plus
+https://cdn3.indevs.in/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="" group-title="香港",华丽翡翠台
+https://cdn3.indevs.in/stream/live/hlt/
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="" group-title="香港",千禧经典台
+https://cdn3.indevs.in/stream/live/tvbc/
+#EXTINF:-1 tvg-id="天映经典台" tvg-name="天映经典台" tvg-logo="" group-title="香港",天映经典台
+https://cdn3.indevs.in/stream/live/typd/
+#EXTINF:-1 tvg-id="天映经典台" tvg-name="天映经典台" tvg-logo="" group-title="香港",天映经典台
+https://cdn3.indevs.in/stream/live/ccm/
+#EXTINF:-1 tvg-id="TVB星河频道" tvg-name="TVB星河频道" tvg-logo="" group-title="香港",TVB星河频道
+https://cdn3.indevs.in/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="大愛1" tvg-name="大愛1" tvg-logo="" group-title="香港",大愛1
+rtmp://pulltv1.wanfudaluye.com/live/tv1
+#EXTINF:-1 tvg-id="大愛2" tvg-name="大愛2" tvg-logo="" group-title="香港",大愛2
+rtmp://pulltv2.wanfudaluye.com/live/tv2
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="" group-title="香港",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="" group-title="香港",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="•我的频道",无线新闻台
 http://cc.123.rr.kg/163189/wxxw
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="•我的频道",无线新闻台
