@@ -14,6 +14,9 @@ concurrency:
   group: rules-update
   cancel-in-progress: false
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # 修复 Node.js 版本警告
+
 defaults:
   run:
     shell: bash            # 显式指定后默认带 -eo pipefail，管道中任一命令失败即报错
@@ -26,7 +29,7 @@ jobs:
     env:
       RULES_DIR: ${{ github.workspace }}/rules
       CURL_OPTS: >-
-        -fsSL --retry 5 --retry-delay 5 --retry-all-errors
+        -fsSL --retry 3 --retry-delay 5 --retry-all-errors
         --connect-timeout 15 --max-time 300
 
     steps:
@@ -36,17 +39,92 @@ jobs:
         with:
           token: ${{ secrets.PAT_TOKEN }}   # 用 PAT 检出，后续 git push 自动复用该凭据
 
-      # ── 2. 准备目录 ───────────────────────────────────────────
-      - name: 准备目录
+      # ── 2. 准备目录与公共函数 ─────────────────────────────────
+      - name: 准备目录与公共函数
         run: |
           mkdir -p "$RULES_DIR"
-          # 中间文件放在临时目录，避免污染仓库工作区
-          echo "WORK_DIR=$RUNNER_TEMP/build" >> "$GITHUB_ENV"
-          mkdir -p "$RUNNER_TEMP/build"
+          WORK_DIR="$RUNNER_TEMP/build"   # 中间文件放在临时目录，避免污染仓库工作区
+          mkdir -p "$WORK_DIR"
+          echo "WORK_DIR=$WORK_DIR" >> "$GITHUB_ENV"
+
+          # 公共函数写入 lib.sh，各步骤 source 复用，避免重复粘贴
+          cat > "$WORK_DIR/lib.sh" <<'LIB'
+          # 带回退的下载：GitHub → GitLab 镜像
+          download_hagezi() {
+            local path="$1" output="$2"
+            local github_url="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/${path}"
+            local gitlab_url="https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/${path}"
+            echo "尝试从 GitHub 下载: ${github_url}"
+            if curl $CURL_OPTS "${github_url}" -o "${output}"; then
+              echo "✅ GitHub 下载成功"
+              return 0
+            fi
+            echo "::warning::GitHub 不可用，切换到 GitLab 镜像: ${gitlab_url}"
+            if curl $CURL_OPTS "${gitlab_url}" -o "${output}"; then
+              echo "✅ GitLab 镜像下载成功"
+              return 0
+            fi
+            echo "::error::GitHub 和 GitLab 镜像均不可用: ${path}"
+            return 1
+          }
+
+          # HaGeZi AdBlock 规则 → .srs
+          hagezi_adblock_to_srs() {
+            local path="$1" dst="$2"
+            local tmp="${dst%.srs}.txt"
+            download_hagezi "$path" "$tmp"
+            if [[ ! -s "$tmp" ]]; then
+              echo "::error::下载的文件为空: ${path}"
+              return 1
+            fi
+            sing-box rule-set convert --type adguard "$tmp" -o "$dst"
+            mv "$dst" "$RULES_DIR/"
+          }
+
+          # HaGeZi IP/CIDR 列表 → JSON → .srs
+          hagezi_ips_to_srs() {
+            local path="$1" dst="$2"
+            local tmp="${dst%.srs}.txt"
+            local json_file="${dst%.srs}.json"
+            download_hagezi "$path" "$tmp"
+            python3 - "$tmp" "$json_file" <<'PY'
+          import ipaddress, json, sys
+
+          src, dst = sys.argv[1], sys.argv[2]
+          entries, invalid = [], 0
+          with open(src, encoding="utf-8") as f:
+              for line in f:
+                  for sep in ("#", "!"):
+                      line = line.split(sep, 1)[0]
+                  line = line.strip()
+                  if not line:
+                      continue
+                  try:
+                      # 统一转为标准 CIDR（纯 IP 自动补 /32 或 /128）
+                      entries.append(str(ipaddress.ip_network(line, strict=False)))
+                  except ValueError:
+                      invalid += 1
+
+          entries = list(dict.fromkeys(entries))
+          if not entries:
+              sys.exit(f"::error::{src} 未提取到任何 IP/CIDR，上游格式可能已变化")
+          if invalid:
+              print(f"::warning::{src} 跳过 {invalid} 条无效行")
+
+          data = {"version": 3, "rules": [{"ip_cidr": entries}]}
+          with open(dst, "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print(f"[OK] {src} 共提取 {len(entries)} 条 IP/CIDR")
+          PY
+            sing-box rule-set compile "$json_file" -o "$dst"
+            mv "$dst" "$RULES_DIR/"
+          }
+          LIB
 
       # ── 3. 下载 sing-box ─────────────────────────────────────
       - name: 下载 sing-box
-        working-directory: ${{ runner.temp }}/build
+        working-directory: ${{ env.WORK_DIR }}
         env:
           GH_TOKEN: ${{ github.token }}     # 只读 API 调用，无需 PAT
         run: |
@@ -73,7 +151,7 @@ jobs:
       # 失败的规则保留旧版本，最后在「汇总构建结果」步骤统一报错。
       # 所有产物先在临时目录生成，成功后才 mv 到 rules/，保证不会写入半成品。
 
-      # ── 4. AWAvenue 广告规则（JSON → .srs） ──────────────────
+      # ── 4. AWAvenue 广告规则（国内 App 补充，JSON → .srs） ───
       - name: 生成 AWAvenue-Ads-Rule-Singbox.srs
         id: awavenue
         continue-on-error: true
@@ -85,111 +163,34 @@ jobs:
           sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json -o AWAvenue-Ads-Rule-Singbox.srs
           mv AWAvenue-Ads-Rule-Singbox.srs "$RULES_DIR/"
 
-      # ── 5. china-apps（APP.mutated.yaml → JSON → .srs） ──────
-      - name: 生成 china-apps.srs
-        id: china_apps
-        continue-on-error: true
-        working-directory: ${{ env.WORK_DIR }}
-        run: |
-          curl $CURL_OPTS \
-            "https://raw.githubusercontent.com/mnixry/direct-android-ruleset/rules/@Merged/APP.mutated.yaml" \
-            -o APP.mutated.yaml
-
-          python3 - <<'EOF'
-          import re, json, sys
-
-          pkgs = []
-          with open("APP.mutated.yaml", encoding="utf-8") as f:
-              for line in f:
-                  m = re.match(r'\s*-\s+PROCESS-NAME,([^,#\s]+)', line)
-                  if m:
-                      pkgs.append(m.group(1).strip())
-
-          pkgs = list(dict.fromkeys(pkgs))  # 去重并保持原顺序
-          if not pkgs:
-              sys.exit("::error::未提取到任何包名，上游格式可能已变化")
-
-          data = {"version": 3, "rules": [{"package_name": pkgs}]}
-          with open("china-apps.json", "w", encoding="utf-8") as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
-
-          print(f"[OK] 共提取 {len(pkgs)} 个包名")
-          EOF
-
-          sing-box rule-set compile china-apps.json -o china-apps.srs
-          mv china-apps.srs "$RULES_DIR/"
-
-      # ── 6. doh-ips（IP列表 → JSON → .srs） ──────────────────
-      - name: 生成 doh-ips.srs
-        id: doh_ips
-        continue-on-error: true
-        working-directory: ${{ env.WORK_DIR }}
-        run: |
-          curl $CURL_OPTS \
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt" \
-            -o doh-ips.txt
-
-          python3 - <<'EOF'
-          import json, sys
-
-          ips = []
-          with open("doh-ips.txt", encoding="utf-8") as f:
-              for line in f:
-                  line = line.split("#", 1)[0].strip()  # 去掉注释（含行尾注释）
-                  if line:
-                      ips.append(line)
-
-          ips = list(dict.fromkeys(ips))
-          if not ips:
-              sys.exit("::error::未提取到任何 IP/CIDR，上游格式可能已变化")
-
-          data = {"version": 3, "rules": [{"ip_cidr": ips}]}
-          with open("doh-ips.json", "w", encoding="utf-8") as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
-
-          print(f"[OK] 共提取 {len(ips)} 条 IP/CIDR")
-          EOF
-
-          sing-box rule-set compile doh-ips.json -o doh-ips.srs
-          mv doh-ips.srs "$RULES_DIR/"
-
-      # ── 7. doh 广告屏蔽（adguard → .srs） ───────────────────
-      - name: 生成 doh.srs
-        id: doh
-        continue-on-error: true
-        working-directory: ${{ env.WORK_DIR }}
-        run: |
-          curl $CURL_OPTS \
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt" \
-            -o doh.txt
-          sing-box rule-set convert --type adguard doh.txt -o doh.srs
-          mv doh.srs "$RULES_DIR/"
-
-      # ── 8. Hagezi Pro 广告屏蔽（adguard → .srs） ─────────────
+      # ── 5. HaGeZi Multi PRO（主力去广告/追踪/诈骗/弹窗） ─────
       - name: 生成 Hagezi-Blocklists-Pro.srs
         id: hagezi_pro
         continue-on-error: true
         working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl $CURL_OPTS \
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt" \
-            -o pro.txt
-          sing-box rule-set convert --type adguard pro.txt -o Hagezi-Blocklists-Pro.srs
-          mv Hagezi-Blocklists-Pro.srs "$RULES_DIR/"
+          source lib.sh
+          hagezi_adblock_to_srs "adblock/pro.txt" "Hagezi-Blocklists-Pro.srs"
 
-      # ── 9. antiiplookup（adguard → .srs） ────────────────────
-      - name: 生成 antiiplookup.srs
-        id: antiiplookup
+      # ── 6. HaGeZi DoH 域名（防止绕过本地 DNS） ───────────────
+      - name: 生成 doh.srs
+        id: doh
         continue-on-error: true
         working-directory: ${{ env.WORK_DIR }}
         run: |
-          curl $CURL_OPTS \
-            "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antiiplookup.txt" \
-            -o antiiplookup.txt
-          sing-box rule-set convert --type adguard antiiplookup.txt -o antiiplookup.srs
-          mv antiiplookup.srs "$RULES_DIR/"
+          source lib.sh
+          hagezi_adblock_to_srs "adblock/doh.txt" "doh.srs"
 
-      # ── 10. 提交并推送到仓库 ──────────────────────────────────
+      # ── 7. HaGeZi DoH IPs（防止绕过本地 DNS） ────────────────
+      - name: 生成 doh-ips.srs
+        id: doh_ips
+        continue-on-error: true
+        working-directory: ${{ env.WORK_DIR }}
+        run: |
+          source lib.sh
+          hagezi_ips_to_srs "ips/doh.txt" "doh-ips.srs"
+
+      # ── 8. 提交并推送到仓库 ───────────────────────────────────
       - name: 提交更新
         run: |
           git config user.name  "github-actions[bot]"
@@ -204,16 +205,16 @@ jobs:
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
-      # ── 11. 汇总构建结果 ──────────────────────────────────────
+      # ── 9. 汇总构建结果 ───────────────────────────────────────
       - name: 汇总构建结果
         if: always()
         env:
           STEPS_JSON: ${{ toJSON(steps) }}
         run: |
           {
-            echo "### 规则集文件"
+            echo "### SingBox 规则集文件"
             echo '```'
-            ls -lh "$RULES_DIR"
+            ls -lh "$RULES_DIR"/*.srs 2>/dev/null || echo "(无)"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
